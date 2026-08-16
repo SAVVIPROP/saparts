@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "hong-kong",
+    "name": "Hong Kong",
+    "country": "Hong Kong SAR",
+    "region": "Asia-Pacific",
+    "tagline": "A dynamic nexus of global finance and vibrant culture, offering unparalleled luxury living.",
+    "currency": "HKD",
+    "launch": true
+  },
+  {
+    "slug": "london",
+    "name": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "tagline": "A global capital of commerce and culture, offering an unparalleled blend of historic prestige and modern dynamism.",
+    "currency": "GBP",
+    "launch": true
+  },
+  {
+    "slug": "new-york",
+    "name": "New York",
+    "country": "United States",
+    "region": "Americas",
+    "tagline": "The definitive global capital of commerce, culture, and uncompromising ambition.",
+    "currency": "USD",
+    "launch": true
+  },
+  {
+    "slug": "paris",
+    "name": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "tagline": "A masterclass in understated elegance, where historic grandeur meets contemporary refinement.",
+    "currency": "EUR",
+    "launch": true
+  },
+  {
+    "slug": "singapore",
+    "name": "Singapore",
+    "country": "Singapore",
+    "region": "Asia-Pacific",
+    "tagline": "A meticulously planned city-state where tropical garden living meets global finance.",
+    "currency": "SGD",
+    "launch": true
+  },
+  {
+    "slug": "dubai",
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "region": "Middle East & Africa",
+    "tagline": "A nexus of global commerce and understated luxury, where modern ambition meets refined living.",
+    "currency": "AED",
+    "launch": true
+  },
+  {
+    "slug": "tokyo",
+    "name": "Tokyo",
+    "country": "Japan",
+    "region": "Asia-Pacific",
+    "tagline": "A city of quiet precision, where centuries of craft meet the world's most exacting hospitality.",
+    "currency": "JPY",
+    "launch": true
+  },
+  {
+    "slug": "sydney",
+    "name": "Sydney",
+    "country": "Australia",
+    "region": "Oceania",
+    "tagline": "",
+    "currency": "AUD",
+    "launch": false
+  },
+  {
+    "slug": "melbourne",
+    "name": "Melbourne",
+    "country": "Australia",
+    "region": "Oceania",
+    "tagline": "",
+    "currency": "AUD",
+    "launch": false
+  },
+  {
+    "slug": "shanghai",
+    "name": "Shanghai",
+    "country": "China",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "CNY",
+    "launch": false
+  },
+  {
+    "slug": "seoul",
+    "name": "Seoul",
+    "country": "South Korea",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "KRW",
+    "launch": false
+  },
+  {
+    "slug": "amsterdam",
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "region": "Europe",
+    "tagline": "",
+    "currency": "EUR",
+    "launch": false
+  },
+  {
+    "slug": "berlin",
+    "name": "Berlin",
+    "country": "Germany",
+    "region": "Europe",
+    "tagline": "",
+    "currency": "EUR",
+    "launch": false
+  },
+  {
+    "slug": "los-angeles",
+    "name": "Los Angeles",
+    "country": "United States",
+    "region": "Americas",
+    "tagline": "",
+    "currency": "USD",
+    "launch": false
+  },
+  {
+    "slug": "toronto",
+    "name": "Toronto",
+    "country": "Canada",
+    "region": "Americas",
+    "tagline": "",
+    "currency": "CAD",
+    "launch": false
+  }
+]

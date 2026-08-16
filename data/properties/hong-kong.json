@@ -1,0 +1,2453 @@
+[
+  {
+    "slug": "four-seasons-place-central-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Four Seasons Place",
+    "brand": "Four Seasons Place / Signature Homes",
+    "category": "Serviced Apartment",
+    "tagline": "519 designer suites atop Hong Kong Station, with Four Seasons-affiliated service in the IFC complex.",
+    "description": "Four Seasons Place is Hong Kong’s landmark luxury suite hotel and serviced apartment, jointly developed by Sun Hung Kai Properties and Henderson Land and affiliated with the Four Seasons Hotel brand. It sits atop the IFC complex and MTR Hong Kong Station in Central, with 519 furnished suites designed by Yabu Pushelberg and Bilkey Llinas Design, from studios to three-bedroom suites and penthouses. The 59/F Sky Lounge, heated rooftop pool, jacuzzi and 24-hour gym sit above Victoria Harbour; monthly rents published on the official May 2026 fact sheet include management fee, rates, utilities, kitchenette, housekeeping and linen. Short stays of a few days and weekly stays are also offered alongside 1–12 month contracts.",
+    "neighborhood": "Central",
+    "address": "8 Finance Street, Central, Hong Kong",
+    "latitude": 22.284098,
+    "longitude": 114.15892,
+    "heroImageUrl": "https://www.fsphk.com/images/four-seasons-place-serviced-apartment-bedroom.jpg",
+    "imageUrls": [
+      "https://www.fsphk.com/images/four-seasons-place-serviced-apartment-bedroom.jpg",
+      "https://www.fsphk.com/images/suite-studio-0.jpg",
+      "https://www.fsphk.com/images/suite-studio-1.jpg",
+      "https://www.fsphk.com/images/suite-studio-2.jpg",
+      "https://www.fsphk.com/images/lifestyle-0.jpg",
+      "https://www.fsphk.com/images/lifestyle-3.jpg",
+      "https://www.fsphk.com/images/f-0.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "24-hour concierge",
+      "Heated rooftop pool",
+      "Jacuzzi",
+      "24-hour gym",
+      "Sky Lounge (59/F)",
+      "In-room kitchenette",
+      "Washer-dryer in suite",
+      "Housekeeping",
+      "Kids playroom",
+      "Meeting room",
+      "Reading room",
+      "Laundromat",
+      "In-room dining",
+      "Airport Express / Hong Kong Station access"
+    ],
+    "minStayNights": 1,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "Official fact sheet (updated May 2026): monthly HK$54,600–HK$280,000 inclusive of management fee, government rates, electricity, water, air-conditioning, local calls, kitchenette, cutlery, housekeeping and linen. Daily rates not published. USD converted at HKD 7.80.",
+    "bookingUrl": "https://www.fsphk.com/en/index.html",
+    "officialUrl": "https://www.fsphk.com/en/index.html",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=2m7JQ1D963d",
+    "videoUrls": [
+      "https://www.fsphk.com/video/4seng1.mp4"
+    ],
+    "layoutUrls": [
+      "https://www.fsphk.com/images/floorplan-studios-27.png",
+      "https://www.fsphk.com/images/floorplan-studios-35.png"
+    ],
+    "operatorGroup": "Sun Hung Kai Properties / Henderson Land (Signature Homes)",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "pacific-place-apartments-admiralty-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Pacific Place Apartments",
+    "brand": "Pacific Place Apartments / Swire Properties",
+    "category": "Serviced Apartment",
+    "tagline": "Swire’s 268 oversized Admiralty residences, from 1,220 to 2,650 sq ft, above the MTR interchange.",
+    "description": "Pacific Place Apartments is Swire Properties’ flagship serviced residence inside the Pacific Place mixed-use complex at 88 Queensway, Admiralty. Official Swire and Upper House pages list 268 (Swire current) fully serviced one-, two- and three-bedroom suites of 1,220–2,650 sq ft with harbour, city or Hong Kong Park views, Contemporary or Oriental interiors, and complimentary access to the adjoining Conrad Hong Kong outdoor pool and 24-hour fitness centre. Leases are a minimum of one month. Guest Experience is managed with The Upper House team. No public operator tariff is published.",
+    "neighborhood": "Admiralty",
+    "address": "Pacific Place, 88 Queensway, Admiralty, Hong Kong",
+    "latitude": 22.277203,
+    "longitude": 114.164467,
+    "heroImageUrl": "http://ppa.whitespace.hk/img/bedroom_1.jpg",
+    "imageUrls": [
+      "http://ppa.whitespace.hk/img/bedroom_1.jpg",
+      "http://ppa.whitespace.hk/img/bedroom_2.jpg",
+      "http://ppa.whitespace.hk/img/bedroom_3.jpg",
+      "http://ppa.whitespace.hk/img/bedroom_4.jpg",
+      "http://ppa.whitespace.hk/img/bedroom_5.jpg",
+      "http://ppa.whitespace.hk/img/bedroom_6.jpg",
+      "https://edge.sitecorecloud.io/swirehotels1-swirehotels-production-ebf6/media/Project/Upper-House/upper-house/hongkong/Images/menu/apartments.jpg?h=2000&iar=0&w=3000"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Multilingual Guest Experience / concierge",
+      "Housekeeping 7 days a week",
+      "Outdoor swimming pool (Conrad Hong Kong)",
+      "24-hour fitness centre (Conrad Hong Kong)",
+      "Full kitchen (most suites)",
+      "Connected to Admiralty MTR",
+      "Pacific Place mall, hotels and Hong Kong Park"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.upperhouse.com/en/hongkong/pacific-place-apartments/",
+    "officialUrl": "https://www.upperhouse.com/en/hongkong/pacific-place-apartments/",
+    "virtualTourUrl": "https://viewer.panoskin.com/?tour=606de1779a916d7dd8e9ba80",
+    "videoUrls": [
+      "http://ppa.whitespace.hk/en/apartment-video.shtml"
+    ],
+    "layoutUrls": [
+      "http://ppa.whitespace.hk/img/en/floorPlan_ENG1Rm.jpg",
+      "http://ppa.whitespace.hk/img/en/furnitureLayoutplan_EN_00.jpg"
+    ],
+    "operatorGroup": "Swire Properties / Swire Hotels (The Upper House)",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "k11-artus-tsim-sha-tsui-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "K11 ARTUS",
+    "brand": "K11 ARTUS / Rosewood Hotel Group",
+    "category": "Residence",
+    "tagline": "Asia’s first artisanal-home concept above K11 MUSEA, with harbour balconies and Rosewood-complex service.",
+    "description": "K11 ARTUS is New World / K11’s ultra-luxury residence at Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, sitting above K11 MUSEA and forming part of the Rosewood Hong Kong complex. Official pages describe 287 residences (Rosewood site) across studio, one-bedroom, one-bedroom plus study, two-bedroom, three-bedroom and three designer penthouses, most with wrap-around balconies and harbour or city views. Interiors include Miele / Gorenje kitchens, washer-dryer combos and hotel-grade service; shared spaces include The Living Salon, a 25 m outdoor infinity pool, gym, library and Victoria Café. Official rates are by quotation only.",
+    "neighborhood": "Tsim Sha Tsui",
+    "address": "Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+    "latitude": 22.293893,
+    "longitude": 114.173837,
+    "heroImageUrl": "https://www.artus.com.hk/media/images/common/meta_share/share-1.jpg",
+    "imageUrls": [
+      "https://www.artus.com.hk/media/images/common/meta_share/share-1.jpg",
+      "https://www.artus.com.hk/media/images/residences/gallery/photo_studio-04.jpg",
+      "https://www.artus.com.hk/media/images/residences/thumbnail/thumbnail_studio.jpg",
+      "https://www.artus.com.hk/media/images/residences/thumbnail/thumbnail_one-bedroom.jpg",
+      "https://www.artus.com.hk/media/images/residences/thumbnail/thumbnail_two-bedroom.jpg",
+      "https://www.artus.com.hk/media/images/inspiration/facilities/photo_the-pool_home.jpg",
+      "https://www.artus.com.hk/media/images/inspiration/facilities/photo_the-living-salon_home.jpg",
+      "https://www.artus.com.hk/media/images/inspiration/facilities/photo_the-gym_home.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "25 m outdoor infinity pool",
+      "Gym",
+      "The Living Salon",
+      "The Library",
+      "Victoria Café",
+      "Private balcony (most residences)",
+      "Semi-open kitchen",
+      "Washer-dryer combo",
+      "In-room safe",
+      "Free Wi-Fi",
+      "Housekeeping",
+      "Direct link to Tsim Sha Tsui MTR (Exit J2)"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.artus.com.hk/en",
+    "officialUrl": "https://www.artus.com.hk/en",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=kFRNZfGSfAV",
+    "videoUrls": [
+      "https://www.youtube.com/@k11artus11"
+    ],
+    "layoutUrls": [],
+    "operatorGroup": "K11 / New World Development (part of Rosewood Hong Kong complex)",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "rosewood-residences-tsim-sha-tsui-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Rosewood Residences Hong Kong",
+    "brand": "Rosewood Hotels & Resorts",
+    "category": "Residence",
+    "tagline": "186 Tony Chi residences and duplexes above Victoria Harbour, with private Club 53 and hotel privileges.",
+    "description": "Rosewood Residences occupy the upper floors of Rosewood Hong Kong at Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui. The official residences page and press fact sheet describe 186 ultra-luxury studios, one- and two-bedroom apartments and three-bedroom duplexes designed by Tony Chi, with Miele kitchenettes, daily housekeeping (except Sundays and public holidays), Club 53 lifestyle lounge, indoor heated pool and 24-hour fitness studios. One-bedroom units and above have semi-private lift access. The property is pet-friendly. Official rates are by enquiry only.",
+    "neighborhood": "Tsim Sha Tsui",
+    "address": "Rosewood Hong Kong, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+    "latitude": 22.2947,
+    "longitude": 114.175806,
+    "heroImageUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/hong-kong/en/images/overview/rwhkg-asaya-pool-3.jpg",
+    "imageUrls": [
+      "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/hong-kong/en/images/overview/rwhkg-asaya-pool-3.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Club 53 private lounge",
+      "Indoor heated swimming pool",
+      "24-hour fitness studios",
+      "Daily housekeeping (except Sundays and public holidays)",
+      "24-hour concierge",
+      "In-room dining",
+      "Miele kitchenette",
+      "Complimentary laundry room",
+      "Pet-friendly",
+      "Priority Asaya spa and restaurant reservations",
+      "Parking on request"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.rosewoodhotels.com/en/hong-kong/residences/request-more-information",
+    "officialUrl": "https://www.rosewoodhotels.com/en/hong-kong/residences",
+    "virtualTourUrl": "https://www.panomatics.com/virtualtours/hk/rosewoodhongkong/index.html?startscene=154",
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Rosewood Hotel Group",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-repulse-bay-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Repulse Bay",
+    "brand": "The Repulse Bay / The Hongkong and Shanghai Hotels",
+    "category": "Residence",
+    "tagline": "Peninsula-group oceanfront apartments on the old Repulse Bay Hotel site, 15 minutes from Central.",
+    "description": "The Repulse Bay is owned and operated by The Hongkong and Shanghai Hotels, Limited (The Peninsula Hotels). On the former Repulse Bay Hotel site at Hong Kong’s Southside, it offers luxury serviced and unfurnished apartments with sea views, a shopping arcade, restaurants and The Club. The official de Ricou serviced-apartment page publishes 1,735–3,409 sq ft furnished homes with flexible leases from one month, housekeeping, linen and valet laundry. Wider complex apartments are described as 1,000–6,000 sq ft on SA/HK; only the official de Ricou range is used here as a verified serviced product. Daily shuttle to Central and Ocean Park MTR is published on the SA/HK listing citing the operator. Official rates are on request.",
+    "neighborhood": "Repulse Bay / Southside",
+    "address": "109 Repulse Bay Road, Hong Kong",
+    "latitude": 22.237795,
+    "longitude": 114.19942,
+    "heroImageUrl": "https://www.therepulsebay.com/-/media/trb/01_apartments/01_landing/serviceapartment1.jpg",
+    "imageUrls": [
+      "https://www.therepulsebay.com/-/media/trb/01_apartments/01_landing/serviceapartment1.jpg",
+      "https://www.therepulsebay.com/-/media/trb/01_apartments/02_de-ricou-serviced-apartments/apartment_enquiry.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "The Club (indoor and outdoor pools, fitness)",
+      "Housekeeping, linen and valet laundry (serviced)",
+      "24-hour security",
+      "Covered car park",
+      "Shopping arcade and restaurants",
+      "Shuttle (Central / Ocean Park MTR — published on SA/HK citing operator)",
+      "Beach and Southside schools nearby"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.therepulsebay.com/en/luxury-apartments-hong-kong/de-ricou-serviced-apartments",
+    "officialUrl": "https://www.therepulsebay.com/en/luxury-apartments-hong-kong",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "The Hongkong and Shanghai Hotels, Limited",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "lanson-place-causeway-bay-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Lanson Place Causeway Bay",
+    "brand": "Lanson Place",
+    "category": "Aparthotel",
+    "tagline": "Pierre-Yves Rochon redesign on Leighton Road: 188 rooms, kitchenette residences and two-bedroom penthouses.",
+    "description": "Lanson Place Causeway Bay is the brand’s Hong Kong flagship at 133 Leighton Road, a 188-key luxury hotel and serviced-apartment hybrid redesigned by Pierre-Yves Rochon. The official fact sheet lists guest rooms through studio residences, one-bedroom residences and penthouses of 380–2,000 sq ft, with kitchenettes, washer-dryer and dishwasher on selected types. Long-stay packages add twice-weekly linen, 24-hour fitness, monthly wellness classes and breakfast-on-the-go. Facilities include Salon Lanson, L’Orangerie, Le Papillon, meeting rooms and a laundry room. Daily hotel booking is available; published long-stay rates are not on the official site.",
+    "neighborhood": "Causeway Bay",
+    "address": "133 Leighton Road, Causeway Bay, Hong Kong",
+    "latitude": 22.278624,
+    "longitude": 114.186713,
+    "heroImageUrl": "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/LPHK_Room1609-0114.jpg",
+    "imageUrls": [
+      "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/LPHK_Room1609-0114.jpg",
+      "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/LPHK_Room1502-0020-HDR-3.jpg",
+      "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/01-Penthouse-2-Bedrooms_Second-Bedroom.jpeg",
+      "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/Lanson_Place_Causeway_Bay_Hong_Kong_Orangerie.jpeg",
+      "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/Gym-Factilities.jpeg",
+      "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/DF3FC4E9-87EA-409D-AB82-86B834AAF70F_1_201_a.jpeg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "24-hour reception",
+      "24-hour fitness centre",
+      "Salon Lanson restaurant and bar",
+      "L’Orangerie",
+      "In-room dining",
+      "Concierge",
+      "Kitchenette (selected types)",
+      "Washer-dryer (selected types)",
+      "Meeting rooms",
+      "Laundry room",
+      "Limousine service"
+    ],
+    "minStayNights": 1,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://lansonplace.com/causewaybay",
+    "officialUrl": "https://lansonplace.com/causewaybay",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Lanson Place Hospitality Management",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "one-central-place-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "One Central Place",
+    "brand": "Sino Group / Sino Residential",
+    "category": "Residence",
+    "tagline": "Brand-new Sino designer apartments on Gage Street, with concierge and twice-weekly housekeeping.",
+    "description": "One Central Place is Sino Group’s new Central residence at 33 Gage Street, marketed for lease as prestigious 1–3 bedroom designer apartments with premium concierge, twice-weekly housekeeping, maintenance and the Sino Living app. Official Sino Residential pages publish saleable floor area of 383–992 sq ft, WELL Core Gold and BEAM Plus Final Gold, plus Garden Theatre, Conservatory, Garden and Gym. A 360° virtual tour and floor-plan downloads are offered on the leasing page (direct tour URL not exposed as a standalone public link). Flexible leasing; no public tariff.",
+    "neighborhood": "Central / SoHo",
+    "address": "33 Gage Street, Central, Hong Kong",
+    "latitude": 22.282948,
+    "longitude": 114.153656,
+    "heroImageUrl": "https://www.sino-residential.com/cache/img/82a2ed2b6d04dd812a545d5960096023.jpg",
+    "imageUrls": [
+      "https://www.sino-residential.com/cache/img/82a2ed2b6d04dd812a545d5960096023.jpg",
+      "https://www.sino-residential.com/cache/img/a299de8c830059476788544f4814886f.jpg",
+      "https://www.sino-residential.com/cache/img/2954a7b136298057e7c0ebece5dbf0dc.jpg",
+      "https://www.sino-residential.com/cache/img/916d00bc74cdc9fd25a191f934cdec8f.jpg",
+      "https://www.sino-residential.com/cache/img/c22e3a04455467f06911cd050a7fd663.jpg",
+      "https://www.sino-residential.com/cache/img/f021db4bb04d72e03de3d9c7e438b9fc.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Concierge",
+      "Housekeeping twice a week",
+      "The Gym",
+      "The Garden",
+      "Garden Theatre",
+      "The Conservatory",
+      "Sino Living app",
+      "Maintenance services",
+      "Walk to Central MTR and Mid-Levels Escalator"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.sino-residential.com/en/homes/detail/101",
+    "officialUrl": "https://www.sino-residential.com/en/homes/detail/101",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [
+      "https://www.sino-residential.com/upload/home/101/leaflet1/697c7febb7428.pdf"
+    ],
+    "operatorGroup": "Sino Group",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "hong-kong-parkview-tai-tam",
+    "citySlug": "hong-kong",
+    "name": "Hong Kong Parkview",
+    "brand": "Hong Kong Parkview",
+    "category": "Serviced Apartment",
+    "tagline": "Iconic Tai Tam Country Park club-estate: published monthly suites from HK$35,000, with Matterport tours.",
+    "description": "Hong Kong Parkview at 88 Tai Tam Reservoir Road is the city’s original luxury serviced-apartment and private-club estate, set in Tai Tam Country Park about 15 minutes from Central. Official pages publish a full suite ladder — Standard Room 254–336 sq ft at HK$35,000 through Connecting Suite 2,010 sq ft at HK$149,000–$164,000 — inclusive of management fee, government rates and utilities, with club membership, maid service and access to indoor/outdoor pools, fitness, playrooms and dining. Stays run from one month to two years. Multiple official Matterport tours are embedded on the serviced-apartment page. Pet-friendly suites are published from HK$90,000.",
+    "neighborhood": "Tai Tam / Wong Nai Chung Gap",
+    "address": "88 Tai Tam Reservoir Road, Hong Kong",
+    "latitude": 22.25784,
+    "longitude": 114.197595,
+    "heroImageUrl": "https://hongkongparkview.com/wp-content/uploads/2023/11/serviced-suites-executive-living-room-e1516940909249.jpeg",
+    "imageUrls": [
+      "https://hongkongparkview.com/wp-content/uploads/2023/11/serviced-suites-executive-living-room-e1516940909249.jpeg",
+      "https://hongkongparkview.com/wp-content/uploads/2023/11/Family-Suite.jpg",
+      "https://hongkongparkview.com/wp-content/uploads/2023/11/Business-Suite.jpg",
+      "https://hongkongparkview.com/wp-content/uploads/2023/11/studio-room.jpg",
+      "https://hongkongparkview.com/wp-content/uploads/2023/10/Standard-room-parkview.jpg",
+      "https://hongkongparkview.com/wp-content/uploads/2024/10/family-suite.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Private club membership",
+      "Indoor and outdoor swimming pools",
+      "Fitness centre",
+      "Themed playrooms",
+      "Dining outlets",
+      "Maid / housekeeping",
+      "Kitchenette (suite types)",
+      "Shuttle bus",
+      "24-hour security",
+      "Parking",
+      "Pet-friendly suites",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "Official serviced-apartment page publishes HKD monthly from-rates as listed in unitMix. Inclusive of management fee, government rate and utilities. USD at HKD 7.80.",
+    "bookingUrl": "https://hongkongparkview.com/contact-us/",
+    "officialUrl": "https://hongkongparkview.com/serviced-apartment/",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=StKqzQiCrwz",
+    "videoUrls": [
+      "https://www.youtube.com/channel/UCi6FUcspQ-Q1rDqmdNSn_lg"
+    ],
+    "layoutUrls": [],
+    "operatorGroup": "Hong Kong Parkview (Chyau Fwu Group)",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "little-tai-hang-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Little Tai Hang",
+    "brand": "Little Tai Hang",
+    "category": "Serviced Apartment",
+    "tagline": "Three design houses on Tung Lo Wan Road — boutique hotel nights and longer serviced stays over Victoria Park.",
+    "description": "Little Tai Hang is a cluster of three buildings — The Corner House, The Lane House and The Garden House — at 98 Tung Lo Wan Road in Tai Hang, between Causeway Bay and Tin Hau. Official pages offer hotel booking for short stays and a serviced-apartment desk (+852 3899 8800) for longer lets. Published types run from garden-view studios to harbour-view one- and two-bedrooms and a penthouse with terrace. Verified official sizes include Studio Luxury Partial/Harbour View at 512–533 sq ft gross and Garden House One-Bedroom Premium Garden View at 840 sq ft gross. This is the design-led alternative to mall-podium towers, not a hotel-brand residence.",
+    "neighborhood": "Tai Hang",
+    "address": "98 Tung Lo Wan Road, Tai Hang, Hong Kong",
+    "latitude": 22.278632,
+    "longitude": 114.190476,
+    "heroImageUrl": "https://www.littletaihang.com/wp-content/uploads/2020/01/Studio-Luxury-Harbour-View.jpg",
+    "imageUrls": [
+      "https://www.littletaihang.com/wp-content/uploads/2020/01/Studio-Luxury-Harbour-View.jpg",
+      "https://www.littletaihang.com/wp-content/uploads/2019/04/little-tai-hang-the-corner-house-thumbnail.jpg",
+      "https://www.littletaihang.com/wp-content/uploads/2022/12/The-Lane-House_Harbour-View_Horizontal-1-1024x740.jpg",
+      "https://www.littletaihang.com/wp-content/uploads/2020/11/The-Garden-House_One-BR-Harbour-View_Living-Room-1024x683.jpg",
+      "https://www.littletaihang.com/wp-content/uploads/2020/01/Studio-Standard-Garden-View.jpg",
+      "https://www.littletaihang.com/wp-content/uploads/2020/01/One-Bedroom-Standard-Harbour-View-Room-03.jpg",
+      "https://www.littletaihang.com/wp-content/uploads/2019/04/little-taihang-room.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "Complimentary Wi-Fi",
+      "Kitchen / pantry",
+      "Washer-dryer (selected one-bedrooms)",
+      "On-site dining",
+      "Neighbourhood / Victoria Park setting",
+      "24-hour service (published on Find Us)"
+    ],
+    "minStayNights": 1,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.littletaihang.com/",
+    "officialUrl": "https://www.littletaihang.com/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [
+      "https://www.littletaihang.com/wp-content/uploads/2020/03/Studio-Luxury-PartialFull-Harbour-View-floorplan.png",
+      "https://www.littletaihang.com/wp-content/uploads/2020/03/Studio-Standard-Garden-View-floorplan.png"
+    ],
+    "operatorGroup": "Little Tai Hang",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-harbourview-place-kowloon-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The HarbourView Place",
+    "brand": "The HarbourView Place / Signature Homes",
+    "category": "Serviced Apartment",
+    "tagline": "SHKP’s 266 suites on floors 50–70 of The Cullinan II, above Kowloon Station and ICC.",
+    "description": "The HarbourView Place is Signature Homes’ (Sun Hung Kai Properties) luxury suite hotel and serviced apartment on the 50th–70th floors of The Cullinan II at 1 Austin Road West, in the ICC megalopolis above MTR Kowloon Station and the Airport Express. Official materials list 266 suites from studio to three-bedroom and presidential, 464–1,623 sf GFA on the May 2025 fact sheet (HKHA notes presidential suites up to 3,270 sf). The 76/F rooftop heated pool and jacuzzi, gym and lounge sit over the harbour. Published monthly range HK$39,500–HK$154,100 inclusive of management fee, rates, utilities, kitchenette, housekeeping and linen. Contract term 1–12 months; a short-stay package is also offered.",
+    "neighborhood": "West Kowloon / Kowloon Station",
+    "address": "1 Austin Road West, Kowloon, Hong Kong",
+    "latitude": 22.303379,
+    "longitude": 114.160226,
+    "heroImageUrl": "https://www.harbourviewplace.com/en/images/hero.jpg",
+    "imageUrls": [
+      "https://www.harbourviewplace.com/en/images/hero.jpg",
+      "https://www.harbourviewplace.com/en/images/studio-s.jpg",
+      "https://www.harbourviewplace.com/en/images/1bed-s.jpg",
+      "https://www.harbourviewplace.com/en/images/2bed-s.jpg",
+      "https://www.harbourviewplace.com/en/images/3bed-s.jpg",
+      "https://www.harbourviewplace.com/en/images/img-pool.jpg",
+      "https://www.harbourviewplace.com/en/images/img-health-club.jpg",
+      "https://www.harbourviewplace.com/en/images/img-lounge.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Rooftop heated pool and jacuzzi (76/F)",
+      "Gymnasium",
+      "Lounge / health club",
+      "24-hour concierge",
+      "Housekeeping twice weekly",
+      "In-room kitchenette",
+      "Washer-dryer",
+      "Reading area",
+      "Laundromat (charged)",
+      "Kowloon Station / Airport Express / High Speed Rail access"
+    ],
+    "minStayNights": 1,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "Official fact sheet (updated May 2025): monthly HK$39,500–HK$154,100. Daily rates not published on the operator fact sheet. USD at HKD 7.80.",
+    "bookingUrl": "https://www.harbourviewplace.com/en/",
+    "officialUrl": "https://www.harbourviewplace.com/en/",
+    "virtualTourUrl": null,
+    "videoUrls": [
+      "https://www.harbourviewplace.com/en/images/hvp_en.mp4",
+      "https://www.youtube.com/user/TheHarbourViewPlace"
+    ],
+    "layoutUrls": [
+      "https://www.harbourviewplace.com/en/images/floor-plan.png"
+    ],
+    "operatorGroup": "Sun Hung Kai Properties (Signature Homes)",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "ascott-north-point-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Ascott North Point Hong Kong",
+    "brand": "Ascott The Residence",
+    "category": "Serviced Apartment",
+    "tagline": "The Ascott Limited’s 116-apartment Hong Kong flagship on Java Road, 190 m from North Point MTR.",
+    "description": "Ascott North Point Hong Kong is The Ascott Limited’s current Hong Kong flagship: 116 apartments from Standard Room (16 sqm / 172 sqft) to One-Bedroom Premier Suite (50 sqm / 538 sqft) at 67–75 Java Road, beside Victoria Harbour and about 190 m from North Point MTR Exit A1. Official pages list 24-hour reception, daily housekeeping, high-speed Wi-Fi, gym, multi-purpose conference room and GSTC sustainability certification. Short stays (under 30 nights) and mid-to-long stays (30+ nights) are both offered. Nightly “from” prices on the official booking engine are dynamic and were not captured as a static published number.",
+    "neighborhood": "North Point",
+    "address": "67-75 Java Road, North Point, Hong Kong",
+    "latitude": 22.292114,
+    "longitude": 114.198242,
+    "heroImageUrl": "https://www.discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/apartmenttypes/overview/CN-HongKong-ANPHK-Entrance-2024-LR-2880x672.jpg.transform/ascott-highres/image.jpg",
+    "imageUrls": [
+      "https://www.discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/apartmenttypes/overview/CN-HongKong-ANPHK-Entrance-2024-LR-2880x672.jpg.transform/ascott-highres/image.jpg",
+      "https://discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/gallery/CN-HongKong-ANPHK-1BRMSuite-LivingRm-2024-LR.jpg",
+      "https://discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/gallery/CN-HongKong-ANPHK-StudioExe-2024-LR.jpg.transform/ascott-lowres/image.jpg",
+      "https://discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/gallery/CN-HongKong-ANPHK-StudioPre-Kitchen-2024-LR.jpg.transform/ascott-lowres/image.jpg",
+      "https://discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/gallery/CN-HongKong-ANPHK-StudioPre-LivingRm-2024-LR.jpg.transform/ascott-lowres/image.jpg",
+      "https://discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/gallery/CN-HongKong-ANPHK-Reception02-2024-LR.jpg.transform/ascott-lowres/image.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "24-hour reception",
+      "24-hour security and CCTV",
+      "High-speed Wi-Fi",
+      "Daily housekeeping",
+      "Gym",
+      "Conference room",
+      "Accessible rooms",
+      "Kitchen / home appliances in apartments",
+      "Washer-dryer (selected types)"
+    ],
+    "minStayNights": 1,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://discoverasr.com/en/ascott-the-residence/china/ascott-north-point-hong-kong",
+    "officialUrl": "https://discoverasr.com/en/ascott-the-residence/china/ascott-north-point-hong-kong",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "The Ascott Limited (CapitaLand)",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "lanson-place-waterfront-suites-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Lanson Place Waterfront Suites",
+    "brand": "Lanson Place",
+    "category": "Serviced Apartment",
+    "tagline": "Harbourfront Nordic residences in Sai Wan Ho / Shau Kei Wan, from 345 sq ft studios to a 1,363 sq ft penthouse.",
+    "description": "Lanson Place Waterfront Suites at 1 Oi Tak Street, Shau Kei Wan, is the brand’s Island East serviced residence: sea-view apartments with balconies, 2.9 m ceilings and Siemens kitchens, a five-minute walk from Sai Wan Ho and Shau Kei Wan MTR. Official suite pages publish studio through 3-bedroom penthouse (345–1,363 sq ft GFA), a Matterport tour on the studio page, Gym’brary, wellness pool with swim jet, Yoga’rden, lounge breakfast and evening cocktails, and shuttle to key Island-side locations. Extended-stay focused; no public monthly tariff on the operator site.",
+    "neighborhood": "Sai Wan Ho / Shau Kei Wan",
+    "address": "1 Oi Tak Street, Shau Kei Wan, Hong Kong",
+    "latitude": 22.282753,
+    "longitude": 114.22581,
+    "heroImageUrl": "https://lansonplace.com/waterfrontsuites/wp-content/uploads/sites/2/waterfront-suites_Studio.jpg",
+    "imageUrls": [
+      "https://lansonplace.com/waterfrontsuites/wp-content/uploads/sites/2/waterfront-suites_Studio.jpg",
+      "https://lansonplace.com/waterfrontsuites/wp-content/uploads/sites/2/waterfront-suites_Studio-1.jpg",
+      "https://lansonplace.com/waterfrontsuites/wp-content/uploads/sites/2/waterfront-suites_Studio_mood.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "Wellness pool with swim jet",
+      "Gym’brary (24-hour gym + library)",
+      "Yoga’rden",
+      "Lounge (breakfast and evening cocktails)",
+      "BBQ area",
+      "Sea-view balcony",
+      "Kitchenette",
+      "Washer-dryer (1-bed and above)",
+      "Apple TV / Smart TV",
+      "High-speed fibre",
+      "Housekeeping",
+      "Shuttle"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://lansonplace.com/waterfrontsuites/contact-us/",
+    "officialUrl": "https://lansonplace.com/waterfrontsuites/",
+    "virtualTourUrl": "https://my.matterport.com/show/?m=e2HWGEcqGTR",
+    "videoUrls": [],
+    "layoutUrls": [
+      "https://lansonplace.com/waterfrontsuites/wp-content/uploads/sites/2/LansonPlace_WF_Floorplans_Studio_20210506-1600x800.png"
+    ],
+    "operatorGroup": "Lanson Place Hospitality Management",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "chelsea-court-the-peak-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Chelsea Court",
+    "brand": "Chelsea Court",
+    "category": "Residence",
+    "tagline": "Peak luxury apartments at 63 Mount Kellett Road, with lap pool and Harriman management.",
+    "description": "Chelsea Court is a luxury residential development at 63 Mount Kellett Road, The Peak. The official site describes The Acme of Luxury Living at The Peak, a 20-m lap pool, complimentary covered parking per apartment, and professional management by Harriman Property Management with 24-hour security. The official facilities page does not describe hotel-style housekeeping; this is a Peak Residence, included as a locked TOP-50 replacement for dropped hotel-only buildings. Official monthly from-prices are not published.",
+    "neighborhood": "The Peak",
+    "address": "63 Mount Kellet Road, The Peak, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": null,
+    "imageUrls": [],
+    "imageFiles": [],
+    "unitTypes": [
+      "2-Bed",
+      "Duplex"
+    ],
+    "amenities": [
+      "Pool",
+      "Parking"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "http://www.chelseacourt.com.hk/",
+    "officialUrl": "http://www.chelseacourt.com.hk/en",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Harriman Property Management / Wheelock (developer historically)",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "gateway-apartments-tsim-sha-tsui-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Gateway Apartments",
+    "brand": "Gateway Apartments / Harbour City",
+    "category": "Serviced Apartment",
+    "tagline": "256 Harbour City serviced apartments with Pacific Club access — official June 2026 fact sheet.",
+    "description": "Gateway Apartments is the Harbour City, Tsim Sha Tsui serviced-apartment house (Wharf / related). Official June 2026 fact sheet: 256 luxurious apartments within Harbour City, 5-minute walk to Tsim Sha Tsui and Austin MTR, steps from Star Ferry and the China Ferry Terminal. Official contact: enquiry@gatewayapartments.com.hk, +852 2119 3000. Official suite photography is published on the operator gallery. Monthly from-prices are not printed as a general tariff on the homepage (a members’ 1-bed promotion exists on a third-party PDF and is not used here).",
+    "neighborhood": "Tsim Sha Tsui",
+    "address": "Gateway Apartments, Harbour City, Tsim Sha Tsui, Kowloon, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.gatewayapartments.com.hk/img/banner.jpg",
+    "imageUrls": [
+      "https://www.gatewayapartments.com.hk/img/banner.jpg",
+      "https://www.gatewayapartments.com.hk/files/new-studio-middle.jpg",
+      "https://www.gatewayapartments.com.hk/files/gateway_apartments_1BR_Living3_2908_2webbanner.jpg",
+      "https://www.gatewayapartments.com.hk/files/suite-banner-2br01_0.jpg",
+      "https://www.gatewayapartments.com.hk/files/slider-room-penthouse-2br.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge",
+      "Gym",
+      "Pool"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.gatewayapartments.com.hk/",
+    "officialUrl": "https://www.gatewayapartments.com.hk/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "The Wharf (Holdings) / Gateway Apartments",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-mercer-sheung-wan-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Mercer",
+    "brand": "The Mercer",
+    "category": "Serviced Apartment",
+    "tagline": "Design-led serviced apartments on Jervois Street, a short walk from Sheung Wan MTR and Central.",
+    "description": "The Mercer is an independent serviced-apartment house at 29 Jervois Street, Sheung Wan. The official site positions it as luxurious serviced apartments in Central’s western fringe, a short walk from Sheung Wan MTR, the Hong Kong–Macau Ferry Terminal and the Central office core. Official facilities pages list a 24-hour gymnasium, The Deck communal terrace, a business centre and a 24-hour self-service launderette plus dry cleaning. Unit types published via the Hong Kong Tourism Board PartnerNet listing for this property are Studio Executive, Studio Premier and 1-Bedroom Executive. Official rates are not published as a monthly from-price on the operator site.",
+    "neighborhood": "Sheung Wan",
+    "address": "29 Jervois Street, Sheung Wan, Hong Kong",
+    "latitude": 22.2858,
+    "longitude": 114.1515,
+    "heroImageUrl": "https://static.wixstatic.com/media/c0100a_5bd00ffa0d66473cac495270efb886b9~mv2.jpg/v1/fill/w_2056,h_1456,q_90/c0100a_5bd00ffa0d66473cac495270efb886b9~mv2.jpg",
+    "imageUrls": [
+      "https://static.wixstatic.com/media/c0100a_5bd00ffa0d66473cac495270efb886b9~mv2.jpg/v1/fill/w_2056,h_1456,q_90/c0100a_5bd00ffa0d66473cac495270efb886b9~mv2.jpg",
+      "https://static.wixstatic.com/media/c0100a_6fed997995d64f9ea35b61c0940ba447~mv2.jpg/v1/fill/w_1028,h_1456,q_90/c0100a_6fed997995d64f9ea35b61c0940ba447~mv2.jpg",
+      "https://static.wixstatic.com/media/c0100a_88ea4dfa710d48ba8cd518f7016d174f~mv2.jpg/v1/fit/w_1588,h_873,q_90/c0100a_88ea4dfa710d48ba8cd518f7016d174f~mv2.jpg",
+      "https://static.wixstatic.com/media/c0100a_a5d2330c3a884784a8145f018fcc6d2b~mv2.jpg/v1/fit/w_2000,h_1100,q_90/c0100a_a5d2330c3a884784a8145f018fcc6d2b~mv2.jpg",
+      "https://static.wixstatic.com/media/c0100a_cac9b366249e43d087263e973851297c~mv2.jpg/v1/fit/w_2000,h_1100,q_90/c0100a_cac9b366249e43d087263e973851297c~mv2.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Gym",
+      "Workspace",
+      "Laundry",
+      "Kitchen"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.themercer.com.hk/",
+    "officialUrl": "https://www.themercer.com.hk/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "independent",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "cm-plus-sheung-wan-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "CM+",
+    "brand": "CM+ / China Merchants Group",
+    "category": "Aparthotel",
+    "tagline": "Harbour-view hotel and serviced apartments next to Sheung Wan MTR Exit C.",
+    "description": "CM+ Hotel & Serviced Apartments occupies 16 Connaught Road West, Sheung Wan, beside MTR Exit C. The official site markets harbour-view rooms and serviced apartments with hotel operations. Contact email published on the official site is info@cmplus.com.hk.",
+    "neighborhood": "Sheung Wan",
+    "address": "16 Connaught Road West, Sheung Wan, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://cmplus.com.hk/upload/img/2024-03-15/36d654cc-b8e5-4f67-aefb-7940b6a22685.jpg",
+    "imageUrls": [
+      "https://cmplus.com.hk/upload/img/2024-03-15/36d654cc-b8e5-4f67-aefb-7940b6a22685.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.cmplus.com.hk/",
+    "officialUrl": "https://cmplus.com.hk/en/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "independent",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-staunton-central-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Staunton",
+    "brand": "Sino Suites",
+    "category": "Serviced Apartment",
+    "tagline": "57 one-bedroom Soho suites with in-room laundry, twice-weekly maid service and a gym terrace.",
+    "description": "The Staunton is a Sino Suites serviced property at 22 Staunton Street, Central, in Soho. Official pages describe 57 one-bedroom suites with modern furnishings, in-room washer-dryer, twice-a-week maid and linen service, plus a clubhouse gym and garden terrace. Central Station is about a 10-minute walk via the Mid-Levels escalator.",
+    "neighborhood": "Central / SoHo",
+    "address": "22 Staunton Street, Central, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.sinosuites.com.hk/suites/en/thestaunton/upload/thestaunton/page/1/share/5f28d3f1bcdb1.jpg",
+    "imageUrls": [
+      "https://www.sinosuites.com.hk/suites/en/thestaunton/upload/thestaunton/page/1/share/5f28d3f1bcdb1.jpg",
+      "https://www.sinosuites.com.hk/suites/en/img/?hash=e74924106039403e3a212e93c72b5bb1.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Laundry",
+      "Gym",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.sinosuites.com.hk/suites/en/thestaunton/",
+    "officialUrl": "https://www.sinosuites.com.hk/suites/en/thestaunton/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sino Group",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "two-macdonnell-road-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Two MacDonnell Road",
+    "brand": "Two MacDonnell Road / Lanson Place",
+    "category": "Serviced Apartment",
+    "tagline": "Mid-Levels serviced suites with kitchenettes, 24-hour gym and a weekday shuttle to Central.",
+    "description": "Two MacDonnell Road is a long-stay serviced apartment at 2 MacDonnell Road, Central Mid-Levels. Official pages describe rooms and suites with open kitchens or kitchenettes, 24-hour reception and gym, self-service laundry on 8/F, housekeeping and a complimentary scheduled shuttle to Central. The official brochure lists 216 spaces from 336 to 1,900 sq ft.",
+    "neighborhood": "Mid-Levels / Central",
+    "address": "2 MacDonnell Road, Mid-Levels, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://twomr.com/wp-content/uploads/sites/5/LansonPlace_TMR_GardenSkylineApartment.jpg",
+    "imageUrls": [
+      "https://twomr.com/wp-content/uploads/sites/5/LansonPlace_TMR_GardenSkylineApartment.jpg",
+      "https://twomr.com/wp-content/uploads/sites/5/LansonPlace_TMR_GardenSkylineDeluxeSuite_1.jpg",
+      "https://twomr.com/wp-content/uploads/sites/5/LansonPlace_TMR_StandardSuperiorSuite_1.jpg",
+      "https://twomr.com/wp-content/uploads/sites/5/LansonPlace_TMR_CafeBarOn8-e1620285001991-1600x899.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Laundry",
+      "Concierge",
+      "Parking"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://twomr.com/",
+    "officialUrl": "https://www.twomr.com.hk",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Lanson Place / independent Mid-Levels operator",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "yin-central-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Yin Serviced Apartments",
+    "brand": "Xin Management",
+    "category": "Serviced Apartment",
+    "tagline": "42-key Central serviced apartments at 97A Wellington Street, with kitchenettes and a gym.",
+    "description": "Yin Serviced Apartments sit at 97A Wellington Street, Central. The official xin.com.hk domain and the Hong Kong Tourism Board PartnerNet listing for this property give the Wellington Street address, kitchenettes, a fitness room and 42 keys. Official monthly from-prices are not published on the operator homepage.",
+    "neighborhood": "Central",
+    "address": "97A Wellington Street, Central, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "http://www.xin.com.hk/images/fbshare.jpg",
+    "imageUrls": [
+      "http://www.xin.com.hk/images/fbshare.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.xin.com.hk/",
+    "officialUrl": "https://www.xin.com.hk/yin-serviced-apartments/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "independent",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-bauhinia-apartments-central-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Bauhinia Apartments Central",
+    "brand": "The Bauhinia",
+    "category": "Serviced Apartment",
+    "tagline": "BIPV-façade serviced apartments at 119–120 Connaught Road Central, studio to two-bedroom.",
+    "description": "The Bauhinia Apartments Central is the serviced-apartment tower of The Bauhinia hotel-and-apartment complex at 119–120 Connaught Road Central. Official room pages list Studio, Studio with balcony, 1-Bedroom Suite and 2-Bedroom Suite, with 3D virtual tours on each type. The operator publishes weekly housekeeping on a long-stay offer page. Official monthly from-prices are not listed as a single tariff.",
+    "neighborhood": "Central / Sheung Wan",
+    "address": "119-120 Connaught Road Central, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.thebauhinia.com.hk/media/meklzya3/knc_retouched-0050.jpg",
+    "imageUrls": [
+      "https://www.thebauhinia.com.hk/media/meklzya3/knc_retouched-0050.jpg",
+      "https://www.thebauhinia.com.hk/media/dn0md2yc/knc_retouched-0306.jpg",
+      "https://www.thebauhinia.com.hk/media/0zmjpocw/knc_retouched-0120.jpg",
+      "https://www.thebauhinia.com.hk/media/c0zfvyfe/knc_retouched-0215.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge",
+      "Laundry"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.thebauhinia.com.hk/en/the-bauhinia-apartments-central/rooms/",
+    "officialUrl": "https://www.thebauhinia.com.hk/en/the-bauhinia-apartments-central/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "The Bauhinia Hotel Management Limited",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "lily-i-ii-mid-levels-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Lily I & II",
+    "brand": "Hanlun Habitats",
+    "category": "Serviced Apartment",
+    "tagline": "Mid-Levels serviced studios and one-beds at 28 Robinson Road, with published monthly from-rents.",
+    "description": "Lily I and Lily II are Hanlun Habitats serviced apartments at 28 Robinson Road, Mid-Levels. Official Lily II pages list a 520 sf studio from HK$28,000/month and a 620 sf one-bedroom from HK$33,000/month (retrieved 16 Aug 2026). Official amenities include 24/7 security, concierge, housekeeping, self-service laundry, complimentary Wi-Fi, gym, business services and fully fitted kitchens. Lily I is the larger-format sister tower on the same site.",
+    "neighborhood": "Mid-Levels / Central",
+    "address": "28 Robinson Road, Mid-Levels, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.hanlunhabitats.com/images/lily_i_2to12.jpg",
+    "imageUrls": [
+      "https://www.hanlunhabitats.com/images/lily_i_2to12.jpg",
+      "https://www.hanlunhabitats.com/images/lily_i_13to21.jpg",
+      "https://www.hanlunhabitats.com/images/lily_i_22to24.jpg",
+      "https://www.hanlunhabitats.com/images/home_sa_img1.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Laundry",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "Official Hanlun Lily II page 16 Aug 2026: studio from HK$28,000/month; 1-bed from HK$33,000/month. USD at HKD 7.80.",
+    "bookingUrl": "https://www.hanlunhabitats.com/lily-ii.php",
+    "officialUrl": "https://www.hanlunhabitats.com/lily-i.php",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Hanlun Habitats",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "townplace-soho-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "TOWNPLACE SOHO",
+    "brand": "TOWNPLACE / SHKP",
+    "category": "Serviced Apartment",
+    "tagline": "SHKP flexi-lease tower at 18 Caine Road — serviced, furnished or unfurnished from one month.",
+    "description": "TOWNPLACE SOHO is Sun Hung Kai Properties’ residential leasing project at 18 Caine Road, Central, steps from Soho and the CBD. Official SHKP pages state serviced, furnished and unfurnished options, studio to four-bedroom layouts, and lease terms from one month to years. Duo Social Space club amenities are shared with TOWNPLACE Kennedy Town. Official current from-rents are not restated as a live tariff on the consumer site.",
+    "neighborhood": "Central / SoHo",
+    "address": "18 Caine Road, Central, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.townplace.com.hk/assets/images/ogimage.jpg",
+    "imageUrls": [
+      "https://www.townplace.com.hk/assets/images/ogimage.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Pool",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.townplace.com.hk/en/soho",
+    "officialUrl": "https://www.shkp.com/en-US/our-business/hong-kong-properties/residential-for-lease/townplace",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sun Hung Kai Properties / Signature Homes",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "orchid-mid-levels-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Orchid",
+    "brand": "Hanlun Habitats",
+    "category": "Serviced Apartment",
+    "tagline": "One-bedroom Mid-Levels suites by the escalator, plus a 1,170 sf penthouse, with published from-rents.",
+    "description": "Orchid is a Hanlun Habitats serviced apartment in Mid-Levels. Official pages list one-bedroom units of 480 sf from HK$26,000/month (2/F–27/F) and a 1,170 sf penthouse from HK$64,000/month (28/F), retrieved 16 Aug 2026. Amenities match the Hanlun set: 24/7 security, concierge, housekeeping, laundry, Wi-Fi, gym and fully fitted kitchens. Industry pages place the building at 22 Mosque Street, next to the Mid-Levels escalator; the Hanlun office footer is 28 Robinson Road.",
+    "neighborhood": "Mid-Levels / Central",
+    "address": "22 Mosque Street, Mid-Levels, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.hanlunhabitats.com/images/home_sa_img1.jpg",
+    "imageUrls": [
+      "https://www.hanlunhabitats.com/images/home_sa_img1.jpg",
+      "https://www.hanlunhabitats.com/images/home_sa_img2.jpg",
+      "https://www.hanlunhabitats.com/images/home_sa_img3.jpg",
+      "https://www.hanlunhabitats.com/images/home_sa_img4.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Laundry",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "Official Hanlun Orchid page 16 Aug 2026: 1-bed from HK$26,000/month; penthouse from HK$64,000/month. USD at HKD 7.80.",
+    "bookingUrl": "https://www.hanlunhabitats.com/orchid.php",
+    "officialUrl": "https://www.hanlunhabitats.com/orchid.php",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Hanlun Habitats",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-gage-central-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Gage",
+    "brand": "Sino Suites",
+    "category": "Serviced Apartment",
+    "tagline": "Restored tong lau residences at 36 Gage Street, Soho, on flexible Sino Suites leases.",
+    "description": "The Gage is a Sino Suites property at 36 Gage Street, Central. Official copy describes a restored tong lau with modern home comforts in Soho, a 10-minute walk from Central Station via the Mid-Levels escalators. Sino Suites offers partially furnished, fully furnished and serviced suites with a one-month minimum.",
+    "neighborhood": "Central / SoHo",
+    "address": "36 Gage Street, Central, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.sinosuites.com.hk/suites/en/thegage/upload/thegage/page/1/share/5d2d2e5c3fcdb.jpg",
+    "imageUrls": [
+      "https://www.sinosuites.com.hk/suites/en/thegage/upload/thegage/page/1/share/5d2d2e5c3fcdb.jpg",
+      "https://www.sinosuites.com.hk/suites/en/upload/thegage/page/1/social_media_mobile/5d2d30015fe62.png"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.sinosuites.com.hk/suites/en/thegage/",
+    "officialUrl": "https://www.sinosuites.com.hk/suites/en/thegage/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sino Group",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "v-causeway-bay-2-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "V Causeway Bay 2",
+    "brand": "The V Group",
+    "category": "Serviced Apartment",
+    "tagline": "One- and two-bedroom V Group apartments at 25 Tung Lo Wan Road, facing Victoria Park.",
+    "description": "V Causeway Bay 2 is a The V Group serviced apartment at 25 Tung Lo Wan Road, Causeway Bay, a few minutes from the shopping core and across from Victoria Park / Tai Hang. Official V Group pages and contact details publish reservations@thev.hk and +852 3602 2388. Unit mix on the operator network is one- and two-bedroom plus a grand suite with terrace. Official monthly from-prices are not posted as a live tariff on thev.hk.",
+    "neighborhood": "Causeway Bay",
+    "address": "25 Tung Lo Wan Road, Causeway Bay, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.thev.hk/en/upload/images/room_location/20220908155658_2294_banner.jpg",
+    "imageUrls": [
+      "https://www.thev.hk/en/upload/images/room_location/20220908155658_2294_banner.jpg",
+      "https://www.thev.hk/en/upload/images/room_location/20220908185134_2305_banner.jpg",
+      "https://www.thev.hk/en/upload/images/room_location/20230712105215_2754_banner.jpg",
+      "https://www.thev.hk/en/upload/images/room_location/20230712105951_2771_banner.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.thev.hk/en/",
+    "officialUrl": "https://www.thev.hk/en/serviced-apartment/cws-serviced-apartment",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "The V Group",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-hayworth-causeway-bay-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Hayworth",
+    "brand": "The V Group",
+    "category": "Serviced Apartment",
+    "tagline": "Causeway Bay serviced apartments at 9 Yee Wo Street, next to the MTR and Hysan Place.",
+    "description": "The Hayworth is the 9 Yee Wo Street Causeway Bay building marketed on thehayworth.hk, with the same street address and reservations email (reservations@thev.hk) as V Causeway Bay. Official contact page: 9 Yee Wo Street, Causeway Bay, +852 3602 2388. Treat as the Yee Wo Street V / Hayworth product, distinct from V Causeway Bay 2 on Tung Lo Wan Road.",
+    "neighborhood": "Causeway Bay",
+    "address": "9 Yee Wo Street, Causeway Bay, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://static.wixstatic.com/media/cb739f_b5badba4765d46a882a9f2031a106f16f000.jpg",
+    "imageUrls": [
+      "https://static.wixstatic.com/media/cb739f_b5badba4765d46a882a9f2031a106f16f000.jpg",
+      "https://static.wixstatic.com/media/cb739f_3e643fb2ec054a8fa50fa71a706f3f15~mv2.jpg",
+      "https://www.thev.hk/en/upload/images/room_location/20230712110815_2782_banner.jpg",
+      "https://www.thev.hk/en/upload/images/room_location/20230712111433_2807_banner.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Workspace",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.thehayworth.hk/",
+    "officialUrl": "https://www.thehayworth.hk",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "The V Group",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "eaton-residences-happy-valley-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Eaton Residences",
+    "brand": "Eaton Residences",
+    "category": "Serviced Apartment",
+    "tagline": "Happy Valley furnished apartments at Blue Pool Road and Village Road, one-month minimum.",
+    "description": "Eaton Residences operates two Happy Valley buildings: Blue Pool Road (56 units, 1- and 2-bedroom, rooftop garden, fully fitted kitchenettes with washer-dryer) and Village Road (sales office at 4H Village Road). Official pages list Indigo Living furniture, kitchenettes and 24-hour security. The operator still uses the Eaton Residences name; third-party notes that Blue Pool Road is now closer to furnished lease than full hotel-style SA. Official monthly from-prices are not published as a single tariff.",
+    "neighborhood": "Happy Valley",
+    "address": "4H Village Road / 100 Blue Pool Road, Happy Valley, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.eatonresidences.com.hk/web/assets/images/banner1-01.jpg",
+    "imageUrls": [
+      "https://www.eatonresidences.com.hk/web/assets/images/banner1-01.jpg",
+      "https://www.eatonresidences.com.hk/web/assets/images/VillageRoad-Guest-Floor-Lift-Lobby-691x460.jpg",
+      "https://www.eatonresidences.com.hk/web/assets/images/Living_Room.jpg",
+      "https://www.eatonresidences.com.hk/web/assets/images/home-banner-31.png"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Laundry",
+      "Parking"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.eatonresidences.com.hk/en",
+    "officialUrl": "https://www.eatonresidences.com.hk/en",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Eaton Residences Hong Kong",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "resiglow-happy-valley-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Resiglow Happy Valley",
+    "brand": "Resiglow / Kerry Properties",
+    "category": "Residence",
+    "tagline": "Kerry’s 106-unit Happy Valley tower at 7A Shan Kwong Road — now listed as The Aster.",
+    "description": "The building formerly marketed as Resiglow Happy Valley stands at 7A Shan Kwong Road. The consumer resiglow.com.hk host did not resolve on 16 Aug 2026. Kerry Properties’ official leasing page now lists the same address as THE ASTER: 106 units, mostly two-bedroom 619 and 698 sq ft, with a themed clubhouse. This row is a Residence (developer lease), not a hotel-operated SA. Official monthly from-prices are not published on the Kerry page.",
+    "neighborhood": "Happy Valley",
+    "address": "7A Shan Kwong Road, Happy Valley, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.kerryprops.com/images/property/131/theaster_.jpg",
+    "imageUrls": [
+      "https://www.kerryprops.com/images/property/131/theaster_.jpg",
+      "https://www.kerryprops.com/images/property/131/thumbnail_1222_the-aster_sky-clubhouse_disclaimer.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "2-Bed"
+    ],
+    "amenities": [
+      "Gym"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.kerryprops.com/en/property-details/131/resiglow-happy_valley?limit=10&location=3",
+    "officialUrl": "https://www.resiglow.com.hk/happyvalley/en/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Kerry Properties",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "happy-valley-88-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Happy Valley 88",
+    "brand": "88 Hospitality / Wincome Group",
+    "category": "Serviced Apartment",
+    "tagline": "Newly renovated racecourse-view serviced apartments at 42 Blue Pool Road, from HK$28,000.",
+    "description": "Happy Valley 88 is a Wincome Group / 88 Hospitality serviced apartment at 42 Blue Pool Road, Happy Valley. The official site states newly renovated serviced apartments from HKD 28,000 up, with 24/7 Wi-Fi and racecourse outlooks. Official about page: fully furnished and serviced, overlooking Happy Valley Racecourse.",
+    "neighborhood": "Happy Valley",
+    "address": "42 Blue Pool Road, Happy Valley, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://hv88.88hospitality.com/wp-content/uploads/2023/10/demo_page_header.jpg",
+    "imageUrls": [
+      "https://hv88.88hospitality.com/wp-content/uploads/2023/10/demo_page_header.jpg",
+      "https://hv88.88hospitality.com/wp-content/uploads/2023/10/A7401919-%E7%B7%A8%E8%BC%AF02-%E6%8B%B7%E8%B2%9D-960x600.jpg",
+      "https://hv88.88hospitality.com/wp-content/uploads/2023/10/A7402085-%E7%B7%A8%E8%BC%AF-%E6%8B%B7%E8%B2%9D-960x600.jpg",
+      "https://hv88.88hospitality.com/wp-content/uploads/2023/11/A7403710-%E7%B7%A8%E8%BC%AF-%E6%8B%B7%E8%B2%9D-960x600.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "Official homepage 16 Aug 2026: Newly Renovated Serviced Apartment From HKD28,000 up. USD at HKD 7.80.",
+    "bookingUrl": "https://hv88.88hospitality.com/",
+    "officialUrl": "https://hv88.88hospitality.com/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Wincome Group / 88 Hospitality",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-luna-wan-chai-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Luna",
+    "brand": "The Luna",
+    "category": "Serviced Apartment",
+    "tagline": "105 fully furnished Wan Chai apartments at 18 Lun Fat Street, with flexible service plans.",
+    "description": "The Luna is an independent serviced apartment at 18 Lun Fat Street, Wan Chai, designed by Make Architects with a letterpress-inspired concept. Official pages state 105 fully furnished apartments, flexible service plans, and leasing enquiry at +852 2309 8855 / enquiry@theluna.com.hk. Official monthly from-prices are not published.",
+    "neighborhood": "Wan Chai",
+    "address": "18 Lun Fat Street, Wan Chai, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.theluna.com.hk/uploaded_files/homepage_banner/1/a17a10f53c035ebc73f309747af21a744178d3d3.jpg",
+    "imageUrls": [
+      "https://www.theluna.com.hk/uploaded_files/homepage_banner/1/a17a10f53c035ebc73f309747af21a744178d3d3.jpg",
+      "https://www.theluna.com.hk/uploaded_files/homepage_banner/2/af2bd9a034b0ca3fddc77cc522abccb0123ed253.jpg",
+      "https://www.theluna.com.hk/uploaded_files/homepage_banner/3/7e51b980f8dff02dea9a79e7d0ea7080cd7a79e1.jpg",
+      "https://www.theluna.com.hk/images/room_bedroom_img1_client.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.theluna.com.hk/en/",
+    "officialUrl": "https://www.theluna.com.hk/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "independent",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-johnston-wan-chai-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Johnston",
+    "brand": "Sino Suites",
+    "category": "Serviced Apartment",
+    "tagline": "87 Wan Chai serviced suites at 74–80 Johnston Road, with gym, rooftop and twice-weekly housekeeping.",
+    "description": "The Johnston is a Sino Suites serviced property at 74–80 Johnston Road, Wan Chai. Official pages list 87 fully furnished suites with separate living area, kitchen and bedroom, twice-a-week housekeeping, 24-hour security, gymnasium, garden terrace and rooftop leisure area. Wan Chai MTR and the tram are a short walk.",
+    "neighborhood": "Wan Chai",
+    "address": "74-80 Johnston Road, Wan Chai, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.sinosuites.com.hk/suites/en/thejohnston/upload/thejohnston/page/1/share/5ea7e86611859.jpg",
+    "imageUrls": [
+      "https://www.sinosuites.com.hk/suites/en/thejohnston/upload/thejohnston/page/1/share/5ea7e86611859.jpg",
+      "https://www.sinosuites.com.hk/suites/en/img/?hash=bddee41913fdc8f1c34417319398ec49.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.sinosuites.com.hk/suites/en/thejohnston/",
+    "officialUrl": "https://www.sinosuites.com.hk/suites/en/thejohnston/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sino Group",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "garden-east-wan-chai-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "GARDENEast",
+    "brand": "GARDENEast / Hopewell",
+    "category": "Serviced Apartment",
+    "tagline": "216 Hopewell serviced apartments at 222 Queen’s Road East, with gym and podium gardens.",
+    "description": "GARDENEast is Hopewell’s 28-storey serviced apartment at 222 Queen’s Road East, Wan Chai. Official and Hopewell pages list 216 furnished studio and one-bedroom units of 395–672 sq ft (gross), a gymnasium, business centre and landscaped gardens. Leasing email published by Hopewell: enquiry@gardeneast.com.hk.",
+    "neighborhood": "Wan Chai",
+    "address": "222 Queen's Road East, Wan Chai, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.gardeneast.com.hk/assets/img/gallery/GARDENEASTHK_01.jpg",
+    "imageUrls": [
+      "https://www.gardeneast.com.hk/assets/img/gallery/GARDENEASTHK_01.jpg",
+      "https://www.gardeneast.com.hk/assets/img/rooms/Studio_01.jpg",
+      "https://www.gardeneast.com.hk/assets/img/rooms/Deluxe-1-bedroom_01.jpg",
+      "https://www.gardeneast.com.hk/assets/img/rooms/Executive_Suite_01.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Workspace"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.gardeneast.com.hk/en/",
+    "officialUrl": "https://gardeneast.com.hk/en/index.php",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Hopewell Holdings",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "east-apartments-quarry-bay-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "EAST Apartments",
+    "brand": "EAST / Swire Properties",
+    "category": "Serviced Apartment",
+    "tagline": "106 Swire residences at 23 Tong Chong Street, Taikoo Place — 28-night minimum.",
+    "description": "EAST Residences (also listed by Swire as EAST Apartments) is at 23 Tong Chong Street, Taikoo Place, Quarry Bay. Official Swire and EAST pages list 106 furnished studios, one- and two-bedroom suites and a penthouse, a 24-hour gym, lounge and landscaped terrace, and a minimum stay of 28 days / one month. Leasing email on Swire press: leasing.reservations@east-hongkong.com; current EAST site also lists leasing.residences@east-hongkong.com.",
+    "neighborhood": "Quarry Bay / Taikoo Place",
+    "address": "23 Tong Chong Street, Taikoo Place, Quarry Bay, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://edge.sitecorecloud.io/swirehotels1-swirehotels-production-ebf6/media/Project/EAST-Hotels/HongKong/Residences/EHK-Residence-Home---Banner.jpg",
+    "imageUrls": [
+      "https://edge.sitecorecloud.io/swirehotels1-swirehotels-production-ebf6/media/Project/EAST-Hotels/HongKong/Residences/EHK-Residence-Home---Banner.jpg",
+      "https://edge.sitecorecloud.io/swirehotels1-swirehotels-production-ebf6/media/Project/EAST-Hotels/HongKong/Residences/Studio/V3-NK/EHK-Residence---Studio.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Concierge"
+    ],
+    "minStayNights": 28,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.easthotels.com/en/hongkong/east-residences/",
+    "officialUrl": "https://www.swireproperties.com/en/portfolio/current-developments/taikoo-place-and-cityplaza/taikoo-place/east-apartments/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Swire Hotels / Swire Properties",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "victoria-harbour-residence-north-point-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Victoria Harbour Residence",
+    "brand": "Signature Homes / SHKP",
+    "category": "Serviced Apartment",
+    "tagline": "SHKP Signature Homes waterfront suites in Tower 6, 133 Java Road, North Point.",
+    "description": "Victoria Harbour Residence is the Signature Homes serviced product in Tower 6 of SHKP’s Victoria Harbour, 133 Java Road, North Point. Official pages offer serviced, furnished and unfurnished studio to four-bedroom options and a leasing office in the tower. Sister product to Four Seasons Place and The HarbourView Place. Official monthly from-prices are by enquiry.",
+    "neighborhood": "North Point",
+    "address": "133 Java Road, North Point, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.victoriaharbourresidence.com/ig/Left.jpeg",
+    "imageUrls": [
+      "https://www.victoriaharbourresidence.com/ig/Left.jpeg",
+      "https://www.victoriaharbourresidence.com/ig/Middle.jpeg",
+      "https://www.victoriaharbourresidence.com/ig/Right.jpeg",
+      "https://www.victoriaharbourresidence.com/images/room-01-s.png"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Pool",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.victoriaharbourresidence.com/en/index.html",
+    "officialUrl": "https://www.victoriaharbourresidence.com/en/index.html",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sun Hung Kai Properties / Signature Homes",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "victoria-harbour-ii-north-point-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Victoria Harbour II",
+    "brand": "Signature Homes / SHKP",
+    "category": "Residence",
+    "tagline": "Furnished or unfurnished apartments in Tower 5, 123 Java Road — studio to three-bedroom.",
+    "description": "Victoria Harbour II Tower 5 is leased from the same official Victoria Harbour residence site as Tower 6. Official brochure: 123 Java Road, North Point; studio and 1-bedroom through 2- and 3-bedroom furnished or unfurnished apartments, with induction hob, washer-dryer, combi steam oven, refrigerator and wine cellar listed on the 2-bedroom page. This is a Signature Homes lease product sharing the estate clubhouse.",
+    "neighborhood": "North Point",
+    "address": "123 Java Road & 133 Java Road, North Point, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.victoriaharbourresidence.com/vh/images/tower-5.jpg",
+    "imageUrls": [
+      "https://www.victoriaharbourresidence.com/vh/images/tower-5.jpg",
+      "https://www.victoriaharbourresidence.com/vh/images/tower-3.jpg",
+      "https://www.victoriaharbourresidence.com/vh/images/location-vh2.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Laundry"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.victoriaharbourresidence.com/vh/en/index.html",
+    "officialUrl": "https://www.victoriaharbourresidence.com/vh/en/index.html",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sun Hung Kai Properties / Signature Homes",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-stellar-north-point-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Stellar",
+    "brand": "The Stellar",
+    "category": "Serviced Apartment",
+    "tagline": "Vanke’s 2023 North Point serviced apartment at 68 Chun Yeung Street.",
+    "description": "The Stellar is a Vanke serviced apartment at 68 Chun Yeung Street, North Point. The official site (thestellar.com.hk) is live and publishes enquiry@thestellar.com.hk plus building photography. Official monthly from-prices are not posted as a tariff on the homepage.",
+    "neighborhood": "North Point",
+    "address": "68 Chun Yeung Street, North Point, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.thestellar.com.hk/wp-content/uploads/2023/09/Vanke0258-Pano-copy.jpg",
+    "imageUrls": [
+      "https://www.thestellar.com.hk/wp-content/uploads/2023/09/Vanke0258-Pano-copy.jpg",
+      "https://www.thestellar.com.hk/wp-content/uploads/2023/09/Vanke0258-Pano-copy-1536x768.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.thestellar.com.hk/",
+    "officialUrl": "https://www.thestellar.com.hk/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Vanke",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "skyla-kennedy-town-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Skyla",
+    "brand": "Skyla",
+    "category": "Serviced Apartment",
+    "tagline": "42-key Kennedy Town serviced apartments at 32 Sands Street, beside the MTR.",
+    "description": "Skyla Serviced Apartments is at 32 Sands Street, Kennedy Town. The official site skyla.com.hk is live and publishes leasing@skyla.com.hk and the Sands Street address. The page is thin on photography. Industry descriptions (not used for prices) cite 42 furnished studios and duplexes. Official monthly from-prices are not published on the operator homepage.",
+    "neighborhood": "Kennedy Town",
+    "address": "32 Sands Street, Kennedy Town, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.skyla.com.hk/images/gallery/01.jpg",
+    "imageUrls": [
+      "https://www.skyla.com.hk/images/gallery/01.jpg",
+      "https://www.skyla.com.hk/images/gallery/02.jpg",
+      "https://www.skyla.com.hk/images/gallery/03.jpg",
+      "https://www.skyla.com.hk/images/gallery/04.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "Duplex"
+    ],
+    "amenities": [
+      "Kitchen"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.skyla.com.hk/",
+    "officialUrl": "https://www.skyla.com.hk/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "independent",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "townplace-kennedy-town-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "TOWNPLACE Kennedy Town",
+    "brand": "TOWNPLACE / SHKP",
+    "category": "Serviced Apartment",
+    "tagline": "SHKP flexi-lease at 97 Belcher’s Street — serviced, furnished or unfurnished.",
+    "description": "TOWNPLACE Kennedy Town is the first TOWNPLACE project, at 97 Belcher’s Street, Kennedy Town. Official SHKP pages offer serviced, furnished and unfurnished apartments and share Duo Social Space amenities with TOWNPLACE SOHO. Official current from-rents are not restated as a live tariff on the consumer site.",
+    "neighborhood": "Kennedy Town",
+    "address": "97 Belcher's Street, Kennedy Town, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.townplace.com.hk/assets/images/ogimage.jpg",
+    "imageUrls": [
+      "https://www.townplace.com.hk/assets/images/ogimage.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://townplace.com.hk/",
+    "officialUrl": "https://www.shkp.com/en-US/our-business/hong-kong-properties/residential-for-lease/townplace",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sun Hung Kai Properties / Signature Homes",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "resiglow-sai-ying-pun-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Resiglow Bonham",
+    "brand": "Resiglow / Kerry Properties",
+    "category": "Residence",
+    "tagline": null,
+    "description": null,
+    "neighborhood": "Sai Ying Pun",
+    "address": "8 Hing Hong Road, Sai Ying Pun, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": null,
+    "imageUrls": [],
+    "imageFiles": [],
+    "unitTypes": [],
+    "amenities": [],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.resiglow.com.hk/bonham/en/",
+    "officialUrl": "https://www.resiglow.com.hk/bonham/en/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Resiglow / Kerry Properties",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "hollywood-hill-sheung-wan-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Hollywood Hill",
+    "brand": "Hollywood Hill",
+    "category": "Serviced Apartment",
+    "tagline": null,
+    "description": null,
+    "neighborhood": "Sheung Wan",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": null,
+    "imageUrls": [],
+    "imageFiles": [],
+    "unitTypes": [],
+    "amenities": [],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.hollywoodhill.com.hk/en",
+    "officialUrl": "https://www.hollywoodhill.com.hk/en",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Hollywood Hill",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-humphreys-tsim-sha-tsui-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Humphreys",
+    "brand": "Sino Suites",
+    "category": "Serviced Apartment",
+    "tagline": "Sino Suites TST building at 6A Humphreys Avenue, on flexible one-month-plus leases.",
+    "description": "The Humphreys is a Sino Suites property at 6A Humphreys Avenue, Tsim Sha Tsui. Official Sino Suites search includes it among serviced / furnished suites with a one-month minimum. Contact email published on the property page: thehumphreys@sino.com.",
+    "neighborhood": "Tsim Sha Tsui",
+    "address": "6-6A Humphreys Avenue, Tsim Sha Tsui, Kowloon, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.sinosuites.com.hk/suites/en/thehumphreys/upload/thehumphreys/page/1/share/5df761d587689.jpg",
+    "imageUrls": [
+      "https://www.sinosuites.com.hk/suites/en/thehumphreys/upload/thehumphreys/page/1/share/5df761d587689.jpg",
+      "https://www.sinosuites.com.hk/suites/en/img/?hash=869067afdd812bd93be0bbc4f4023d09.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.sinosuites.com.hk/suites/en/thehumphreys/",
+    "officialUrl": "https://www.sinosuites.com.hk/suites/en/thehumphreys/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sino Group",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-camphora-tsim-sha-tsui-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Camphora",
+    "brand": "Sino Suites",
+    "category": "Serviced Apartment",
+    "tagline": "Sino Suites TST residence at 51–52 Haiphong Road, beside Kowloon Park and Canton Road.",
+    "description": "The Camphora is a Sino Suites property at 51–52 Haiphong Road, Tsim Sha Tsui, a short walk from Tsim Sha Tsui MTR, Canton Road and Kowloon Park. Official Sino Group page points to the Sino Suites property site. Contact email on the property page: thecamphora@sino.com.",
+    "neighborhood": "Tsim Sha Tsui",
+    "address": "51-52 Haiphong Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.sinosuites.com.hk/suites/en/thecamphora/upload/thecamphora/page/1/share/5d2d7937c8236.jpg",
+    "imageUrls": [
+      "https://www.sinosuites.com.hk/suites/en/thecamphora/upload/thecamphora/page/1/share/5d2d7937c8236.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.sinosuites.com.hk/suites/en/thecamphora/",
+    "officialUrl": "https://www.sinosuites.com.hk/suites/en/thecamphora/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sino Group",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "townplace-west-kowloon-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "TOWNPLACE West Kowloon",
+    "brand": "TOWNPLACE / SHKP",
+    "category": "Aparthotel",
+    "tagline": "SHKP’s large-scale West Kowloon aparthotel at 10 Lai Ying Street, daily or monthly.",
+    "description": "TOWNPLACE WEST KOWLOON is Sun Hung Kai Properties’ aparthotel at 10 Lai Ying Street, West Kowloon, near Nam Cheong Station. Official site and SHKP press describe Hong Kong’s first large-scale aparthotel for young professionals, with daily or monthly leasing. Enquiry email on the site: rsvn-wk@townplace.com.hk.",
+    "neighborhood": "West Kowloon",
+    "address": "10 Lai Ying Street, West Kowloon, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://westkowloon-webapi.townplace.com.hk/storage/app/media/HOMEPAGE-08.jpg",
+    "imageUrls": [
+      "https://westkowloon-webapi.townplace.com.hk/storage/app/media/HOMEPAGE-08.jpg",
+      "https://westkowloon-webapi.townplace.com.hk/storage/app/media/cropped-images/TOWNPLACE-WK-Apt-281-63-0-640-480-1689135191.jpg",
+      "https://westkowloon-webapi.townplace.com.hk/storage/app/media/cropped-images/TOWNPLACE-WK-Apt-105-v3-70-0-640-480-1689135226.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Workspace",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://westkowloon.townplace.com.hk/",
+    "officialUrl": "https://westkowloon.townplace.com.hk/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sun Hung Kai Properties / Signature Homes",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "vega-suites-tseung-kwan-o-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Vega Suites",
+    "brand": "Vega Suites / Signature Homes",
+    "category": "Aparthotel",
+    "tagline": "476 SHKP serviced suites atop Tseung Kwan O MTR, studio to three-bedroom, daily or monthly.",
+    "description": "Vega Suites is a Sun Hung Kai Properties serviced suite hotel at 3 Tong Tak Street, Tseung Kwan O, above the MTR station and next to PopCorn. Official pages state 476 contemporary suites from studios to 3-bedrooms, with monthly and short-stay options. Enquiry: enquiries@vegasuites.com.hk.",
+    "neighborhood": "Tseung Kwan O",
+    "address": "3 Tong Tak Street, Tseung Kwan O, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.vegasuites.com.hk/video/screen.jpg",
+    "imageUrls": [
+      "https://www.vegasuites.com.hk/video/screen.jpg",
+      "https://www.vegasuites.com.hk/en/images/location-buildings.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.vegasuites.com.hk/en/",
+    "officialUrl": "https://www.vegasuites.com.hk/en/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sun Hung Kai Properties / Signature Homes",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "weave-suites-central-west-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Weave Suites – Central West",
+    "brand": "Weave Living",
+    "category": "Serviced Apartment",
+    "tagline": "83 Sai Ying Pun serviced studios and one-beds at 123 Queen’s Road West.",
+    "description": "Weave Suites – Central West is Weave Living’s serviced-apartment house at 123 Queen’s Road West, Sai Ying Pun. Official pages state 83 serviced apartments, studio to one-bedroom, with hotel-like amenities and a community team. Official contact: live.hk@weave-living.com. Official monthly from-prices are not posted as a single tariff on the property page.",
+    "neighborhood": "Sai Ying Pun",
+    "address": "123 Queen's Road West, Sai Ying Pun, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.weave-living.com/seo_image.webp",
+    "imageUrls": [
+      "https://www.weave-living.com/seo_image.webp"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge",
+      "Workspace"
+    ],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.weave-living.com/hong-kong/weave-suites-central-west",
+    "officialUrl": "https://www.weave-living.com/hong-kong/weave-suites-central-west",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Weave Living",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "star-studios-wan-chai-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Star Studios I & II",
+    "brand": "Star Studios / Swire Properties",
+    "category": "Residence",
+    "tagline": "Swire furnished and unfurnished studios to 2-beds at 8–10 & 18 Wing Fung Street. No housekeeping.",
+    "description": "STAR STUDIOS I & II are Swire Properties apartments in Starstreet Precinct, Wan Chai, at 8–10 and 18 Wing Fung Street. Official FAQ: rental includes management fee, government rent and rates but not utilities; no housekeeping; 24-month lease with break after 12 months (minimum 14 months); not pet-friendly; studio to 2-bedroom, furnished or unfurnished. Official Swire page: 120 units. This is a Residence, not a hotel-operated SA.",
+    "neighborhood": "Wan Chai / Starstreet Precinct",
+    "address": "8-10 & 18 Wing Fung Street, Wan Chai, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.starstudios.com.hk/wp-content/uploads/2020/11/1-2-scaled.jpg",
+    "imageUrls": [
+      "https://www.starstudios.com.hk/wp-content/uploads/2020/11/1-2-scaled.jpg",
+      "https://www.starstudios.com.hk/wp-content/uploads/2020/11/2.jpg",
+      "https://www.starstudios.com.hk/wp-content/uploads/2020/11/3-scaled.jpg",
+      "https://www.starstudios.com.hk/wp-content/uploads/2020/11/4-scaled.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym"
+    ],
+    "minStayNights": 420,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.starstudios.com.hk/",
+    "officialUrl": "https://www.starstudios.com.hk/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Swire Properties",
+    "published": true,
+    "sources": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-hillside-wan-chai-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Hillside",
+    "brand": "Sino Suites",
+    "category": "Serviced Apartment",
+    "tagline": "Sino Suites boutique apartments at 9 Sik On Street, Wan Chai, one-month minimum.",
+    "description": "The Hillside is a Sino Suites property at 9 Sik On Street, Wan Chai. Official Sino Suites and Sino Group pages list it among flexible-lease boutique apartments. Contact email on the property page: thehillside@sino.com.",
+    "neighborhood": "Wan Chai",
+    "address": "9 Sik On Street, Wan Chai, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.sinosuites.com.hk/suites/en/thehillside/upload/thehillside/page/1/share/5df7435bba5bb.jpg",
+    "imageUrls": [
+      "https://www.sinosuites.com.hk/suites/en/thehillside/upload/thehillside/page/1/share/5df7435bba5bb.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Concierge"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.sinosuites.com.hk/suites/en/thehillside/",
+    "officialUrl": "https://www.sinosuites.com.hk/suites/en/thehillside/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sino Group",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "the-ventris-happy-valley-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "The Ventris",
+    "brand": "Sino Suites",
+    "category": "Serviced Apartment",
+    "tagline": "Nine full-floor furnished apartments at 20 Ventris Road, Happy Valley.",
+    "description": "The Ventris is a Sino Suites property at 20 Ventris Road, Happy Valley. Official copy: nine fully furnished apartments, each taking an entire floor, with a spacious bedroom, walk-in closet, fully equipped kitchen and extended balcony. Contact email on the property page: theventris@sino.com.",
+    "neighborhood": "Happy Valley",
+    "address": "20 Ventris Road, Happy Valley, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": "https://www.sinosuites.com.hk/suites/en/theventris/upload/theventris/page/1/share/5e97cff4c66df.jpg",
+    "imageUrls": [
+      "https://www.sinosuites.com.hk/suites/en/theventris/upload/theventris/page/1/share/5e97cff4c66df.jpg"
+    ],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.sinosuites.com.hk/suites/en/theventris/",
+    "officialUrl": "https://www.sinosuites.com.hk/suites/en/theventris/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Sino Group",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "v-wan-chai-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "V Wan Chai",
+    "brand": "The V Group",
+    "category": "Serviced Apartment",
+    "tagline": "A World of Sublime Privacy",
+    "description": "Whether for a short-term business trip or a long-term lease, V Wanchai serviced apartment rental solutions can satisfy different needs, allowing you to enjoy hotel-grade convenience and privacy in the heart of Wan Chai. Choose from Superior Suite, Deluxe Suite, Premier Deluxe Suite, and Garden Suite. Each loft opens to a queen-sized bed and a cosy living area and comes with a fully-equipped kitchenette. Official page: 30 days minimum stay; studios accommodate a fully fitted kitchenette, a writing desk, and generous storage space; onsite laundry facilities; housekeeping twice a week.",
+    "neighborhood": "Wan Chai",
+    "address": "180 Jaffe Road, Wan Chai, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": null,
+    "imageUrls": [],
+    "imageFiles": [],
+    "unitTypes": [
+      "Studio"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Laundry",
+      "Workspace"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.thev.hk/en/serviced-apartment/wanchai-serviced-apartment",
+    "officialUrl": "https://www.thev.hk/en/serviced-apartment/wanchai-serviced-apartment",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "The V Group",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "v-happy-valley-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "V Happy Valley",
+    "brand": "The V Group",
+    "category": "Serviced Apartment",
+    "tagline": "Your Home in the Valley",
+    "description": "V Happy Valley Serviced Apartment offers a quiet and friendly home away from home. Official page: one- and two-bedroom apartments with fully stocked kitchenettes; three two-bedroom layouts from 488 to 715 sq ft, including a patio suite; 30 days minimum stay; limited on-site parking for long-term residents; housekeeping twice a week. Address on the operator page: 68 Sing Woo Road.",
+    "neighborhood": "Happy Valley",
+    "address": "68 Sing Woo Road, Happy Valley, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": null,
+    "imageUrls": [],
+    "imageFiles": [],
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Parking"
+    ],
+    "minStayNights": 30,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.thev.hk/en/serviced-apartment/happyvalley-serviced-apartment",
+    "officialUrl": "https://www.thev.hk/en/serviced-apartment/happyvalley-serviced-apartment",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "The V Group",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  },
+  {
+    "slug": "yi-apartments-tsim-sha-tsui-hong-kong",
+    "citySlug": "hong-kong",
+    "name": "Yi Serviced Apartments",
+    "brand": "Xin Management",
+    "category": "Serviced Apartment",
+    "tagline": "Hotel luxury that feels just like home.",
+    "description": "Take sanctuary in beautiful surroundings that will inspire you everyday. Wander throught our impeccably-designed spaces and picture yourself enjoying every feature in turn. Finally, hotel luxury that feels just like home!",
+    "neighborhood": "Tsim Sha Tsui",
+    "address": "10-12 Chatham Court, Tsim Sha Tsui, Hong Kong",
+    "latitude": null,
+    "longitude": null,
+    "heroImageUrl": null,
+    "imageUrls": [],
+    "imageFiles": [],
+    "unitTypes": [],
+    "amenities": [],
+    "minStayNights": null,
+    "priceFromMonthlyUsd": null,
+    "priceFromMonthlyNative": null,
+    "priceCurrencyNative": "HKD",
+    "priceNotes": "on request",
+    "bookingUrl": "https://www.xin.com.hk/yi-serviced-apartments/",
+    "officialUrl": "https://www.xin.com.hk/yi-serviced-apartments/",
+    "virtualTourUrl": null,
+    "videoUrls": [],
+    "layoutUrls": [],
+    "operatorGroup": "Xin Management",
+    "published": true,
+    "sources": [
+      "[object Object]"
+    ]
+  }
+]
