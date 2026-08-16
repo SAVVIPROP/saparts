@@ -39,6 +39,8 @@ export function priceRangeMonthly(from?: number | null, to?: number | null) {
   return "On request";
 }
 
+const INTERNAL_NOTE = /retrieved|not converted|waf|images pending|no numeric|enriched\.json|access denied|\b403\b|appears to be|usd not|on request/i;
+
 export function formatPrice(listing: Listing): string | null {
   if (typeof listing.priceFromMonthlyUsd === "number" && listing.priceFromMonthlyUsd > 0) {
     return `From USD ${listing.priceFromMonthlyUsd.toLocaleString("en-US")} / month`;
@@ -50,7 +52,15 @@ export function formatPrice(listing: Listing): string | null {
   ) {
     return `From ${listing.priceCurrencyNative} ${listing.priceFromMonthlyNative.toLocaleString("en-US")} / month`;
   }
-  return listing.priceNotes?.trim() || null;
+  return null;
+}
+
+/** Official tariff copy only. Drops scrape/QA notes. */
+export function publicPriceNote(listing: Listing): string | null {
+  const n = listing.priceNotes?.trim();
+  if (!n || INTERNAL_NOTE.test(n)) return null;
+  if (n.length > 220) return `${n.slice(0, 217).trim()}…`;
+  return n;
 }
 
 export function regionOrder(region: string): number {

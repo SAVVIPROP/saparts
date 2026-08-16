@@ -78,7 +78,7 @@ export function PropertyCard({
           <div className="mt-2 tracker-muted truncate">{unitTypes.slice(0, 4).join(" · ")}</div>
         )}
         <div className="mt-3 flex items-baseline justify-between gap-2 hairline-top pt-3">
-          <div className="tracker-muted">From</div>
+          <div className="tracker-muted">{price ? "From" : "Rate"}</div>
           <div className="text-charcoal" style={{ fontFamily: "var(--font-mono)", fontSize: "0.82rem" }}>
             {price ?? "On request"}
           </div>

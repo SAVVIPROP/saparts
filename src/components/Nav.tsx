@@ -84,7 +84,7 @@ export function Nav({
         <Link href="/" className="flex items-center gap-2 shrink-0">
           <Wordmark />
         </Link>
-        <nav className="hidden lg:flex items-center gap-0.5">
+        <nav className="hidden xl:flex items-center gap-0.5">
           <button onClick={() => toggle("atlas")} className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium hover:text-forest rounded-sm ${activeMega === "atlas" ? "text-forest bg-ivory-warm" : "text-charcoal"}`}>
             <Globe className="w-3.5 h-3.5" /> Atlas <ChevronDown className={`w-3.5 h-3.5 transition-transform ${activeMega === "atlas" ? "rotate-180" : ""}`} />
           </button>
@@ -104,7 +104,7 @@ export function Nav({
             <Award className="w-3.5 h-3.5" /> Awards
           </Link>
         </nav>
-        <div className="hidden lg:flex items-center gap-4">
+        <div className="hidden xl:flex items-center gap-4">
           <Link href="/search" className="flex items-center gap-2 text-charcoal hover:text-forest" aria-label="Search">
             <Search className="w-[16px] h-[16px]" />
             <span className="text-[0.7rem] tracking-wider uppercase">Search</span>
@@ -122,7 +122,7 @@ export function Nav({
             List a property →︎
           </Link>
         </div>
-        <div className="lg:hidden flex items-center gap-2 shrink-0">
+        <div className="xl:hidden flex items-center gap-2 shrink-0">
           <Link href="/operators" className="inline-flex items-center px-2.5 py-1.5 text-[0.72rem] tracking-[0.08em] uppercase border border-charcoal">List →︎</Link>
           <button className="p-2 text-charcoal" onClick={() => setMobileOpen((v) => !v)} aria-label="Menu">
             {mobileOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
@@ -418,7 +418,7 @@ export function Nav({
       )}
 
       {mobileOpen && (
-        <div className="lg:hidden border-t border-border bg-background">
+        <div className="xl:hidden border-t border-border bg-background">
           <div className="container py-6 flex flex-col gap-4">
             {[
               ["/cities", "Atlas"],

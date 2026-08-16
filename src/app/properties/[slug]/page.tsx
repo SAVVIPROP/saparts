@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllProperties, getCity, getProperty, relatedInCity } from "@/lib/data";
-import { cleanDescription, dedupeAddress, formatPrice, titleCaseTag, unitTypeMeta, unitTypeName } from "@/lib/format";
+import { cleanDescription, dedupeAddress, formatPrice, publicPriceNote, titleCaseTag, unitTypeMeta, unitTypeName } from "@/lib/format";
 import { isMatterportUrl } from "@/lib/media";
 import { PropertyGallery } from "@/components/PropertyGallery";
 import { PropertyMedia } from "@/components/PropertyMedia";
@@ -34,6 +34,7 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
   if (!listing) notFound();
   const city = getCity(listing.citySlug);
   const price = formatPrice(listing);
+  const note = publicPriceNote(listing);
   const related = relatedInCity(listing, 3);
   const unitTypes = (listing.unitTypes ?? []).map(unitTypeName).filter(Boolean);
   const amenities = listing.amenities ?? [];
@@ -89,8 +90,8 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
               <div>
                 <div className="tracker-muted mb-1">Rate indication</div>
                 <div className="font-serif text-2xl">{price ?? "On request"}</div>
-                {listing.priceNotes && listing.priceNotes !== "on request" && (
-                  <div className="tracker-muted mt-1">{listing.priceNotes}</div>
+                {note && (
+                  <div className="tracker-muted mt-1">{note}</div>
                 )}
               </div>
               <BookmarkButton
