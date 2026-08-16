@@ -33,6 +33,5 @@ export function listingJsonLd(listing: Listing, city?: City) {
       listing.latitude != null && listing.longitude != null
         ? { "@type": "GeoCoordinates", latitude: listing.latitude, longitude: listing.longitude }
         : undefined,
-    sameAs: listing.officialUrl || undefined,
   };
 }

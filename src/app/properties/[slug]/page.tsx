@@ -137,22 +137,18 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
               )}
             </div>
             <div className="space-y-2.5">
-              <a
-                href={`mailto:reservations@saparts.com?subject=${encodeURIComponent(`Enquiry: ${listing.name}`)}&body=${encodeURIComponent(`Hello,\n\nI am interested in ${listing.name}.\n\nPlease send availability and rates.\n`)}`}
+              <Link
+                href={`/contact?listing=${listing.slug}`}
                 className="btn-primary w-full justify-center"
               >
-                Book Direct <ArrowRight className="w-3.5 h-3.5" />
+                Enquire to book <ArrowRight className="w-3.5 h-3.5" />
+              </Link>
+              <a
+                href={`mailto:enquiry@serviceapartment.hk?subject=${encodeURIComponent(`SAparts enquiry: ${listing.name}`)}&body=${encodeURIComponent(`Hello,\n\nI would like to book ${listing.name}${city ? ` in ${city.name}` : ""}.\n\nMove-in date:\nLength of stay:\nGuests:\n\n`)}`}
+                className="btn-outline w-full justify-center"
+              >
+                Email this enquiry
               </a>
-              {listing.officialUrl && (
-                <a href={listing.officialUrl} target="_blank" rel="noreferrer" className="btn-ghost w-full justify-center">
-                  Visit official website <ExternalLink className="w-3.5 h-3.5" />
-                </a>
-              )}
-              {listing.bookingUrl && listing.bookingUrl !== listing.officialUrl && (
-                <a href={listing.bookingUrl} target="_blank" rel="noreferrer" className="btn-outline w-full justify-center">
-                  Booking link <ExternalLink className="w-3.5 h-3.5" />
-                </a>
-              )}
             </div>
             <div className="hairline-top mt-5 pt-4">
               <PropertyActions name={listing.name} />

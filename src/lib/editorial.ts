@@ -65,7 +65,7 @@ export const INSIGHTS: Insight[] = [
     publishedAt: "2026-04-02",
     body: [
       "Global mobility teams do not need another booking widget. They need a source-backed index: who operates the building, what unit types exist, whether a kitchen and workspace are on file, and a link to the official site.",
-      "SAparts does not take a commission on bookings. Book Direct on a residence page opens a mailto to reservations. Official and booking URLs are those supplied in the listing pack. Affiliate relationships, when they exist, are disclosed.",
+      "Enquiries and bookings go through SAparts. Residence pages do not send guests to the operator website.",
       "For an RFI, write from the Corporate page. Include city, stay length, unit mix, and any policy constraints (invoice billing, pet policy, minimum stay). We will not invent inventory to fill a gap — if the register is thin in a market, that is the answer.",
       "The Awards programme (2026) is editorial. No entry fees. Nominations close 31 August 2026. Results are not for sale.",
     ],

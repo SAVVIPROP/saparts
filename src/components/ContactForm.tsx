@@ -2,19 +2,25 @@
 
 import { useState } from "react";
 
+const ENQUIRY_INBOX = "enquiry@serviceapartment.hk";
+
 export function ContactForm({
   subjects,
   source = "contact",
+  defaultMessage = "",
+  defaultSubject,
 }: {
   subjects?: { value: string; label: string }[];
   source?: string;
+  defaultMessage?: string;
+  defaultSubject?: string;
 }) {
   const [sent, setSent] = useState(false);
   const options = subjects ?? [
+    { value: "booking", label: "Book a residence" },
     { value: "general", label: "General enquiry" },
-    { value: "editorial", label: "Editorial & corrections" },
-    { value: "operators", label: "Operator listing" },
     { value: "corporate", label: "Corporate mobility" },
+    { value: "operators", label: "Operator listing" },
     { value: "press", label: "Press" },
   ];
 
@@ -26,7 +32,7 @@ export function ContactForm({
     const subject = String(data.get("subject") || source);
     const message = String(data.get("message") || "");
     const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nSource: ${source}\n\n${message}`);
-    window.location.href = `mailto:hello@saparts.com?subject=${encodeURIComponent("SAparts — " + subject)}&body=${body}`;
+    window.location.href = `mailto:${ENQUIRY_INBOX}?subject=${encodeURIComponent("SAparts — " + subject)}&body=${body}`;
     setSent(true);
   }
 
@@ -36,8 +42,7 @@ export function ContactForm({
         <div className="section-mark">Received</div>
         <h3 className="display text-3xl mt-4">Your message is ready to send.</h3>
         <p className="mt-3 text-muted-foreground leading-relaxed">
-          Your mail client should have opened addressed to the editorial desk. If it did not, write directly to
-          hello@saparts.com.
+          Your mail client should have opened addressed to SAparts. If it did not, write directly to {ENQUIRY_INBOX}.
         </p>
       </div>
     );
@@ -55,9 +60,9 @@ export function ContactForm({
       </label>
       <label className="block">
         <span className="field-label">Subject</span>
-        <select className="field" name="subject" defaultValue={options[0]?.value}>
+        <select className="field" name="subject" defaultValue={defaultSubject ?? options[0]?.value}>
           {options.map((o) => (
-            <option key={o.value} value={o.value}>
+            <option key={o.value} value={o.label}>
               {o.label}
             </option>
           ))}
@@ -65,10 +70,10 @@ export function ContactForm({
       </label>
       <label className="block">
         <span className="field-label">Message</span>
-        <textarea className="field min-h-32" name="message" required />
+        <textarea className="field min-h-32" name="message" required defaultValue={defaultMessage} />
       </label>
       <button type="submit" className="btn-primary">
-        Write to the desk
+        Send enquiry
       </button>
     </form>
   );
