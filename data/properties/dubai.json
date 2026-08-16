@@ -13,7 +13,14 @@
     "longitude": null,
     "heroImageUrl": null,
     "imageUrls": [],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/address-downtown-serviced-residences-dubai/gallery-02.webp",
+      "/listings/address-downtown-serviced-residences-dubai/gallery-03.webp",
+      "/listings/address-downtown-serviced-residences-dubai/gallery-04.webp",
+      "/listings/address-downtown-serviced-residences-dubai/gallery-05.webp",
+      "/listings/address-downtown-serviced-residences-dubai/gallery-06.webp",
+      "/listings/address-downtown-serviced-residences-dubai/hero-01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -156,7 +163,12 @@
       "https://cdn.jumeirah.com/api/public/content/JLMG_GLOBAL_LISTING_CARD.jpeg?v=6f2f3b34",
       "https://cdn.jumeirah.com/api/public/content/47df5ae6c459443092a2d0d9b1e1f5a7?v=d5a76522"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/jumeirah-living-marina-gate-dubai/01.webp",
+      "/listings/jumeirah-living-marina-gate-dubai/02.webp",
+      "/listings/jumeirah-living-marina-gate-dubai/03.webp",
+      "/listings/jumeirah-living-marina-gate-dubai/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -212,7 +224,10 @@
       "https://cdn.jumeirah.com/api/public/content/47df5ae6c459443092a2d0d9b1e1f5a7?v=d5a76522",
       "https://cdn.jumeirah.com/api/public/content/70a850ab1e0d41e09d3733a24d8d8211?v=13b6bf58"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/jumeirah-living-world-trade-centre-dubai/01.webp",
+      "/listings/jumeirah-living-world-trade-centre-dubai/02.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -263,7 +278,13 @@
       "https://image-tc.galaxy.tf/wijpeg-3t4gv51t02vwue9k6i1mydizw/dms-one-bedroom-bathroom.jpg?width=2560",
       "https://image-tc.galaxy.tf/wijpeg-10xhsl80t3i16gq89s16ssmx4/shadowpp-damac-dms-10051.jpg?width=2560"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/damac-maison-mall-street-dubai/01.webp",
+      "/listings/damac-maison-mall-street-dubai/02.webp",
+      "/listings/damac-maison-mall-street-dubai/03.webp",
+      "/listings/damac-maison-mall-street-dubai/04.webp",
+      "/listings/damac-maison-mall-street-dubai/05.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -315,7 +336,16 @@
       "https://image-tc.galaxy.tf/wijpeg-c1pt12ya8xfg5asr7qnp4q7ii/dni-5062-edit.jpg?width=2560",
       "https://image-tc.galaxy.tf/wijpeg-7r1ftt93g3egxcfhrfzw16nos/dmd-i-bk-view.jpg?width=2560"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/damac-maison-distinction-dubai/01.webp",
+      "/listings/damac-maison-distinction-dubai/02.webp",
+      "/listings/damac-maison-distinction-dubai/03.webp",
+      "/listings/damac-maison-distinction-dubai/04.webp",
+      "/listings/damac-maison-distinction-dubai/05.webp",
+      "/listings/damac-maison-distinction-dubai/06.webp",
+      "/listings/damac-maison-distinction-dubai/07.webp",
+      "/listings/damac-maison-distinction-dubai/08.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -366,7 +396,12 @@
       "https://image-tc.galaxy.tf/wipng-dhhett7tiaomy99s33zo0frar/intersection-6.png",
       "https://image-tc.galaxy.tf/wijpeg-aoyys01wl500j88v9xxcthc7w/deluxe-room_wide.jpg?crop=0%2C105%2C1920%2C1080&width=940"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/damac-maison-cour-jardin-dubai/01.webp",
+      "/listings/damac-maison-cour-jardin-dubai/02.webp",
+      "/listings/damac-maison-cour-jardin-dubai/03.webp",
+      "/listings/damac-maison-cour-jardin-dubai/04.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -417,7 +452,12 @@
       "https://image-tc.galaxy.tf/wipng-dhhett7tiaomy99s33zo0frar/intersection-6.png",
       "https://image-tc.galaxy.tf/wijpeg-4eavfgnlxqsce34hnuy5aj8dn/deluxe-room_wide.jpg?crop=0%2C1%2C1920%2C1080&width=940"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/damac-maison-canal-views-dubai/01.webp",
+      "/listings/damac-maison-canal-views-dubai/02.webp",
+      "/listings/damac-maison-canal-views-dubai/03.webp",
+      "/listings/damac-maison-canal-views-dubai/04.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -468,7 +508,12 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/united-arab-emirates/dubai/citadines-metro-central-dubai/apartment-types/AE-Dubai-CMCD-1BRMDlx-LivingRm-2025-HR%2520(2880x672)%2520(2).jpg.transform/ascott-highres/image.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/united-arab-emirates/dubai/citadines-metro-central-dubai/apartment-types/AE-Dubai-CMCD-1BRMExe-LivingRm-2025-HR%2520(2880x672).jpg.transform/ascott-highres/image.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-metro-central-dubai/01.webp",
+      "/listings/citadines-metro-central-dubai/02.webp",
+      "/listings/citadines-metro-central-dubai/03.webp",
+      "/listings/citadines-metro-central-dubai/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -514,7 +559,16 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/meta-images/Metatags-social-findresidence-100-min.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-culture-village-dubai/gallery-02.webp",
+      "/listings/citadines-culture-village-dubai/gallery-03.webp",
+      "/listings/citadines-culture-village-dubai/gallery-04.webp",
+      "/listings/citadines-culture-village-dubai/gallery-05.webp",
+      "/listings/citadines-culture-village-dubai/gallery-06.webp",
+      "/listings/citadines-culture-village-dubai/gallery-07.webp",
+      "/listings/citadines-culture-village-dubai/gallery-08.webp",
+      "/listings/citadines-culture-village-dubai/hero-01.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -549,7 +603,16 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/meta-images/Metatags-social-findresidence-100-min.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/ascott-park-place-dubai/gallery-02.webp",
+      "/listings/ascott-park-place-dubai/gallery-03.webp",
+      "/listings/ascott-park-place-dubai/gallery-04.webp",
+      "/listings/ascott-park-place-dubai/gallery-05.webp",
+      "/listings/ascott-park-place-dubai/gallery-06.webp",
+      "/listings/ascott-park-place-dubai/gallery-07.webp",
+      "/listings/ascott-park-place-dubai/gallery-08.webp",
+      "/listings/ascott-park-place-dubai/hero-01.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -590,7 +653,15 @@
       "https://cache.marriott.com/is/image/marriotts7prod/er-dxbhc-pool-lunch-11946:Wide-Hor?wid=1336&fit=constrain",
       "https://cache.marriott.com/is/image/marriotts7prod/er-dxbhc-apartment-kitchen-31927:Wide-Hor?wid=1336&fit=constrain"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/marriott-executive-apartments-al-jaddaf-dubai/01.webp",
+      "/listings/marriott-executive-apartments-al-jaddaf-dubai/02.webp",
+      "/listings/marriott-executive-apartments-al-jaddaf-dubai/03.webp",
+      "/listings/marriott-executive-apartments-al-jaddaf-dubai/04.webp",
+      "/listings/marriott-executive-apartments-al-jaddaf-dubai/05.webp",
+      "/listings/marriott-executive-apartments-al-jaddaf-dubai/06.webp",
+      "/listings/marriott-executive-apartments-al-jaddaf-dubai/07.webp"
+    ],
     "unitTypes": [],
     "amenities": [
       "Kitchen",
@@ -639,7 +710,16 @@
       "https://cache.marriott.com/content/dam/marriott-renditions/DXBGL/dxbgl-king-suite-0636-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=992px:*",
       "https://cache.marriott.com/content/dam/marriott-renditions/DXBGL/dxbgl-king-suite-0636-hor-pano.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1200px:*"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/grosvenor-house-residences-dubai/01.webp",
+      "/listings/grosvenor-house-residences-dubai/02.webp",
+      "/listings/grosvenor-house-residences-dubai/03.webp",
+      "/listings/grosvenor-house-residences-dubai/04.webp",
+      "/listings/grosvenor-house-residences-dubai/05.webp",
+      "/listings/grosvenor-house-residences-dubai/06.webp",
+      "/listings/grosvenor-house-residences-dubai/07.webp",
+      "/listings/grosvenor-house-residences-dubai/08.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -720,7 +800,14 @@
       "https://cache.marriott.com/is/image/marriotts7prod/ri-dxbsz-fitness-center-42244-43141:Wide-Hor?wid=1336&fit=constrain",
       "https://cache.marriott.com/is/image/marriotts7prod/ri-dxbsz-outdoor-pool18852-57992:Wide-Hor?wid=1336&fit=constrain"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residence-inn-sheikh-zayed-road-dubai/01.webp",
+      "/listings/residence-inn-sheikh-zayed-road-dubai/02.webp",
+      "/listings/residence-inn-sheikh-zayed-road-dubai/03.webp",
+      "/listings/residence-inn-sheikh-zayed-road-dubai/04.webp",
+      "/listings/residence-inn-sheikh-zayed-road-dubai/05.webp",
+      "/listings/residence-inn-sheikh-zayed-road-dubai/06.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -760,7 +847,15 @@
       "https://cache.marriott.com/is/image/marriotts7prod/el-dxbep-dxbep-pool-13322:Wide-Hor?wid=1336&fit=constrain",
       "https://cache.marriott.com/content/dam/marriott-renditions/DXBEP/dxbep-element-studio-kitchenette-7485-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/element-dubai-airport/01.webp",
+      "/listings/element-dubai-airport/02.webp",
+      "/listings/element-dubai-airport/03.webp",
+      "/listings/element-dubai-airport/04.webp",
+      "/listings/element-dubai-airport/05.webp",
+      "/listings/element-dubai-airport/06.webp",
+      "/listings/element-dubai-airport/07.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -799,7 +894,11 @@
       "https://cache.marriott.com/content/dam/marriott-renditions/DXBEJ/dxbej-two-bedroom-suite-6573-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
       "https://cache.marriott.com/is/image/marriotts7prod/el-dxbej-apartment-kitchen-3-13224:Wide-Hor?wid=1336&fit=constrain"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/element-al-jaddaf-dubai/01.webp",
+      "/listings/element-al-jaddaf-dubai/02.webp",
+      "/listings/element-al-jaddaf-dubai/03.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -838,7 +937,13 @@
       "https://cache.marriott.com/is/image/marriotts7prod/dxbel-fitness-centre-7128:Wide-Hor?wid=1336&fit=constrain",
       "https://cache.marriott.com/content/dam/marriott-renditions/DXBEL/dxbel-studio-kitchenette-7129-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/element-meaisam-dubai/01.webp",
+      "/listings/element-meaisam-dubai/02.webp",
+      "/listings/element-meaisam-dubai/03.webp",
+      "/listings/element-meaisam-dubai/04.webp",
+      "/listings/element-meaisam-dubai/05.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -878,7 +983,10 @@
       "https://cache.marriott.com/is/image/marriotts7prod/el-dxbre-dxbra-pool-155-17783:Wide-Hor?wid=1336&fit=constrain",
       "https://cache.marriott.com/content/dam/marriott-renditions/DXBRE/dxbre-studio-kitchenette-1755-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/element-al-mina-dubai/01.webp",
+      "/listings/element-al-mina-dubai/02.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -922,7 +1030,16 @@
       "https://medias.adagio-city.com/photos/a7n6_ho_02_p_1024x768.jpg?twic=v1/cover=1024x768",
       "https://medias.adagio-city.com/photos/a7n6_ho_03_p_1024x768.jpg?twic=v1/cover=1024x768"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-dubai-deira/01.webp",
+      "/listings/adagio-dubai-deira/02.webp",
+      "/listings/adagio-dubai-deira/03.webp",
+      "/listings/adagio-dubai-deira/04.webp",
+      "/listings/adagio-dubai-deira/05.webp",
+      "/listings/adagio-dubai-deira/06.webp",
+      "/listings/adagio-dubai-deira/07.webp",
+      "/listings/adagio-dubai-deira/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -979,7 +1096,16 @@
       "https://medias.adagio-city.com/photos/9221_roar2p_00_p_346x260.jpg?twic=v1/cover=328x246",
       "https://medias.adagio-city.com/photos/9221_roas4p_00_p_346x260.jpg?twic=v1/cover=328x246"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-premium-dubai-al-barsha/01.webp",
+      "/listings/adagio-premium-dubai-al-barsha/02.webp",
+      "/listings/adagio-premium-dubai-al-barsha/03.webp",
+      "/listings/adagio-premium-dubai-al-barsha/04.webp",
+      "/listings/adagio-premium-dubai-al-barsha/05.webp",
+      "/listings/adagio-premium-dubai-al-barsha/06.webp",
+      "/listings/adagio-premium-dubai-al-barsha/07.webp",
+      "/listings/adagio-premium-dubai-al-barsha/08.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -1032,7 +1158,16 @@
       "https://medias.adagio-city.com/photos/a609_roca1a_00_p_346x260.jpg?twic=v1/cover=328x246",
       "https://medias.adagio-city.com/photos/a609_roca2a_00_p_346x260.jpg?twic=v1/cover=328x246"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-premium-the-palm-dubai/01.webp",
+      "/listings/adagio-premium-the-palm-dubai/02.webp",
+      "/listings/adagio-premium-the-palm-dubai/03.webp",
+      "/listings/adagio-premium-the-palm-dubai/04.webp",
+      "/listings/adagio-premium-the-palm-dubai/05.webp",
+      "/listings/adagio-premium-the-palm-dubai/06.webp",
+      "/listings/adagio-premium-the-palm-dubai/07.webp",
+      "/listings/adagio-premium-the-palm-dubai/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1347,7 +1482,9 @@
       "https://cdn.blastness.biz/media/1665/top-JBR/thumbs/medium/1920-HQ-Facilities-4.webp",
       "https://cdn.blastness.biz/media/1665/top-JBR/thumbs/medium/1920-HQ-Facilities-4.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/suha-jbr-hotel-apartments-dubai/01.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -1400,7 +1537,10 @@
       "https://cdn.blastness.biz/media/1665/top-Creek/thumbs/full_mobile/1920-Bedroom2.webp",
       "https://cdn.blastness.biz/media/1665/top-Creek/thumbs/full_mobile/1920-Bedroom2.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/suha-creek-hotel-apartments-dubai/01.webp",
+      "/listings/suha-creek-hotel-apartments-dubai/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1451,7 +1591,10 @@
       "https://cdn.blastness.biz/media/1665/top-ParkHotel/thumbs/full_mobile/1920-HQ-Facilities-7.jpg",
       "https://cdn.blastness.biz/media/1665/top-ParkHotel/thumbs/medium/1920-HQ-Facilities-7.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/suha-al-jaddaf-dubai/01.webp",
+      "/listings/suha-al-jaddaf-dubai/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1502,7 +1645,10 @@
       "https://cdn.blastness.biz/media/1665/top-MinaRashid/thumbs/full_mobile/1920-2Std-2.jpg",
       "https://cdn.blastness.biz/media/1665/top-MinaRashid/thumbs/medium/1920-2Std-2.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/suha-mina-rashid-dubai/01.webp",
+      "/listings/suha-mina-rashid-dubai/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1557,7 +1703,10 @@
       "https://cdn.blastness.biz/media/1665/top-ParkHotel/thumbs/full_mobile/1920-HQ-Facilities-7.jpg",
       "https://cdn.blastness.biz/media/1665/top-ParkHotel/thumbs/medium/1920-HQ-Facilities-7.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/suha-park-dubai/01.webp",
+      "/listings/suha-park-dubai/02.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -1638,7 +1787,13 @@
       "https://cache.marriott.com/is/image/marriotts7prod/er-dxbvj-mea-dxbvj-2-br-gr-32819-21880:Wide-Hor?wid=1336&fit=constrain",
       "https://cache.marriott.com/is/image/marriotts7prod/er-dxbvj-mea-dxbvj-2-br-kitch14812-25685:Wide-Hor?wid=1336&fit=constrain"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/marriott-executive-apartments-jumeirah-lakes-towers-dubai/01.webp",
+      "/listings/marriott-executive-apartments-jumeirah-lakes-towers-dubai/02.webp",
+      "/listings/marriott-executive-apartments-jumeirah-lakes-towers-dubai/03.webp",
+      "/listings/marriott-executive-apartments-jumeirah-lakes-towers-dubai/04.webp",
+      "/listings/marriott-executive-apartments-jumeirah-lakes-towers-dubai/05.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -1682,7 +1837,13 @@
       "https://assets.oakshotels.com/image/upload/q_auto,f_auto/media/minor/oaks/images/uae/liwa-heights/600x400/oaks-liwa-heights-dubai-hotel-holiday-apartments-uae.jpg",
       "https://assets.oakshotels.com/image/upload/q_auto,f_auto,c_limit,w_300/media/minor/oaks/images/uae/liwa-heights/800x385/lobby-7.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oaks-liwa-heights-dubai/01.webp",
+      "/listings/oaks-liwa-heights-dubai/02.webp",
+      "/listings/oaks-liwa-heights-dubai/03.webp",
+      "/listings/oaks-liwa-heights-dubai/04.webp",
+      "/listings/oaks-liwa-heights-dubai/05.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -1732,7 +1893,15 @@
       "https://www.jannah-hotels.com/jannah_place/wp-content/uploads/2023/03/jpdm-2-300x200.jpg",
       "https://www.jannah-hotels.com/jannah_place/wp-content/uploads/2023/03/jpdm-2-1024x683.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/jannah-place-dubai-marina/01.webp",
+      "/listings/jannah-place-dubai-marina/02.webp",
+      "/listings/jannah-place-dubai-marina/03.webp",
+      "/listings/jannah-place-dubai-marina/04.webp",
+      "/listings/jannah-place-dubai-marina/05.webp",
+      "/listings/jannah-place-dubai-marina/06.webp",
+      "/listings/jannah-place-dubai-marina/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -1785,7 +1954,11 @@
       "https://static.wixstatic.com/media/e3667e_a00d7dcaa9594bddb6c19332daf5c4e0~mv2.png",
       "https://static.wixstatic.com/media/e3667e_a00d7dcaa9594bddb6c19332daf5c4e0~mv2.png/v1/crop/x_0,y_6,w_1754,h_1287/fill/w_82,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GS%20Hotel%20Apartments%20EN.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/golden-sands-hotel-apartments-dubai/01.webp",
+      "/listings/golden-sands-hotel-apartments-dubai/02.webp",
+      "/listings/golden-sands-hotel-apartments-dubai/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1839,7 +2012,12 @@
       "https://assets.oakshotels.com/image/upload/q_auto,f_auto,c_limit,w_300/media/minor/oaks/images/uae/oaks-ibn-battuta-gate-dubai/apartments/two-bedroom-apartment/gallery/two-bedroom-apartment-bedroom.png",
       "https://assets.oakshotels.com/image/upload/q_auto,f_auto,c_limit,w_300/media/minor/oaks/images/uae/oaks-ibn-battuta-gate-dubai/apartments/two-bedroom-apartment/gallery/two-bedroom-apartment-living-room.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oaks-ibn-battuta-gate-apartments-dubai/01.webp",
+      "/listings/oaks-ibn-battuta-gate-apartments-dubai/02.webp",
+      "/listings/oaks-ibn-battuta-gate-apartments-dubai/03.webp",
+      "/listings/oaks-ibn-battuta-gate-apartments-dubai/04.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -1890,7 +2068,15 @@
       "https://www.savoydubai.com/wp-content/uploads/sites/183/2020/07/Savoy-Suites-Swimming-Pool-home_slide03-768x1200.jpg",
       "https://www.savoydubai.com/wp-content/uploads/sites/183/2020/07/Savoy-Suites-Swimming-Pool-home_slide03-600x1000.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/savoy-suites-dubai/01.webp",
+      "/listings/savoy-suites-dubai/02.webp",
+      "/listings/savoy-suites-dubai/03.webp",
+      "/listings/savoy-suites-dubai/04.webp",
+      "/listings/savoy-suites-dubai/05.webp",
+      "/listings/savoy-suites-dubai/06.webp",
+      "/listings/savoy-suites-dubai/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -1943,7 +2129,14 @@
       "https://www.savoydubai.com/wp-content/uploads/sites/183/2020/07/Savoy-Crest-Coffee-Shop-1366x768.jpg",
       "https://www.savoydubai.com/wp-content/uploads/sites/183/2020/07/Savoy-Crest-Coffee-Shop-768x1148.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/savoy-crest-dubai/01.webp",
+      "/listings/savoy-crest-dubai/02.webp",
+      "/listings/savoy-crest-dubai/03.webp",
+      "/listings/savoy-crest-dubai/04.webp",
+      "/listings/savoy-crest-dubai/05.webp",
+      "/listings/savoy-crest-dubai/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1998,7 +2191,12 @@
       "https://www.savoydubai.com/wp-content/uploads/sites/183/2020/07/Savoy-Central-Coffee-Shop_slide_home03-768x1200.jpg",
       "https://www.savoydubai.com/wp-content/uploads/sites/183/2020/07/Savoy-Central-Coffee-Shop_slide_home03-600x1000.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/savoy-central-dubai/01.webp",
+      "/listings/savoy-central-dubai/02.webp",
+      "/listings/savoy-central-dubai/03.webp",
+      "/listings/savoy-central-dubai/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2050,7 +2248,12 @@
       "https://www.savoydubai.com/wp-content/uploads/sites/183/2020/07/Savoy-Park-Lobby_slide-768x1200.jpg",
       "https://www.savoydubai.com/wp-content/uploads/sites/183/2020/07/Savoy-Park-Lobby_slide-600x1000.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/savoy-park-dubai/01.webp",
+      "/listings/savoy-park-dubai/02.webp",
+      "/listings/savoy-park-dubai/03.webp",
+      "/listings/savoy-park-dubai/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],

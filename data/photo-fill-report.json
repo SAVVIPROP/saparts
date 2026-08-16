@@ -1,0 +1,419 @@
+{
+  "generated_at_hkt": "2026-08-16 19:13 HKT",
+  "filled_count": 10,
+  "still_blank_count": 36,
+  "total_files_downloaded": 59,
+  "listings": [
+    {
+      "slug": "address-downtown-serviced-residences-dubai",
+      "city": "dubai",
+      "officialUrl": "https://www.addresshotels.com/en/hotels/address-downtown/",
+      "downloaded": 6,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "gallery-03.jpg",
+        "gallery-04.jpg",
+        "gallery-05.jpg",
+        "gallery-06.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 6
+    },
+    {
+      "slug": "ascott-park-place-dubai",
+      "city": "dubai",
+      "officialUrl": "https://www.discoverasr.com/en/ascott-the-residence/united-arab-emirates/ascott-park-place-dubai",
+      "downloaded": 8,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "gallery-03.jpg",
+        "gallery-04.jpg",
+        "gallery-05.jpg",
+        "gallery-06.jpg",
+        "gallery-07.jpg",
+        "gallery-08.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 8
+    },
+    {
+      "slug": "citadines-culture-village-dubai",
+      "city": "dubai",
+      "officialUrl": "https://www.discoverasr.com/en/citadines/united-arab-emirates/citadines-culture-village-dubai",
+      "downloaded": 8,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "gallery-03.jpg",
+        "gallery-04.jpg",
+        "gallery-05.jpg",
+        "gallery-06.jpg",
+        "gallery-07.jpg",
+        "gallery-08.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 8
+    },
+    {
+      "slug": "chelsea-court-the-peak-hong-kong",
+      "city": "hong-kong",
+      "officialUrl": "http://www.chelseacourt.com.hk/en",
+      "downloaded": 8,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "gallery-03.jpg",
+        "gallery-04.jpg",
+        "gallery-05.jpg",
+        "gallery-06.jpg",
+        "gallery-07.jpg",
+        "gallery-08.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 8
+    },
+    {
+      "slug": "the-camphora-tsim-sha-tsui-hong-kong",
+      "city": "hong-kong",
+      "officialUrl": "https://www.sinosuites.com.hk/suites/en/thecamphora/",
+      "downloaded": 5,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "gallery-03.jpg",
+        "gallery-04.jpg",
+        "gallery-05.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 5
+    },
+    {
+      "slug": "the-gage-central-hong-kong",
+      "city": "hong-kong",
+      "officialUrl": "https://www.sinosuites.com.hk/suites/en/thegage/",
+      "downloaded": 4,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "gallery-03.jpg",
+        "gallery-04.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 4
+    },
+    {
+      "slug": "the-hillside-wan-chai-hong-kong",
+      "city": "hong-kong",
+      "officialUrl": "https://www.sinosuites.com.hk/suites/en/thehillside/",
+      "downloaded": 2,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 2
+    },
+    {
+      "slug": "the-ventris-happy-valley-hong-kong",
+      "city": "hong-kong",
+      "officialUrl": "https://www.sinosuites.com.hk/suites/en/theventris/",
+      "downloaded": 2,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 2
+    },
+    {
+      "slug": "v-causeway-bay-2-hong-kong",
+      "city": "hong-kong",
+      "officialUrl": "https://www.thev.hk/en/serviced-apartment/cws-serviced-apartment",
+      "downloaded": 8,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "gallery-03.jpg",
+        "gallery-04.jpg",
+        "gallery-05.jpg",
+        "gallery-06.jpg",
+        "gallery-07.jpg",
+        "gallery-08.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 8
+    },
+    {
+      "slug": "the-bridgeview-lenox-hill",
+      "city": "new-york",
+      "officialUrl": "https://www.theblueground.com/p/furnished-apartments/nyc-1754",
+      "downloaded": 8,
+      "skipped_reason": null,
+      "pack_files": [
+        "gallery-02.jpg",
+        "gallery-03.jpg",
+        "gallery-04.jpg",
+        "gallery-05.jpg",
+        "gallery-06.jpg",
+        "gallery-07.jpg",
+        "gallery-08.jpg",
+        "hero-01.jpg"
+      ],
+      "public_webp": 8
+    },
+    {
+      "slug": "address-beach-resort-residences-dubai",
+      "city": "dubai",
+      "officialUrl": "https://www.addresshotels.com/en/resorts/address-beach-resort/residences/",
+      "downloaded": 0,
+      "skipped_reason": "official page 403/WAF; no verified property-specific CDN photos"
+    },
+    {
+      "slug": "address-sky-view-residences-dubai",
+      "city": "dubai",
+      "officialUrl": "https://www.addresshotels.com/en/hotels/address-sky-view/residences/",
+      "downloaded": 0,
+      "skipped_reason": "official residences page 403/WAF; WebFetch returned text only, no image bytes"
+    },
+    {
+      "slug": "intercontinental-residence-suites-dubai-festival-city",
+      "city": "dubai",
+      "officialUrl": "https://www.ihg.com/intercontinental/hotels/us/en/dubai/dxbrs/hoteldetail",
+      "downloaded": 0,
+      "skipped_reason": "ihg.com 403/WAF; digital.ihg.com asset names not verifiable"
+    },
+    {
+      "slug": "intercontinental-residences-dubai-business-bay",
+      "city": "dubai",
+      "officialUrl": "https://www.ihg.com/intercontinental/hotels/us/en/dubai/dxbhc/hoteldetail",
+      "downloaded": 0,
+      "skipped_reason": "ihg.com 403/WAF; digital.ihg.com asset names not verifiable"
+    },
+    {
+      "slug": "residence-inn-al-jaddaf-dubai",
+      "city": "dubai",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/dxbri-residence-inn-al-jaddaf/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; cache.marriott.com paths not verifiable without inventing filenames"
+    },
+    {
+      "slug": "staybridge-suites-dubai-al-maktoum-airport",
+      "city": "dubai",
+      "officialUrl": "https://www.ihg.com/staybridge/hotels/us/en/dubai/dxbsb/hoteldetail",
+      "downloaded": 0,
+      "skipped_reason": "ihg.com 403/WAF; digital.ihg.com asset names not verifiable"
+    },
+    {
+      "slug": "staybridge-suites-dubai-business-bay",
+      "city": "dubai",
+      "officialUrl": "https://www.ihg.com/staybridge/hotels/us/en/dubai/dxbbu/hoteldetail",
+      "downloaded": 0,
+      "skipped_reason": "ihg.com 403/WAF; digital.ihg.com asset names not verifiable"
+    },
+    {
+      "slug": "staybridge-suites-dubai-financial-centre",
+      "city": "dubai",
+      "officialUrl": "https://www.ihg.com/staybridge/hotels/us/en/dubai/dxbfn/hoteldetail",
+      "downloaded": 0,
+      "skipped_reason": "ihg.com 403/WAF; digital.ihg.com asset names not verifiable"
+    },
+    {
+      "slug": "staybridge-suites-dubai-internet-city",
+      "city": "dubai",
+      "officialUrl": "https://www.ihg.com/staybridge/hotels/us/en/dubai/dxbtt/hoteldetail",
+      "downloaded": 0,
+      "skipped_reason": "ihg.com 403/WAF; digital.ihg.com asset names not verifiable"
+    },
+    {
+      "slug": "vida-emirates-hills-residences-dubai",
+      "city": "dubai",
+      "officialUrl": "https://www.vidahotels.com/en/hotels/vida-emirates-hills/residences/",
+      "downloaded": 0,
+      "skipped_reason": "official page 403/WAF; no verified property-specific CDN photos"
+    },
+    {
+      "slug": "hollywood-hill-sheung-wan-hong-kong",
+      "city": "hong-kong",
+      "officialUrl": "https://www.hollywoodhill.com.hk/en",
+      "downloaded": 0,
+      "skipped_reason": "official host www.hollywoodhill.com.hk does not resolve (DNS failure)"
+    },
+    {
+      "slug": "resiglow-sai-ying-pun-hong-kong",
+      "city": "hong-kong",
+      "officialUrl": "https://www.resiglow.com.hk/bonham/en/",
+      "downloaded": 0,
+      "skipped_reason": "official host www.resiglow.com.hk does not resolve (DNS failure)"
+    },
+    {
+      "slug": "dolphin-square-serviced-apartments-london",
+      "city": "london",
+      "officialUrl": "https://www.dolphinsquare.co.uk/",
+      "downloaded": 0,
+      "skipped_reason": "dolphinsquare.co.uk 403/Cloudflare; wp-json also 403"
+    },
+    {
+      "slug": "hyatt-house-london-stratford",
+      "city": "london",
+      "officialUrl": "https://www.hyatt.com/hyatt-house/en-US/lhrxs-hyatt-house-london-stratford",
+      "downloaded": 0,
+      "skipped_reason": "hyatt.com 403/WAF; assets.hyatt.com path not verifiable without inventing filename"
+    },
+    {
+      "slug": "numa-bloomsbury-london",
+      "city": "london",
+      "officialUrl": "https://nativeplaces.com/london/",
+      "downloaded": 0,
+      "skipped_reason": "officialUrl is city listing nativeplaces.com/london/ (403/CF); no property-specific official page reachable"
+    },
+    {
+      "slug": "numa-chelsea-green-london",
+      "city": "london",
+      "officialUrl": "https://nativeplaces.com/london/",
+      "downloaded": 0,
+      "skipped_reason": "officialUrl is city listing nativeplaces.com/london/ (403/CF); no property-specific official page reachable"
+    },
+    {
+      "slug": "residence-inn-by-marriott-london-bridge",
+      "city": "london",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/lonlb-residence-inn-london-bridge/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "residence-inn-by-marriott-london-kensington",
+      "city": "london",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/lonri-residence-inn-london-kensington/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "residence-inn-by-marriott-london-tower-bridge",
+      "city": "london",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/lonbd-residence-inn-london-tower-bridge/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "element-new-york-times-square-west",
+      "city": "new-york",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/nycel-element-new-york-times-square-west/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "home2-suites-by-hilton-new-york-long-island-city-manhattan-view",
+      "city": "new-york",
+      "officialUrl": "https://www.hilton.com/en/hotels/ispmvht-home2-suites-new-york-long-island-city-manhattan-view-ny/",
+      "downloaded": 0,
+      "skipped_reason": "hilton.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "home2-suites-by-hilton-new-york-times-square",
+      "city": "new-york",
+      "officialUrl": "https://www.hilton.com/en/hotels/nycseht-home2-suites-new-york-times-square/",
+      "downloaded": 0,
+      "skipped_reason": "hilton.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "homewood-suites-by-hilton-new-york-midtown-manhattan-times-square-south",
+      "city": "new-york",
+      "officialUrl": "https://www.hilton.com/en/hotels/nycmmhw-homewood-suites-new-york-midtown-manhattan-times-square-south-ny/",
+      "downloaded": 0,
+      "skipped_reason": "hilton.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "hyatt-house-new-york-chelsea",
+      "city": "new-york",
+      "officialUrl": "https://www.hyatt.com/en-US/hotel/new-york/hyatt-house-new-york-chelsea/nycxc",
+      "downloaded": 0,
+      "skipped_reason": "hyatt.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "residence-inn-new-york-manhattan-central-park",
+      "city": "new-york",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/nycpr-residence-inn-new-york-manhattan-central-park/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "residence-inn-new-york-queens",
+      "city": "new-york",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/nycrq-residence-inn-new-york-queens/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "staybridge-suites-times-square-new-york-city",
+      "city": "new-york",
+      "officialUrl": "https://www.ihg.com/staybridge/hotels/us/en/new-york/nycee/hoteldetail",
+      "downloaded": 0,
+      "skipped_reason": "ihg.com 403/WAF; digital.ihg.com asset names not verifiable"
+    },
+    {
+      "slug": "towneplace-suites-new-york-manhattan-chelsea",
+      "city": "new-york",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/nyctl-towneplace-suites-new-york-manhattan-chelsea/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "towneplace-suites-new-york-manhattan-times-square",
+      "city": "new-york",
+      "officialUrl": "https://www.marriott.com/en-us/hotels/nycts-towneplace-suites-new-york-manhattan-times-square/overview/",
+      "downloaded": 0,
+      "skipped_reason": "marriott.com 403/WAF; no verifiable property photo URL"
+    },
+    {
+      "slug": "far-east-plaza-residences-singapore",
+      "city": "singapore",
+      "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/far-east-plaza-residences",
+      "downloaded": 0,
+      "skipped_reason": "fareasthospitality.com 403/Cloudflare; no property-specific media CDN path retrieved"
+    },
+    {
+      "slug": "oasia-residence-singapore",
+      "city": "singapore",
+      "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/oasia-residence-singapore",
+      "downloaded": 0,
+      "skipped_reason": "fareasthospitality.com 403/Cloudflare; no property-specific media CDN path retrieved"
+    },
+    {
+      "slug": "orchard-parksuites-singapore",
+      "city": "singapore",
+      "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/orchard-parksuites",
+      "downloaded": 0,
+      "skipped_reason": "fareasthospitality.com 403/Cloudflare; no property-specific media CDN path retrieved"
+    },
+    {
+      "slug": "orchard-scotts-residences-singapore",
+      "city": "singapore",
+      "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/orchard-scotts-residences",
+      "downloaded": 0,
+      "skipped_reason": "fareasthospitality.com 403/Cloudflare; no property-specific media CDN path retrieved"
+    },
+    {
+      "slug": "village-residence-hougang-singapore",
+      "city": "singapore",
+      "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/village-residence-hougang",
+      "downloaded": 0,
+      "skipped_reason": "fareasthospitality.com 403/Cloudflare; no property-specific media CDN path retrieved"
+    },
+    {
+      "slug": "village-residence-robertson-quay-singapore",
+      "city": "singapore",
+      "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/village-residence-robertson-quay",
+      "downloaded": 0,
+      "skipped_reason": "fareasthospitality.com 403/Cloudflare; no property-specific media CDN path retrieved"
+    },
+    {
+      "slug": "village-residence-west-coast-singapore",
+      "city": "singapore",
+      "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/village-residence-west-coast",
+      "downloaded": 0,
+      "skipped_reason": "fareasthospitality.com 403/Cloudflare; no property-specific media CDN path retrieved"
+    }
+  ]
+}

@@ -30,7 +30,16 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/ascott-marunouchi-tokyo/gallery/SR_Japan_Tokyo_Asc Marunouchi_1EXE_Dining-HR.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/ascott-marunouchi-tokyo/gallery/SR_Japan_Tokyo_Asc Marunouchi_1PRE_Dining-HR.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/ascott-marunouchi-tokyo/01.webp",
+      "/listings/ascott-marunouchi-tokyo/02.webp",
+      "/listings/ascott-marunouchi-tokyo/03.webp",
+      "/listings/ascott-marunouchi-tokyo/04.webp",
+      "/listings/ascott-marunouchi-tokyo/05.webp",
+      "/listings/ascott-marunouchi-tokyo/06.webp",
+      "/listings/ascott-marunouchi-tokyo/07.webp",
+      "/listings/ascott-marunouchi-tokyo/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -101,7 +110,11 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/citadines-shinjuku-tokyo/gallery/JP-Tokyo-CST-StudioTwin-Bedrm01-thum.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/citadines-shinjuku-tokyo/gallery/JP-TOK~3.JPG"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-shinjuku-tokyo/01.webp",
+      "/listings/citadines-shinjuku-tokyo/02.webp",
+      "/listings/citadines-shinjuku-tokyo/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -164,7 +177,13 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/citadines-north-shinjuku-tokyo/gallery/amenities/LAUNDRY 4x3.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/citadines-north-shinjuku-tokyo/gallery/amenities/HOTEL EV HALL 4x3.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-north-shinjuku-tokyo/01.webp",
+      "/listings/citadines-north-shinjuku-tokyo/02.webp",
+      "/listings/citadines-north-shinjuku-tokyo/03.webp",
+      "/listings/citadines-north-shinjuku-tokyo/04.webp",
+      "/listings/citadines-north-shinjuku-tokyo/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -227,7 +246,12 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/somerset-ginza-east-tokyo/gallery/SR_Japan_Tokyo_Somerset Ginza East Tokyo_Facade-LR.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/somerset-ginza-east-tokyo/gallery/somerset-ginza-east-tokyo-overview-vr.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/somerset-ginza-east-tokyo/01.webp",
+      "/listings/somerset-ginza-east-tokyo/02.webp",
+      "/listings/somerset-ginza-east-tokyo/03.webp",
+      "/listings/somerset-ginza-east-tokyo/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -290,7 +314,15 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/somerset-shinagawa-tokyo/gallery/SR_Japan_Tokyo_Somerset Shinagawa Tokyo_134.11sqm_2BRM_Bathrm-HR_jpg.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/somerset-shinagawa-tokyo/gallery/SR_Japan_Tokyo_Somerset Shinagawa Tokyo_134.11sqm_2BRM_Living rm-HR_jpg.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/somerset-shinagawa-tokyo/01.webp",
+      "/listings/somerset-shinagawa-tokyo/02.webp",
+      "/listings/somerset-shinagawa-tokyo/03.webp",
+      "/listings/somerset-shinagawa-tokyo/04.webp",
+      "/listings/somerset-shinagawa-tokyo/05.webp",
+      "/listings/somerset-shinagawa-tokyo/06.webp",
+      "/listings/somerset-shinagawa-tokyo/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -358,7 +390,14 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/lyf-ginza-tokyo/gallery/SR_Japan_Tokyo_lyfGinza_Good for One Plus_Studio_Single_BRM01-HR.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/lyf-ginza-tokyo/gallery/SR_Japan_Tokyo_lyfGinza_Good for One_Studio_Single_BRM02-HR.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/lyf-ginza-tokyo/01.webp",
+      "/listings/lyf-ginza-tokyo/02.webp",
+      "/listings/lyf-ginza-tokyo/03.webp",
+      "/listings/lyf-ginza-tokyo/04.webp",
+      "/listings/lyf-ginza-tokyo/05.webp",
+      "/listings/lyf-ginza-tokyo/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -422,7 +461,14 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/lyf-shibuya-tokyo/gallery/SR_Japan_Tokyo_lyfShibuya_Facade01-LR.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/lyf-shibuya-tokyo/gallery/SR_Japan_Tokyo_lyfShibuya_One of a Kind_Studio_Double_BRM01-HR1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/lyf-shibuya-tokyo/01.webp",
+      "/listings/lyf-shibuya-tokyo/02.webp",
+      "/listings/lyf-shibuya-tokyo/03.webp",
+      "/listings/lyf-shibuya-tokyo/04.webp",
+      "/listings/lyf-shibuya-tokyo/05.webp",
+      "/listings/lyf-shibuya-tokyo/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -485,7 +531,14 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-premier-tokyo/gallery/OPTK-entrance1.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-premier-tokyo/overview/three-bedroom-executive-apartment-thumb.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-premier-tokyo/01.webp",
+      "/listings/oakwood-premier-tokyo/02.webp",
+      "/listings/oakwood-premier-tokyo/03.webp",
+      "/listings/oakwood-premier-tokyo/04.webp",
+      "/listings/oakwood-premier-tokyo/05.webp",
+      "/listings/oakwood-premier-tokyo/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -552,7 +605,14 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-premier-tokyo-midtown/apartmenttypes/one-bedroom-deluxe-apartment/One-Bedroom-Deluxe%20-Apartment-media.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-premier-tokyo-midtown/overview/OPTM-OnebedroomEXE-thumb.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-premier-tokyo-midtown/01.webp",
+      "/listings/oakwood-premier-tokyo-midtown/02.webp",
+      "/listings/oakwood-premier-tokyo-midtown/03.webp",
+      "/listings/oakwood-premier-tokyo-midtown/04.webp",
+      "/listings/oakwood-premier-tokyo-midtown/05.webp",
+      "/listings/oakwood-premier-tokyo-midtown/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -619,7 +679,15 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-hotel-apartments-azabu-tokyo/gallery/rooms/hotel-apartments-azabu-tokyo-gallery-10.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-hotel-apartments-azabu-tokyo/gallery/rooms/hotel-apartments-azabu-tokyo-gallery-11.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-hotel-apartments-azabu-tokyo/01.webp",
+      "/listings/oakwood-hotel-apartments-azabu-tokyo/02.webp",
+      "/listings/oakwood-hotel-apartments-azabu-tokyo/03.webp",
+      "/listings/oakwood-hotel-apartments-azabu-tokyo/04.webp",
+      "/listings/oakwood-hotel-apartments-azabu-tokyo/05.webp",
+      "/listings/oakwood-hotel-apartments-azabu-tokyo/06.webp",
+      "/listings/oakwood-hotel-apartments-azabu-tokyo/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -686,7 +754,11 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-apartments-minami-azabu-tokyo/gallery/OAMAT151JP_Rev.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-apartments-minami-azabu-tokyo/gallery/OAMAT150JP_Rev.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-apartments-minami-azabu-tokyo/01.webp",
+      "/listings/oakwood-apartments-minami-azabu-tokyo/02.webp",
+      "/listings/oakwood-apartments-minami-azabu-tokyo/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -746,7 +818,12 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-apartments-nishi-shinjuku-tokyo/gallery/rooms/apartments-nishishinjuku-tokyo-gallery-8.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-apartments-nishi-shinjuku-tokyo/gallery/rooms/oakwood-apartment-nishishinjuku-ga-1102-BATH_re.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-apartments-nishi-shinjuku-tokyo/01.webp",
+      "/listings/oakwood-apartments-nishi-shinjuku-tokyo/02.webp",
+      "/listings/oakwood-apartments-nishi-shinjuku-tokyo/03.webp",
+      "/listings/oakwood-apartments-nishi-shinjuku-tokyo/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -804,7 +881,14 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-apartments-shirokane-tokyo/gallery/oast_3bedroom guest room secondroom.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-apartments-shirokane-tokyo/gallery/oast_3bedroom bathroom.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-apartments-shirokane-tokyo/01.webp",
+      "/listings/oakwood-apartments-shirokane-tokyo/02.webp",
+      "/listings/oakwood-apartments-shirokane-tokyo/03.webp",
+      "/listings/oakwood-apartments-shirokane-tokyo/04.webp",
+      "/listings/oakwood-apartments-shirokane-tokyo/05.webp",
+      "/listings/oakwood-apartments-shirokane-tokyo/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -867,7 +951,14 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-oimachi-tracks-tokyo/gallery/rooms/oakwood_oimachi_1702_b.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-oimachi-tracks-tokyo/amenities/Oakwood-Oimachi-Tracks-Tokyo-telebooth.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-oimachi-tracks-tokyo/01.webp",
+      "/listings/oakwood-oimachi-tracks-tokyo/02.webp",
+      "/listings/oakwood-oimachi-tracks-tokyo/03.webp",
+      "/listings/oakwood-oimachi-tracks-tokyo/04.webp",
+      "/listings/oakwood-oimachi-tracks-tokyo/05.webp",
+      "/listings/oakwood-oimachi-tracks-tokyo/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -931,7 +1022,13 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-residence-aoyama-tokyo/gallery/ORAT-Lobby-1.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-residence-aoyama-tokyo/gallery/ORAT-Lobby-2.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-residence-aoyama-tokyo/01.webp",
+      "/listings/oakwood-residence-aoyama-tokyo/02.webp",
+      "/listings/oakwood-residence-aoyama-tokyo/03.webp",
+      "/listings/oakwood-residence-aoyama-tokyo/04.webp",
+      "/listings/oakwood-residence-aoyama-tokyo/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -996,7 +1093,13 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-residence-azabujyuban-tokyo/gallery/ORAZ Front_Desk2.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-residence-azabujyuban-tokyo/gallery/ORAZ 206-1BD-LD.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-residence-azabujyuban-tokyo/01.webp",
+      "/listings/oakwood-residence-azabujyuban-tokyo/02.webp",
+      "/listings/oakwood-residence-azabujyuban-tokyo/03.webp",
+      "/listings/oakwood-residence-azabujyuban-tokyo/04.webp",
+      "/listings/oakwood-residence-azabujyuban-tokyo/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1062,7 +1165,15 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-residence-roppongi-t-cube-tokyo/gallery/ORRTT-2Bed-skysuite-mediagallery1.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-residence-roppongi-t-cube-tokyo/gallery/ORRTT-2Bed-skysuite-mediagallery2.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-residence-roppongi-t-cube-tokyo/01.webp",
+      "/listings/oakwood-residence-roppongi-t-cube-tokyo/02.webp",
+      "/listings/oakwood-residence-roppongi-t-cube-tokyo/03.webp",
+      "/listings/oakwood-residence-roppongi-t-cube-tokyo/04.webp",
+      "/listings/oakwood-residence-roppongi-t-cube-tokyo/05.webp",
+      "/listings/oakwood-residence-roppongi-t-cube-tokyo/06.webp",
+      "/listings/oakwood-residence-roppongi-t-cube-tokyo/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1130,7 +1241,15 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-residence-shinagawa-tokyo/gallery/Oakwood-Residence-Shinagawa-Tokyo_3001-3BR Superior-B2.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/japan/tokyo/oakwood-residence-shinagawa-tokyo/gallery/Oakwood-Residence-Shinagawa-Tokyo_3001-3BR Superior-BATH.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/oakwood-residence-shinagawa-tokyo/01.webp",
+      "/listings/oakwood-residence-shinagawa-tokyo/02.webp",
+      "/listings/oakwood-residence-shinagawa-tokyo/03.webp",
+      "/listings/oakwood-residence-shinagawa-tokyo/04.webp",
+      "/listings/oakwood-residence-shinagawa-tokyo/05.webp",
+      "/listings/oakwood-residence-shinagawa-tokyo/06.webp",
+      "/listings/oakwood-residence-shinagawa-tokyo/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1191,7 +1310,13 @@
       "https://www.frasersproperty.com/content/dam/frasers-hospitality/english/properties/japan/tokyo/frasers-place-roppongi-tokyo/rooms/one-bedroom-deluxe/fh_en_fprtjp_roomldetail_masthead_onebedroomdeluxe_1.jpg",
       "https://www.frasersproperty.com/content/dam/frasers-hospitality/english/properties/japan/tokyo/frasers-place-roppongi-tokyo/facilities/gym/fh_en_fprtjp_facilityldetail_masthead_gym_1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/fraser-place-roppongi-tokyo/01.webp",
+      "/listings/fraser-place-roppongi-tokyo/02.webp",
+      "/listings/fraser-place-roppongi-tokyo/03.webp",
+      "/listings/fraser-place-roppongi-tokyo/04.webp",
+      "/listings/fraser-place-roppongi-tokyo/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1254,7 +1379,9 @@
       "https://mimaruhotels.com/app/uploads/2025/01/img_2-1.jpg",
       "https://mimaruhotels.com/app/uploads/2025/01/img_4-1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mimaru-suites-tokyo-asakusa/01.webp"
+    ],
     "unitTypes": [
       "2-Bed"
     ],
@@ -1311,7 +1438,10 @@
       "https://mimaruhotels.com/app/uploads/2025/01/POKE_43-1.jpg",
       "https://mimaruhotels.com/app/uploads/2025/01/img-1-11.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mimaru-tokyo-ikebukuro/01.webp",
+      "/listings/mimaru-tokyo-ikebukuro/02.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -1369,7 +1499,9 @@
       "https://mimaruhotels.com/app/uploads/2025/01/img-8-3.jpg",
       "https://mimaruhotels.com/app/uploads/2025/01/OD2_1215_43s.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mimaru-suites-tokyo-nihombashi/01.webp"
+    ],
     "unitTypes": [
       "2-Bed"
     ],
@@ -1426,7 +1558,9 @@
       "https://mimaruhotels.com/app/uploads/2025/01/108f597406d8461fa0a8b81ce3ec1e08-1.jpg",
       "https://mimaruhotels.com/app/uploads/2025/01/48f1bbd70dfe71172f8812f7d57ba8bf-1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mimaru-tokyo-kinshicho/01.webp"
+    ],
     "unitTypes": [
       "1-Bed"
     ],
@@ -1483,7 +1617,10 @@
       "https://mimaruhotels.com/app/uploads/2025/01/img-8-5.jpg",
       "https://mimaruhotels.com/app/uploads/2025/01/img-9-8.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mimaru-tokyo-station-east/01.webp",
+      "/listings/mimaru-tokyo-station-east/02.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -1761,7 +1898,9 @@
       "https://mimaruhotels.com/app/uploads/2025/01/img-4-56.jpg",
       "https://mimaruhotels.com/app/uploads/2025/01/img-5-44.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mimaru-tokyo-ueno-okachimachi/01.webp"
+    ],
     "unitTypes": [
       "1-Bed"
     ],
@@ -1873,7 +2012,9 @@
       "https://mimaruhotels.com/app/uploads/2025/01/fb9ab4fbd1b0ac3969836a642fcf94cb.jpg",
       "https://mimaruhotels.com/app/uploads/2025/01/18859b849af9a3e7c0956a0763d4bfea.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mimaru-tokyo-shinjuku-west/01.webp"
+    ],
     "unitTypes": [
       "1-Bed"
     ],
@@ -2040,7 +2181,9 @@
       "https://mimaruhotels.com/app/uploads/2025/01/a73f26312cd465718d46e0f6cb63ecee.jpg",
       "https://mimaruhotels.com/app/uploads/2025/01/86837dcb942c9b64e67f60408da9cfbf.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mimaru-tokyo-asakusa-station/01.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -2098,7 +2241,12 @@
       "https://www.newotani.co.jp/fileadmin/res/tokyo/serviced-apartments/concept/gym-2.jpg",
       "https://www.newotani.co.jp/fileadmin/res/tokyo/serviced-apartments/concept/doorman.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/hotel-new-otani-tokyo-serviced-apartments/01.webp",
+      "/listings/hotel-new-otani-tokyo-serviced-apartments/02.webp",
+      "/listings/hotel-new-otani-tokyo-serviced-apartments/03.webp",
+      "/listings/hotel-new-otani-tokyo-serviced-apartments/04.webp"
+    ],
     "unitTypes": [],
     "amenities": [
       "Gym",
@@ -2164,7 +2312,12 @@
       "https://www.moriliving.com/assets/images/common/sa/azabudai_b/services_amenities/image09l.webp",
       "https://www.moriliving.com/assets/images/common/sa/azabudai_b/services_amenities/image05l.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mori-living-azabudai-hills-residence-b-tokyo/01.webp",
+      "/listings/mori-living-azabudai-hills-residence-b-tokyo/02.webp",
+      "/listings/mori-living-azabudai-hills-residence-b-tokyo/03.webp",
+      "/listings/mori-living-azabudai-hills-residence-b-tokyo/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -2237,7 +2390,11 @@
       "https://www.moriliving.com/assets/images/common/sa/toranomon_rt/image08l.webp",
       "https://www.moriliving.com/assets/images/common/sa/toranomon_rt/services_amenities/image06l.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mori-living-toranomon-hills-residential-tower-tokyo/01.webp",
+      "/listings/mori-living-toranomon-hills-residential-tower-tokyo/02.webp",
+      "/listings/mori-living-toranomon-hills-residential-tower-tokyo/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -2308,7 +2465,10 @@
       "https://www.moriliving.com/assets/images/common/sa/atago/broadimage02s.webp",
       "https://www.moriliving.com/assets/images/common/sa/atago/image07l.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mori-living-atago-green-hills-forest-tower-tokyo/01.webp",
+      "/listings/mori-living-atago-green-hills-forest-tower-tokyo/02.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -2378,7 +2538,10 @@
       "https://www.moriliving.com/assets/images/common/sa/arktowers/broadimage02s.webp",
       "https://www.moriliving.com/assets/images/common/sa/arktowers/image07l.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mori-living-ark-towers-tokyo/01.webp",
+      "/listings/mori-living-ark-towers-tokyo/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"

@@ -20,30 +20,55 @@ export function isBlockedHost(url: string): boolean {
   }
 }
 
-export function isUsablePhotoUrl(url?: string | null): url is string {
+export function isRemoteHttpUrl(url: string): boolean {
+  return /^https?:\/\//i.test(url.trim());
+}
+
+export function isLocalListingPhoto(url?: string | null): url is string {
   if (!url || !String(url).trim()) return false;
   const trimmed = url.trim();
-  if (!/^https?:\/\//i.test(trimmed)) return false;
-  if (isBlockedHost(trimmed)) return false;
+  if (isRemoteHttpUrl(trimmed)) return false;
+  if (!trimmed.startsWith("/listings/")) return false;
   if (isPromoOrGenericUrl(trimmed)) return false;
   return true;
 }
 
-export function galleryUrls(input: {
-  heroImageUrl?: string | null;
-  imageUrls?: string[] | null;
-}): string[] {
-  const urls = [input.heroImageUrl, ...(input.imageUrls ?? [])]
-    .filter((u): u is string => Boolean(u && String(u).trim()))
-    .map((u) => u.trim())
-    .filter(isUsablePhotoUrl);
-  return [...new Set(urls)];
+/** Display photos must be self-hosted. Remote operator CDNs are never usable. */
+export function isUsablePhotoUrl(url?: string | null): url is string {
+  if (!url || !String(url).trim()) return false;
+  const trimmed = url.trim();
+  if (isRemoteHttpUrl(trimmed)) {
+    // Keep promo/blocked-host filters for leftover remotes, but do not use them.
+    if (isBlockedHost(trimmed)) return false;
+    if (isPromoOrGenericUrl(trimmed)) return false;
+    return false;
+  }
+  return isLocalListingPhoto(trimmed);
 }
 
-export function cardImageUrl(input: {
+export type PhotoSource = {
+  slug?: string | null;
   heroImageUrl?: string | null;
   imageUrls?: string[] | null;
-}): string | null {
+  imageFiles?: string[] | null;
+};
+
+export function galleryUrls(input: PhotoSource): string[] {
+  const fromFiles = (input.imageFiles ?? [])
+    .filter((u): u is string => Boolean(u && String(u).trim()))
+    .map((u) => u.trim())
+    .filter(isLocalListingPhoto);
+  if (fromFiles.length) return [...new Set(fromFiles)];
+
+  // Do not fall back to heroImageUrl / imageUrls remotes. Local leftovers only.
+  const leftovers = [input.heroImageUrl, ...(input.imageUrls ?? [])]
+    .filter((u): u is string => Boolean(u && String(u).trim()))
+    .map((u) => u.trim())
+    .filter(isLocalListingPhoto);
+  return [...new Set(leftovers)];
+}
+
+export function cardImageUrl(input: PhotoSource): string | null {
   const urls = galleryUrls(input);
   return urls[0] ?? null;
 }

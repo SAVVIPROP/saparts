@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { isLocalListingPhoto } from "@/lib/media";
 
 export function SafeImage({
   src,
@@ -14,7 +15,7 @@ export function SafeImage({
   loading?: "lazy" | "eager";
 }) {
   const [failed, setFailed] = useState(false);
-  if (!src || failed) {
+  if (!src || failed || !isLocalListingPhoto(src)) {
     return <div className={`bg-gradient-to-br from-ivory-warm to-muted ${className ?? ""}`} aria-hidden />;
   }
   return (

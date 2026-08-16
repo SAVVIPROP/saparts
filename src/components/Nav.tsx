@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { isLocalListingPhoto } from "@/lib/media";
 import { usePathname } from "next/navigation";
 import { Wordmark } from "./Wordmark";
 import { useBookmarks } from "@/hooks/useBookmarks";
@@ -166,7 +167,7 @@ export function Nav({
                 bookmarks.map((b) => (
                   <div key={b.id} className="flex gap-3 items-start group">
                     <Link href={`/properties/${b.slug}`} onClick={() => setBookmarkPanelOpen(false)} className="block w-16 h-16 shrink-0 overflow-hidden bg-ivory-warm border border-border">
-                      {b.heroImageUrl ? (
+                      {isLocalListingPhoto(b.heroImageUrl) ? (
                         // eslint-disable-next-line @next/next/no-img-element
                         <img src={b.heroImageUrl} alt={b.name} className="w-full h-full object-cover" />
                       ) : (

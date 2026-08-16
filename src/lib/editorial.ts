@@ -49,7 +49,7 @@ export const INSIGHTS: Insight[] = [
     featured: false,
     publishedAt: "2026-01-20",
     body: [
-      "SAparts is an independent directory. Listings are imported from official city packs. We do not invent residences, photographs, or prices. Image files in the current packs are empty arrays; the gallery is built from heroImageUrl and imageUrls only, after dropping DiscoverASR promo banners and hosts that 403 from our edge (notably nativeplaces.com).",
+      "SAparts is an independent directory. Listings are imported from official city packs. We do not invent residences, photographs, or prices. Official listing photographs are copied from the city packs into self-hosted /listings/<slug>/ files. The gallery never hotlinks operator CDNs. A listing stays blank when no official file is on disk.",
       "Ratings and “Tier I” labels appear only when a source file carries a ratingScore. The current official packs do not. We will not fabricate a 9.0 so that a table looks full.",
       "City intelligence — visa notes, safety scores, checklists — is ported from the Atlas destination files and cited to the sources those files already name (IATA Timatic, Numbeo, UN Tourism, GSAIR). Forthcoming cities in cities.json render a designed empty state until a listing pack exists. We do not print a filesystem path as the user-facing message.",
       "Corrections: editorial@saparts.com. Verified corrections are applied to the next pack import.",

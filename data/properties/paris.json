@@ -24,7 +24,16 @@
       "https://medias.adagio-city.com/photos/6790_ho_02_p_1024x768.jpg",
       "https://medias.adagio-city.com/photos/6790_ho_03_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-centre-tour-eiffel/01.webp",
+      "/listings/adagio-paris-centre-tour-eiffel/02.webp",
+      "/listings/adagio-paris-centre-tour-eiffel/03.webp",
+      "/listings/adagio-paris-centre-tour-eiffel/04.webp",
+      "/listings/adagio-paris-centre-tour-eiffel/05.webp",
+      "/listings/adagio-paris-centre-tour-eiffel/06.webp",
+      "/listings/adagio-paris-centre-tour-eiffel/07.webp",
+      "/listings/adagio-paris-centre-tour-eiffel/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -78,7 +87,16 @@
       "https://medias.adagio-city.com/photos/6786_roar4p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/6786_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-xv/01.webp",
+      "/listings/adagio-paris-xv/02.webp",
+      "/listings/adagio-paris-xv/03.webp",
+      "/listings/adagio-paris-xv/04.webp",
+      "/listings/adagio-paris-xv/05.webp",
+      "/listings/adagio-paris-xv/06.webp",
+      "/listings/adagio-paris-xv/07.webp",
+      "/listings/adagio-paris-xv/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -131,7 +149,16 @@
       "https://medias.adagio-city.com/photos/6797_roar6p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/6797_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-porte-de-versailles/01.webp",
+      "/listings/adagio-paris-porte-de-versailles/02.webp",
+      "/listings/adagio-paris-porte-de-versailles/03.webp",
+      "/listings/adagio-paris-porte-de-versailles/04.webp",
+      "/listings/adagio-paris-porte-de-versailles/05.webp",
+      "/listings/adagio-paris-porte-de-versailles/06.webp",
+      "/listings/adagio-paris-porte-de-versailles/07.webp",
+      "/listings/adagio-paris-porte-de-versailles/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -185,7 +212,16 @@
       "https://medias.adagio-city.com/photos/6789_roas8p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/6789_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-bercy-village/01.webp",
+      "/listings/adagio-paris-bercy-village/02.webp",
+      "/listings/adagio-paris-bercy-village/03.webp",
+      "/listings/adagio-paris-bercy-village/04.webp",
+      "/listings/adagio-paris-bercy-village/05.webp",
+      "/listings/adagio-paris-bercy-village/06.webp",
+      "/listings/adagio-paris-bercy-village/07.webp",
+      "/listings/adagio-paris-bercy-village/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -237,7 +273,16 @@
       "https://medias.adagio-city.com/photos/6988_roca2p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/6988_roar4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-opera/01.webp",
+      "/listings/adagio-paris-opera/02.webp",
+      "/listings/adagio-paris-opera/03.webp",
+      "/listings/adagio-paris-opera/04.webp",
+      "/listings/adagio-paris-opera/05.webp",
+      "/listings/adagio-paris-opera/06.webp",
+      "/listings/adagio-paris-opera/07.webp",
+      "/listings/adagio-paris-opera/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -286,7 +331,16 @@
       "https://medias.adagio-city.com/photos/6793_roca2p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/6793_roar4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-haussmann/01.webp",
+      "/listings/adagio-paris-haussmann/02.webp",
+      "/listings/adagio-paris-haussmann/03.webp",
+      "/listings/adagio-paris-haussmann/04.webp",
+      "/listings/adagio-paris-haussmann/05.webp",
+      "/listings/adagio-paris-haussmann/06.webp",
+      "/listings/adagio-paris-haussmann/07.webp",
+      "/listings/adagio-paris-haussmann/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -337,7 +391,16 @@
       "https://medias.adagio-city.com/photos/6792_roar4p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/6792_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-montmartre/01.webp",
+      "/listings/adagio-paris-montmartre/02.webp",
+      "/listings/adagio-paris-montmartre/03.webp",
+      "/listings/adagio-paris-montmartre/04.webp",
+      "/listings/adagio-paris-montmartre/05.webp",
+      "/listings/adagio-paris-montmartre/06.webp",
+      "/listings/adagio-paris-montmartre/07.webp",
+      "/listings/adagio-paris-montmartre/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -387,7 +450,16 @@
       "https://medias.adagio-city.com/photos/6791_roas6p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/6791_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-buttes-chaumont/01.webp",
+      "/listings/adagio-paris-buttes-chaumont/02.webp",
+      "/listings/adagio-paris-buttes-chaumont/03.webp",
+      "/listings/adagio-paris-buttes-chaumont/04.webp",
+      "/listings/adagio-paris-buttes-chaumont/05.webp",
+      "/listings/adagio-paris-buttes-chaumont/06.webp",
+      "/listings/adagio-paris-buttes-chaumont/07.webp",
+      "/listings/adagio-paris-buttes-chaumont/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -440,7 +512,16 @@
       "https://medias.adagio-city.com/photos/b2r6_roar4p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/b2r6_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-19eme/01.webp",
+      "/listings/adagio-paris-19eme/02.webp",
+      "/listings/adagio-paris-19eme/03.webp",
+      "/listings/adagio-paris-19eme/04.webp",
+      "/listings/adagio-paris-19eme/05.webp",
+      "/listings/adagio-paris-19eme/06.webp",
+      "/listings/adagio-paris-19eme/07.webp",
+      "/listings/adagio-paris-19eme/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -489,7 +570,16 @@
       "https://medias.adagio-city.com/photos/a0x1_roar4p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/a0x1_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-nation/01.webp",
+      "/listings/adagio-paris-nation/02.webp",
+      "/listings/adagio-paris-nation/03.webp",
+      "/listings/adagio-paris-nation/04.webp",
+      "/listings/adagio-paris-nation/05.webp",
+      "/listings/adagio-paris-nation/06.webp",
+      "/listings/adagio-paris-nation/07.webp",
+      "/listings/adagio-paris-nation/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -541,7 +631,16 @@
       "https://www.ahstatic.com/photos/6987_ho_00_p_1024x768.jpg",
       "https://medias.adagio-city.com/photos/6987_roar4b_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-montrouge/01.webp",
+      "/listings/adagio-paris-montrouge/02.webp",
+      "/listings/adagio-paris-montrouge/03.webp",
+      "/listings/adagio-paris-montrouge/04.webp",
+      "/listings/adagio-paris-montrouge/05.webp",
+      "/listings/adagio-paris-montrouge/06.webp",
+      "/listings/adagio-paris-montrouge/07.webp",
+      "/listings/adagio-paris-montrouge/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -591,7 +690,16 @@
       "https://medias.adagio-city.com/photos/8164_roca3p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8164_roar4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-vincennes/01.webp",
+      "/listings/adagio-paris-vincennes/02.webp",
+      "/listings/adagio-paris-vincennes/03.webp",
+      "/listings/adagio-paris-vincennes/04.webp",
+      "/listings/adagio-paris-vincennes/05.webp",
+      "/listings/adagio-paris-vincennes/06.webp",
+      "/listings/adagio-paris-vincennes/07.webp",
+      "/listings/adagio-paris-vincennes/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -641,7 +749,16 @@
       "https://medias.adagio-city.com/photos/a242_ho_02_p_1024x768.jpg",
       "https://medias.adagio-city.com/photos/a242_roca2p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-malakoff-chatillon/01.webp",
+      "/listings/adagio-paris-malakoff-chatillon/02.webp",
+      "/listings/adagio-paris-malakoff-chatillon/03.webp",
+      "/listings/adagio-paris-malakoff-chatillon/04.webp",
+      "/listings/adagio-paris-malakoff-chatillon/05.webp",
+      "/listings/adagio-paris-malakoff-chatillon/06.webp",
+      "/listings/adagio-paris-malakoff-chatillon/07.webp",
+      "/listings/adagio-paris-malakoff-chatillon/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -693,7 +810,16 @@
       "https://medias.adagio-city.com/photos/b8k9_roca2b_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/b8k9_roar4b_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-paris-boulogne/01.webp",
+      "/listings/adagio-paris-boulogne/02.webp",
+      "/listings/adagio-paris-boulogne/03.webp",
+      "/listings/adagio-paris-boulogne/04.webp",
+      "/listings/adagio-paris-boulogne/05.webp",
+      "/listings/adagio-paris-boulogne/06.webp",
+      "/listings/adagio-paris-boulogne/07.webp",
+      "/listings/adagio-paris-boulogne/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -747,7 +873,16 @@
       "https://medias.adagio-city.com/photos/b2w4_roar4p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/b2w4_roar4b_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-suresnes-longchamps/01.webp",
+      "/listings/adagio-suresnes-longchamps/02.webp",
+      "/listings/adagio-suresnes-longchamps/03.webp",
+      "/listings/adagio-suresnes-longchamps/04.webp",
+      "/listings/adagio-suresnes-longchamps/05.webp",
+      "/listings/adagio-suresnes-longchamps/06.webp",
+      "/listings/adagio-suresnes-longchamps/07.webp",
+      "/listings/adagio-suresnes-longchamps/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -802,7 +937,16 @@
       "https://medias.adagio-city.com/photos/2816_roar4p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/2816_roar4t_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-la-defense-esplanade/01.webp",
+      "/listings/adagio-la-defense-esplanade/02.webp",
+      "/listings/adagio-la-defense-esplanade/03.webp",
+      "/listings/adagio-la-defense-esplanade/04.webp",
+      "/listings/adagio-la-defense-esplanade/05.webp",
+      "/listings/adagio-la-defense-esplanade/06.webp",
+      "/listings/adagio-la-defense-esplanade/07.webp",
+      "/listings/adagio-la-defense-esplanade/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -853,7 +997,16 @@
       "https://medias.adagio-city.com/photos/6787_roar4d_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/6787_roar4t_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-la-defense-le-parc/01.webp",
+      "/listings/adagio-la-defense-le-parc/02.webp",
+      "/listings/adagio-la-defense-le-parc/03.webp",
+      "/listings/adagio-la-defense-le-parc/04.webp",
+      "/listings/adagio-la-defense-le-parc/05.webp",
+      "/listings/adagio-la-defense-le-parc/06.webp",
+      "/listings/adagio-la-defense-le-parc/07.webp",
+      "/listings/adagio-la-defense-le-parc/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -903,7 +1056,16 @@
       "https://medias.adagio-city.com/photos/6788_roar4p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/6788_roas6p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-la-defense-kleber/01.webp",
+      "/listings/adagio-la-defense-kleber/02.webp",
+      "/listings/adagio-la-defense-kleber/03.webp",
+      "/listings/adagio-la-defense-kleber/04.webp",
+      "/listings/adagio-la-defense-kleber/05.webp",
+      "/listings/adagio-la-defense-kleber/06.webp",
+      "/listings/adagio-la-defense-kleber/07.webp",
+      "/listings/adagio-la-defense-kleber/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -955,7 +1117,16 @@
       "https://medias.adagio-city.com/photos/9297_roca2t_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/9297_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-la-defense-courbevoie/01.webp",
+      "/listings/adagio-la-defense-courbevoie/02.webp",
+      "/listings/adagio-la-defense-courbevoie/03.webp",
+      "/listings/adagio-la-defense-courbevoie/04.webp",
+      "/listings/adagio-la-defense-courbevoie/05.webp",
+      "/listings/adagio-la-defense-courbevoie/06.webp",
+      "/listings/adagio-la-defense-courbevoie/07.webp",
+      "/listings/adagio-la-defense-courbevoie/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1009,7 +1180,16 @@
       "https://www.ahstatic.com/photos/6794_ho_00_p_1024x768.jpg",
       "https://medias.adagio-city.com/photos/6794_ho_03_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-marne-la-vallee-val-d-europe/01.webp",
+      "/listings/adagio-marne-la-vallee-val-d-europe/02.webp",
+      "/listings/adagio-marne-la-vallee-val-d-europe/03.webp",
+      "/listings/adagio-marne-la-vallee-val-d-europe/04.webp",
+      "/listings/adagio-marne-la-vallee-val-d-europe/05.webp",
+      "/listings/adagio-marne-la-vallee-val-d-europe/06.webp",
+      "/listings/adagio-marne-la-vallee-val-d-europe/07.webp",
+      "/listings/adagio-marne-la-vallee-val-d-europe/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1062,7 +1242,16 @@
       "https://medias.adagio-city.com/photos/b2r7_roar4b_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/b2r7_roas6p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-serris-val-d-europe/01.webp",
+      "/listings/adagio-serris-val-d-europe/02.webp",
+      "/listings/adagio-serris-val-d-europe/03.webp",
+      "/listings/adagio-serris-val-d-europe/04.webp",
+      "/listings/adagio-serris-val-d-europe/05.webp",
+      "/listings/adagio-serris-val-d-europe/06.webp",
+      "/listings/adagio-serris-val-d-europe/07.webp",
+      "/listings/adagio-serris-val-d-europe/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1115,7 +1304,16 @@
       "https://medias.adagio-city.com/photos/8364_roca1a_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/8364_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-philippe-auguste/01.webp",
+      "/listings/adagio-access-paris-philippe-auguste/02.webp",
+      "/listings/adagio-access-paris-philippe-auguste/03.webp",
+      "/listings/adagio-access-paris-philippe-auguste/04.webp",
+      "/listings/adagio-access-paris-philippe-auguste/05.webp",
+      "/listings/adagio-access-paris-philippe-auguste/06.webp",
+      "/listings/adagio-access-paris-philippe-auguste/07.webp",
+      "/listings/adagio-access-paris-philippe-auguste/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1166,7 +1364,16 @@
       "https://www.ahstatic.com/photos/8365_ho_00_p_1024x768.jpg",
       "https://medias.adagio-city.com/photos/8365_roas6p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-porte-de-charenton/01.webp",
+      "/listings/adagio-access-paris-porte-de-charenton/02.webp",
+      "/listings/adagio-access-paris-porte-de-charenton/03.webp",
+      "/listings/adagio-access-paris-porte-de-charenton/04.webp",
+      "/listings/adagio-access-paris-porte-de-charenton/05.webp",
+      "/listings/adagio-access-paris-porte-de-charenton/06.webp",
+      "/listings/adagio-access-paris-porte-de-charenton/07.webp",
+      "/listings/adagio-access-paris-porte-de-charenton/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1218,7 +1425,16 @@
       "https://medias.adagio-city.com/photos/8367_roar4d_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8367_roar4t_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-quai-d-ivry/01.webp",
+      "/listings/adagio-access-paris-quai-d-ivry/02.webp",
+      "/listings/adagio-access-paris-quai-d-ivry/03.webp",
+      "/listings/adagio-access-paris-quai-d-ivry/04.webp",
+      "/listings/adagio-access-paris-quai-d-ivry/05.webp",
+      "/listings/adagio-access-paris-quai-d-ivry/06.webp",
+      "/listings/adagio-access-paris-quai-d-ivry/07.webp",
+      "/listings/adagio-access-paris-quai-d-ivry/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -1268,7 +1484,16 @@
       "https://medias.adagio-city.com/photos/c5j3_roca2t_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/c5j3_roar4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-pont-ivry/01.webp",
+      "/listings/adagio-access-paris-pont-ivry/02.webp",
+      "/listings/adagio-access-paris-pont-ivry/03.webp",
+      "/listings/adagio-access-paris-pont-ivry/04.webp",
+      "/listings/adagio-access-paris-pont-ivry/05.webp",
+      "/listings/adagio-access-paris-pont-ivry/06.webp",
+      "/listings/adagio-access-paris-pont-ivry/07.webp",
+      "/listings/adagio-access-paris-pont-ivry/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1320,7 +1545,16 @@
       "https://medias.adagio-city.com/photos/8368_roca3p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8368_roar4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-la-villette/01.webp",
+      "/listings/adagio-access-paris-la-villette/02.webp",
+      "/listings/adagio-access-paris-la-villette/03.webp",
+      "/listings/adagio-access-paris-la-villette/04.webp",
+      "/listings/adagio-access-paris-la-villette/05.webp",
+      "/listings/adagio-access-paris-la-villette/06.webp",
+      "/listings/adagio-access-paris-la-villette/07.webp",
+      "/listings/adagio-access-paris-la-villette/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1369,7 +1603,16 @@
       "https://medias.adagio-city.com/photos/8984_ho_03_p_1024x768.jpg",
       "https://www.ahstatic.com/photos/8984_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-reuilly/01.webp",
+      "/listings/adagio-access-paris-reuilly/02.webp",
+      "/listings/adagio-access-paris-reuilly/03.webp",
+      "/listings/adagio-access-paris-reuilly/04.webp",
+      "/listings/adagio-access-paris-reuilly/05.webp",
+      "/listings/adagio-access-paris-reuilly/06.webp",
+      "/listings/adagio-access-paris-reuilly/07.webp",
+      "/listings/adagio-access-paris-reuilly/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1416,7 +1659,16 @@
       "https://medias.adagio-city.com/photos/9104_roca1a_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/9104_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-bastille/01.webp",
+      "/listings/adagio-access-paris-bastille/02.webp",
+      "/listings/adagio-access-paris-bastille/03.webp",
+      "/listings/adagio-access-paris-bastille/04.webp",
+      "/listings/adagio-access-paris-bastille/05.webp",
+      "/listings/adagio-access-paris-bastille/06.webp",
+      "/listings/adagio-access-paris-bastille/07.webp",
+      "/listings/adagio-access-paris-bastille/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -1463,7 +1715,16 @@
       "https://www.ahstatic.com/photos/8366_ho_00_p_1024x768.jpg",
       "https://medias.adagio-city.com/photos/8366_roca2p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-clamart/01.webp",
+      "/listings/adagio-access-paris-clamart/02.webp",
+      "/listings/adagio-access-paris-clamart/03.webp",
+      "/listings/adagio-access-paris-clamart/04.webp",
+      "/listings/adagio-access-paris-clamart/05.webp",
+      "/listings/adagio-access-paris-clamart/06.webp",
+      "/listings/adagio-access-paris-clamart/07.webp",
+      "/listings/adagio-access-paris-clamart/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1514,7 +1775,16 @@
       "https://medias.adagio-city.com/photos/8382_roca4p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/8382_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-vanves-porte-de-versailles/01.webp",
+      "/listings/adagio-access-vanves-porte-de-versailles/02.webp",
+      "/listings/adagio-access-vanves-porte-de-versailles/03.webp",
+      "/listings/adagio-access-vanves-porte-de-versailles/04.webp",
+      "/listings/adagio-access-vanves-porte-de-versailles/05.webp",
+      "/listings/adagio-access-vanves-porte-de-versailles/06.webp",
+      "/listings/adagio-access-vanves-porte-de-versailles/07.webp",
+      "/listings/adagio-access-vanves-porte-de-versailles/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -1561,7 +1831,16 @@
       "https://www.ahstatic.com/photos/8386_ho_00_p_1024x768.jpg",
       "https://medias.adagio-city.com/photos/8386_roca1a_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-vanves-porte-de-chatillon/01.webp",
+      "/listings/adagio-access-vanves-porte-de-chatillon/02.webp",
+      "/listings/adagio-access-vanves-porte-de-chatillon/03.webp",
+      "/listings/adagio-access-vanves-porte-de-chatillon/04.webp",
+      "/listings/adagio-access-vanves-porte-de-chatillon/05.webp",
+      "/listings/adagio-access-vanves-porte-de-chatillon/06.webp",
+      "/listings/adagio-access-vanves-porte-de-chatillon/07.webp",
+      "/listings/adagio-access-vanves-porte-de-chatillon/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -1609,7 +1888,16 @@
       "https://medias.adagio-city.com/photos/8400_roar4p_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/8400_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-saint-denis-pleyel/01.webp",
+      "/listings/adagio-access-paris-saint-denis-pleyel/02.webp",
+      "/listings/adagio-access-paris-saint-denis-pleyel/03.webp",
+      "/listings/adagio-access-paris-saint-denis-pleyel/04.webp",
+      "/listings/adagio-access-paris-saint-denis-pleyel/05.webp",
+      "/listings/adagio-access-paris-saint-denis-pleyel/06.webp",
+      "/listings/adagio-access-paris-saint-denis-pleyel/07.webp",
+      "/listings/adagio-access-paris-saint-denis-pleyel/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1661,7 +1949,16 @@
       "https://medias.adagio-city.com/photos/8413_roca2p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8413_roca4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-maisons-alfort/01.webp",
+      "/listings/adagio-access-paris-maisons-alfort/02.webp",
+      "/listings/adagio-access-paris-maisons-alfort/03.webp",
+      "/listings/adagio-access-paris-maisons-alfort/04.webp",
+      "/listings/adagio-access-paris-maisons-alfort/05.webp",
+      "/listings/adagio-access-paris-maisons-alfort/06.webp",
+      "/listings/adagio-access-paris-maisons-alfort/07.webp",
+      "/listings/adagio-access-paris-maisons-alfort/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -1712,7 +2009,16 @@
       "https://medias.adagio-city.com/photos/8447_roca2p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8447_roca2pt_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-asnieres/01.webp",
+      "/listings/adagio-access-paris-asnieres/02.webp",
+      "/listings/adagio-access-paris-asnieres/03.webp",
+      "/listings/adagio-access-paris-asnieres/04.webp",
+      "/listings/adagio-access-paris-asnieres/05.webp",
+      "/listings/adagio-access-paris-asnieres/06.webp",
+      "/listings/adagio-access-paris-asnieres/07.webp",
+      "/listings/adagio-access-paris-asnieres/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -1760,7 +2066,16 @@
       "https://medias.adagio-city.com/photos/8696_roar4p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8696_roar4t_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-massy-gare-tgv/01.webp",
+      "/listings/adagio-access-paris-massy-gare-tgv/02.webp",
+      "/listings/adagio-access-paris-massy-gare-tgv/03.webp",
+      "/listings/adagio-access-paris-massy-gare-tgv/04.webp",
+      "/listings/adagio-access-paris-massy-gare-tgv/05.webp",
+      "/listings/adagio-access-paris-massy-gare-tgv/06.webp",
+      "/listings/adagio-access-paris-massy-gare-tgv/07.webp",
+      "/listings/adagio-access-paris-massy-gare-tgv/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1811,7 +2126,16 @@
       "https://medias.adagio-city.com/photos/c5j2_roar4p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/c5j2_roca3p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-massy-palaiseau/01.webp",
+      "/listings/adagio-access-massy-palaiseau/02.webp",
+      "/listings/adagio-access-massy-palaiseau/03.webp",
+      "/listings/adagio-access-massy-palaiseau/04.webp",
+      "/listings/adagio-access-massy-palaiseau/05.webp",
+      "/listings/adagio-access-massy-palaiseau/06.webp",
+      "/listings/adagio-access-massy-palaiseau/07.webp",
+      "/listings/adagio-access-massy-palaiseau/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1863,7 +2187,16 @@
       "https://medias.adagio-city.com/photos/8987_roca2p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8987_roca4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-la-defense-puteaux/01.webp",
+      "/listings/adagio-access-la-defense-puteaux/02.webp",
+      "/listings/adagio-access-la-defense-puteaux/03.webp",
+      "/listings/adagio-access-la-defense-puteaux/04.webp",
+      "/listings/adagio-access-la-defense-puteaux/05.webp",
+      "/listings/adagio-access-la-defense-puteaux/06.webp",
+      "/listings/adagio-access-la-defense-puteaux/07.webp",
+      "/listings/adagio-access-la-defense-puteaux/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -1915,7 +2248,16 @@
       "https://medias.adagio-city.com/photos/8989_rocs2d_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8989_roas6p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-clichy/01.webp",
+      "/listings/adagio-access-paris-clichy/02.webp",
+      "/listings/adagio-access-paris-clichy/03.webp",
+      "/listings/adagio-access-paris-clichy/04.webp",
+      "/listings/adagio-access-paris-clichy/05.webp",
+      "/listings/adagio-access-paris-clichy/06.webp",
+      "/listings/adagio-access-paris-clichy/07.webp",
+      "/listings/adagio-access-paris-clichy/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -1965,7 +2307,16 @@
       "https://medias.adagio-city.com/photos/9296_roca2t_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/9296_roca4t_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-colombes-la-defense/01.webp",
+      "/listings/adagio-access-colombes-la-defense/02.webp",
+      "/listings/adagio-access-colombes-la-defense/03.webp",
+      "/listings/adagio-access-colombes-la-defense/04.webp",
+      "/listings/adagio-access-colombes-la-defense/05.webp",
+      "/listings/adagio-access-colombes-la-defense/06.webp",
+      "/listings/adagio-access-colombes-la-defense/07.webp",
+      "/listings/adagio-access-colombes-la-defense/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2015,7 +2366,16 @@
       "https://medias.adagio-city.com/photos/8361_roca1p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8361_roca4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-la-defense-place-charras/01.webp",
+      "/listings/adagio-access-la-defense-place-charras/02.webp",
+      "/listings/adagio-access-la-defense-place-charras/03.webp",
+      "/listings/adagio-access-la-defense-place-charras/04.webp",
+      "/listings/adagio-access-la-defense-place-charras/05.webp",
+      "/listings/adagio-access-la-defense-place-charras/06.webp",
+      "/listings/adagio-access-la-defense-place-charras/07.webp",
+      "/listings/adagio-access-la-defense-place-charras/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2065,7 +2425,16 @@
       "https://medias.adagio-city.com/photos/8363_roca3p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8363_roca4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-la-defense-leonard-de-vinci/01.webp",
+      "/listings/adagio-access-la-defense-leonard-de-vinci/02.webp",
+      "/listings/adagio-access-la-defense-leonard-de-vinci/03.webp",
+      "/listings/adagio-access-la-defense-leonard-de-vinci/04.webp",
+      "/listings/adagio-access-la-defense-leonard-de-vinci/05.webp",
+      "/listings/adagio-access-la-defense-leonard-de-vinci/06.webp",
+      "/listings/adagio-access-la-defense-leonard-de-vinci/07.webp",
+      "/listings/adagio-access-la-defense-leonard-de-vinci/08.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2113,7 +2482,16 @@
       "https://medias.adagio-city.com/photos/8362_roca1a_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/8362_roar4p_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-carrieres-sous-poissy/01.webp",
+      "/listings/adagio-access-carrieres-sous-poissy/02.webp",
+      "/listings/adagio-access-carrieres-sous-poissy/03.webp",
+      "/listings/adagio-access-carrieres-sous-poissy/04.webp",
+      "/listings/adagio-access-carrieres-sous-poissy/05.webp",
+      "/listings/adagio-access-carrieres-sous-poissy/06.webp",
+      "/listings/adagio-access-carrieres-sous-poissy/07.webp",
+      "/listings/adagio-access-carrieres-sous-poissy/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -2163,7 +2541,16 @@
       "https://medias.adagio-city.com/photos/c5j1_roar4p_00_p_346x260.jpg",
       "https://medias.adagio-city.com/photos/c5j1_roca2d_00_p_346x260.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-villejuif/01.webp",
+      "/listings/adagio-access-paris-villejuif/02.webp",
+      "/listings/adagio-access-paris-villejuif/03.webp",
+      "/listings/adagio-access-paris-villejuif/04.webp",
+      "/listings/adagio-access-paris-villejuif/05.webp",
+      "/listings/adagio-access-paris-villejuif/06.webp",
+      "/listings/adagio-access-paris-villejuif/07.webp",
+      "/listings/adagio-access-paris-villejuif/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2214,7 +2601,16 @@
       "https://medias.adagio-city.com/photos/c5j6_roca2d_00_p_346x260.jpg",
       "https://www.ahstatic.com/photos/c5j6_ho_00_p_1024x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/adagio-access-paris-nanterre/01.webp",
+      "/listings/adagio-access-paris-nanterre/02.webp",
+      "/listings/adagio-access-paris-nanterre/03.webp",
+      "/listings/adagio-access-paris-nanterre/04.webp",
+      "/listings/adagio-access-paris-nanterre/05.webp",
+      "/listings/adagio-access-paris-nanterre/06.webp",
+      "/listings/adagio-access-paris-nanterre/07.webp",
+      "/listings/adagio-access-paris-nanterre/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2258,7 +2654,13 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-les-halles-paris/overview/Citadines%20Les%20Halles%20Paris.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-les-halles-paris/01.webp",
+      "/listings/citadines-les-halles-paris/02.webp",
+      "/listings/citadines-les-halles-paris/03.webp",
+      "/listings/citadines-les-halles-paris/04.webp",
+      "/listings/citadines-les-halles-paris/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2305,7 +2707,12 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-opera-paris/overview/Citadines%20Opéra%20Paris.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-opera-paris/01.webp",
+      "/listings/citadines-opera-paris/02.webp",
+      "/listings/citadines-opera-paris/03.webp",
+      "/listings/citadines-opera-paris/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2361,7 +2768,11 @@
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-bastille-marais-paris/gallery/rooms/citadines-bastille-marais-16.jpg",
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-bastille-marais-paris/gallery/rooms/citadines-bastille-marais-17.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-bastille-marais-paris/01.webp",
+      "/listings/citadines-bastille-marais-paris/02.webp",
+      "/listings/citadines-bastille-marais-paris/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2407,7 +2818,11 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-montparnasse-paris/overview/Citadines%20Montparnasse%20Paris.jpg",
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-montparnasse-paris/gallery/rooms/3467_Citadines%20Maine%20Montparnasse%20Paris_France_One-bedroom%20(bedroom)2_1656x1104.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-montparnasse-paris/01.webp",
+      "/listings/citadines-montparnasse-paris/02.webp",
+      "/listings/citadines-montparnasse-paris/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2453,7 +2868,12 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-tour-eiffel-paris/overview/Citadines%20Tour%20Eiffel%20Paris_France_Studio%20Eiffel%20Tower%20view-760x428.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-tour-eiffel-paris/01.webp",
+      "/listings/citadines-tour-eiffel-paris/02.webp",
+      "/listings/citadines-tour-eiffel-paris/03.webp",
+      "/listings/citadines-tour-eiffel-paris/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2501,7 +2921,14 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-saint-germain-des-pres-paris/overview/5.Gallery_2880x860.jpg.transform/ascott-highres/image.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-saint-germain-des-pres-paris/01.webp",
+      "/listings/citadines-saint-germain-des-pres-paris/02.webp",
+      "/listings/citadines-saint-germain-des-pres-paris/03.webp",
+      "/listings/citadines-saint-germain-des-pres-paris/04.webp",
+      "/listings/citadines-saint-germain-des-pres-paris/05.webp",
+      "/listings/citadines-saint-germain-des-pres-paris/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2551,7 +2978,11 @@
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-bastille-gare-de-lyon-paris/gallery/rooms/Bathroom-002.jpg",
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-bastille-gare-de-lyon-paris/gallery/rooms/Studio-001.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-bastille-gare-de-lyon-paris/01.webp",
+      "/listings/citadines-bastille-gare-de-lyon-paris/02.webp",
+      "/listings/citadines-bastille-gare-de-lyon-paris/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -2603,7 +3034,10 @@
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-place-ditalie-paris/apartment-types/obrm/Citadines Place d'Italie Paris_France_Studio Deluxe_2880X860.jpg",
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-place-ditalie-paris/apartment-types/1brm/Citadines Place d'Italie Paris_France_One-bedroom (bedroom)_2880X860.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-place-d-italie-paris/01.webp",
+      "/listings/citadines-place-d-italie-paris/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2659,7 +3093,10 @@
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-montmartre-paris/gallery/rooms/834_Citadines Montmartre Paris_France_Studio5_1656x1103.jpg",
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-montmartre-paris/gallery/rooms/833_Citadines Montmartre Paris_France_Studio4_1656x1099.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-montmartre-paris/01.webp",
+      "/listings/citadines-montmartre-paris/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2705,7 +3142,12 @@
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-republique-paris/gallery/FR-Paris-CRP-1BRMAP-Bedroom-04-2025-HR_792x528.jpg",
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-republique-paris/gallery/FR-Paris-CRP-1BRMAP-Bedroom-05-2025-HR_792x527.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-republique-paris/01.webp",
+      "/listings/citadines-republique-paris/02.webp",
+      "/listings/citadines-republique-paris/03.webp",
+      "/listings/citadines-republique-paris/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2749,7 +3191,11 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-trocadero-paris/overview/Citadines%20Trocadero%20Paris.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-trocadero-paris/01.webp",
+      "/listings/citadines-trocadero-paris/02.webp",
+      "/listings/citadines-trocadero-paris/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2793,7 +3239,10 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/citadines-austerlitz-paris/banners/TGHL-banner-desktop-2880x1236.jpg.transform/ascott-highres/image.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-austerlitz-paris/01.webp",
+      "/listings/citadines-austerlitz-paris/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2848,7 +3297,12 @@
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-la-defense-paris/gallery/FR-Paris-CLDP-Lobby.jpg",
       "https://www.discoverasr.com/assets/tal/media/images/properties/france/paris/citadines-la-defense-paris/gallery/FR-Paris-CLDP-Lounge.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/citadines-la-defense-paris/01.webp",
+      "/listings/citadines-la-defense-paris/02.webp",
+      "/listings/citadines-la-defense-paris/03.webp",
+      "/listings/citadines-la-defense-paris/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2893,7 +3347,11 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/la-clef-champs-elysees-paris-by-the-crest-collection/overview/La%20Clef%20Champs%20Elysées%20Paris.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/la-clef-champs-elysees-paris/01.webp",
+      "/listings/la-clef-champs-elysees-paris/02.webp",
+      "/listings/la-clef-champs-elysees-paris/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -2940,7 +3398,11 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/la-clef-louvre-paris-by-the-crest-collection/overview/La%20Clef%20Louvre%20Paris.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/la-clef-louvre-paris/01.webp",
+      "/listings/la-clef-louvre-paris/02.webp",
+      "/listings/la-clef-louvre-paris/03.webp"
+    ],
     "unitTypes": [],
     "amenities": [
       "Wifi",
@@ -2984,7 +3446,13 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/la-clef-tour-eiffel-paris-by-the-crest-collection/overview/2880x860.jpg.transform/ascott-highres/image.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/la-clef-tour-eiffel-paris/01.webp",
+      "/listings/la-clef-tour-eiffel-paris/02.webp",
+      "/listings/la-clef-tour-eiffel-paris/03.webp",
+      "/listings/la-clef-tour-eiffel-paris/04.webp",
+      "/listings/la-clef-tour-eiffel-paris/05.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -3028,7 +3496,12 @@
     "imageUrls": [
       "https://www.discoverasr.com/content/dam/tal/media/images/properties/france/paris/lyf-gambetta-paris/overview/lyf%20Gambetta%20Paris.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/lyf-gambetta-paris/01.webp",
+      "/listings/lyf-gambetta-paris/02.webp",
+      "/listings/lyf-gambetta-paris/03.webp",
+      "/listings/lyf-gambetta-paris/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3081,7 +3554,13 @@
       "https://www.frasershospitality.com/content/dam/frasers-hospitality/english/properties/france/leclaridge/fraser-suites-le-claridge/images/lr-images/rooms-suites/two-bedroom/bedroom-two-bedroom-executive-fraser-suites-le-claridge-1.jpg",
       "https://www.frasershospitality.com/content/dam/frasers-hospitality/english/properties/france/leclaridge/fraser-suites-le-claridge/images/lr-images/facilities/breakfast-fraser-suites-le-claridge-5.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/fraser-suites-le-claridge-champs-elysees-paris/01.webp",
+      "/listings/fraser-suites-le-claridge-champs-elysees-paris/02.webp",
+      "/listings/fraser-suites-le-claridge-champs-elysees-paris/03.webp",
+      "/listings/fraser-suites-le-claridge-champs-elysees-paris/04.webp",
+      "/listings/fraser-suites-le-claridge-champs-elysees-paris/05.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -3133,7 +3612,12 @@
       "https://www.frasershospitality.com/content/dam/frasers-hospitality/english/properties/france/harmonie/fraser-suites-harmonie/images/gallery-images/gallery-page/facility/Bar1_Sept22.jpg",
       "https://www.frasershospitality.com/content/dam/frasers-hospitality/english/properties/france/harmonie/fraser-suites-harmonie/images/new-gallery/rooms/studios/studio-executive-bedroom-fraser-suites-harmonie-112.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/fraser-suites-harmonie-paris-la-defense/01.webp",
+      "/listings/fraser-suites-harmonie-paris-la-defense/02.webp",
+      "/listings/fraser-suites-harmonie-paris-la-defense/03.webp",
+      "/listings/fraser-suites-harmonie-paris-la-defense/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -3183,7 +3667,13 @@
       "https://www.residhome.com/images/integration/visu_res_294_3.jpg",
       "https://www.residhome.com/images/encarts/fidelite-myresidhome-UK.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-gare-de-lyon/01.webp",
+      "/listings/residhome-paris-gare-de-lyon/02.webp",
+      "/listings/residhome-paris-gare-de-lyon/03.webp",
+      "/listings/residhome-paris-gare-de-lyon/04.webp",
+      "/listings/residhome-paris-gare-de-lyon/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3226,7 +3716,13 @@
       "https://www.residhome.com/images/photos/120_presentation.jpg",
       "https://www.residhome.com/images/integration/visu_res_120_4.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-opera/01.webp",
+      "/listings/residhome-paris-opera/02.webp",
+      "/listings/residhome-paris-opera/03.webp",
+      "/listings/residhome-paris-opera/04.webp",
+      "/listings/residhome-paris-opera/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3270,7 +3766,13 @@
       "https://www.residhome.com/images/photos/289_presentation.jpg",
       "https://www.residhome.com/images/encarts/visite-virtuelle-paris-rosa-parks-UK.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-rosa-parks/01.webp",
+      "/listings/residhome-paris-rosa-parks/02.webp",
+      "/listings/residhome-paris-rosa-parks/03.webp",
+      "/listings/residhome-paris-rosa-parks/04.webp",
+      "/listings/residhome-paris-rosa-parks/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3317,7 +3819,13 @@
       "https://www.residhome.com/images/integration/visu_res_204_0.jpg",
       "https://www.residhome.com/images/integration/visu_res_204_1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-asnieres/01.webp",
+      "/listings/residhome-paris-asnieres/02.webp",
+      "/listings/residhome-paris-asnieres/03.webp",
+      "/listings/residhome-paris-asnieres/04.webp",
+      "/listings/residhome-paris-asnieres/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3362,7 +3870,11 @@
       "https://www.residhome.com/images/photos/351_proximite.jpg",
       "https://www.residhome.com/images/integration/visu_res_292_4.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-asnieres-park/01.webp",
+      "/listings/residhome-paris-asnieres-park/02.webp",
+      "/listings/residhome-paris-asnieres-park/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3409,7 +3921,11 @@
       "https://www.residhome.com/images/encarts/guide-UK.jpg",
       "https://www.residhome.com/images/photos/138_proximite.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-monceau-bois-colombes/01.webp",
+      "/listings/residhome-monceau-bois-colombes/02.webp",
+      "/listings/residhome-monceau-bois-colombes/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3456,7 +3972,12 @@
       "https://www.residhome.com/images/integration/visu_res_183_0.jpg",
       "https://www.residhome.com/images/photos/183_presentation.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-saclay-bures/01.webp",
+      "/listings/residhome-paris-saclay-bures/02.webp",
+      "/listings/residhome-paris-saclay-bures/03.webp",
+      "/listings/residhome-paris-saclay-bures/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -3503,7 +4024,13 @@
       "https://www.residhome.com/images/integration/visu_res_200_0.jpg",
       "https://www.residhome.com/images/integration/visu_res_200_1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-carrieres-la-defense/01.webp",
+      "/listings/residhome-carrieres-la-defense/02.webp",
+      "/listings/residhome-carrieres-la-defense/03.webp",
+      "/listings/residhome-carrieres-la-defense/04.webp",
+      "/listings/residhome-carrieres-la-defense/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3549,7 +4076,12 @@
       "https://www.residhome.com/images/encarts/fidelite-myresidhome-UK.jpg",
       "https://www.residhome.com/images/photos/240_proximite.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-clamart/01.webp",
+      "/listings/residhome-paris-clamart/02.webp",
+      "/listings/residhome-paris-clamart/03.webp",
+      "/listings/residhome-paris-clamart/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3593,7 +4125,13 @@
       "https://www.residhome.com/images/photos/138_presentation.jpg",
       "https://www.residhome.com/images/encarts/fidelite-myresidhome-UK.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-courbevoie-la-defense/01.webp",
+      "/listings/residhome-courbevoie-la-defense/02.webp",
+      "/listings/residhome-courbevoie-la-defense/03.webp",
+      "/listings/residhome-courbevoie-la-defense/04.webp",
+      "/listings/residhome-courbevoie-la-defense/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3638,7 +4176,13 @@
       "https://www.residhome.com/images/integration/visu_res_152_2.jpg",
       "https://www.residhome.com/images/photos/152_presentation.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-evry/01.webp",
+      "/listings/residhome-paris-evry/02.webp",
+      "/listings/residhome-paris-evry/03.webp",
+      "/listings/residhome-paris-evry/04.webp",
+      "/listings/residhome-paris-evry/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3684,7 +4228,10 @@
       "https://www.residhome.com/images/photos/183_proximite.jpg",
       "https://www.residhome.com/images/photos/240_proximite.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-guyancourt/01.webp",
+      "/listings/residhome-paris-guyancourt/02.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3730,7 +4277,13 @@
       "https://www.residhome.com/images/photos/240_presentation.jpg",
       "https://www.residhome.com/images/integration/visu_res_240_1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-issy/01.webp",
+      "/listings/residhome-paris-issy/02.webp",
+      "/listings/residhome-paris-issy/03.webp",
+      "/listings/residhome-paris-issy/04.webp",
+      "/listings/residhome-paris-issy/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3773,7 +4326,13 @@
       "https://www.residhome.com/images/photos/407_presentation.jpg",
       "https://www.residhome.com/images/integration/visu_res_407_1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-quai-d-ivry/01.webp",
+      "/listings/residhome-quai-d-ivry/02.webp",
+      "/listings/residhome-quai-d-ivry/03.webp",
+      "/listings/residhome-quai-d-ivry/04.webp",
+      "/listings/residhome-quai-d-ivry/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3816,7 +4375,12 @@
       "https://www.residhome.com/images/integration/visu_res_401_3.jpg",
       "https://www.residhome.com/images/photos/401_presentation.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-senart/01.webp",
+      "/listings/residhome-paris-senart/02.webp",
+      "/listings/residhome-paris-senart/03.webp",
+      "/listings/residhome-paris-senart/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3862,7 +4426,12 @@
       "https://www.residhome.com/images/encarts/le-douze-lieusaint.jpg",
       "https://www.residhome.com/images/integration/visu_res_243_3.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-suites-paris-senart/01.webp",
+      "/listings/residhome-suites-paris-senart/02.webp",
+      "/listings/residhome-suites-paris-senart/03.webp",
+      "/listings/residhome-suites-paris-senart/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3909,7 +4478,12 @@
       "https://www.residhome.com/images/photos/147_presentation.jpg",
       "https://www.residhome.com/images/encarts/les-moulins-bleus-massy.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-paris-massy/01.webp",
+      "/listings/residhome-paris-massy/02.webp",
+      "/listings/residhome-paris-massy/03.webp",
+      "/listings/residhome-paris-massy/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3953,7 +4527,13 @@
       "https://www.residhome.com/images/photos/139_presentation.jpg",
       "https://www.residhome.com/images/encarts/bar-snacking-val-europe-UK.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-val-d-europe/01.webp",
+      "/listings/residhome-val-d-europe/02.webp",
+      "/listings/residhome-val-d-europe/03.webp",
+      "/listings/residhome-val-d-europe/04.webp",
+      "/listings/residhome-val-d-europe/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -3998,7 +4578,12 @@
       "https://www.residhome.com/images/encarts/fidelite-myresidhome-UK.jpg",
       "https://www.residhome.com/images/photos/138_proximite.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-nanterre-la-defense/01.webp",
+      "/listings/residhome-nanterre-la-defense/02.webp",
+      "/listings/residhome-nanterre-la-defense/03.webp",
+      "/listings/residhome-nanterre-la-defense/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4043,7 +4628,11 @@
       "https://www.residhome.com/images/encarts/fidelite-myresidhome-UK.jpg",
       "https://www.residhome.com/images/photos/294_proximite.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-neuilly-bords-de-marne/01.webp",
+      "/listings/residhome-neuilly-bords-de-marne/02.webp",
+      "/listings/residhome-neuilly-bords-de-marne/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4089,7 +4678,12 @@
       "https://www.residhome.com/images/photos/345_presentation.jpg",
       "https://www.residhome.com/images/integration/visu_res_345_3.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-puteaux-la-defense/01.webp",
+      "/listings/residhome-puteaux-la-defense/02.webp",
+      "/listings/residhome-puteaux-la-defense/03.webp",
+      "/listings/residhome-puteaux-la-defense/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4135,7 +4729,13 @@
       "https://www.residhome.com/images/encarts/fidelite-myresidhome-UK.jpg",
       "https://www.residhome.com/images/photos/292_proximite.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residhome-saint-ouen/01.webp",
+      "/listings/residhome-saint-ouen/02.webp",
+      "/listings/residhome-saint-ouen/03.webp",
+      "/listings/residhome-saint-ouen/04.webp",
+      "/listings/residhome-saint-ouen/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4182,7 +4782,14 @@
       "https://www.appartcity.com/cms/uploads/small_la_coulee_verte_appartcity_52e5e3bcd7.png",
       "https://www.appartcity.com/cms/uploads/small_la_bastille_appart_city_d0f92040f0.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/appart-city-paris-gare-de-lyon/01.webp",
+      "/listings/appart-city-paris-gare-de-lyon/02.webp",
+      "/listings/appart-city-paris-gare-de-lyon/03.webp",
+      "/listings/appart-city-paris-gare-de-lyon/04.webp",
+      "/listings/appart-city-paris-gare-de-lyon/05.webp",
+      "/listings/appart-city-paris-gare-de-lyon/06.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4237,7 +4844,13 @@
       "https://www.appartcity.com/cms/uploads/small_parc_bercy_00bf068f7d.png",
       "https://www.appartcity.com/cms/uploads/small_1_d1daa58f1f.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/appart-city-paris-grande-bibliotheque/01.webp",
+      "/listings/appart-city-paris-grande-bibliotheque/02.webp",
+      "/listings/appart-city-paris-grande-bibliotheque/03.webp",
+      "/listings/appart-city-paris-grande-bibliotheque/04.webp",
+      "/listings/appart-city-paris-grande-bibliotheque/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4289,7 +4902,9 @@
       "https://www.appartcity.com/cms/uploads/small_France_e407754fdf.jpg",
       "https://www.appartcity.com/cms/uploads/small_Parc_des_Expositions_de_la_Porte_b597cab128.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/appart-city-paris-montparnasse/01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "2-Bed"
@@ -4337,7 +4952,12 @@
     "imageUrls": [
       "https://www.appartcity.com/cms/uploads/appart_hotel_paris_clichy_mairie_studio_lit_double_2e47c1248c.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/appart-city-paris-clichy-mairie/01.webp",
+      "/listings/appart-city-paris-clichy-mairie/02.webp",
+      "/listings/appart-city-paris-clichy-mairie/03.webp",
+      "/listings/appart-city-paris-clichy-mairie/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -4386,7 +5006,12 @@
     "imageUrls": [
       "https://www.appartcity.com/cms/uploads/T1_SDB_VIJF_Paris_Villejuif_Chambre_07_05_19_6_a7b7c638cb.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/appart-city-paris-villejuif/01.webp",
+      "/listings/appart-city-paris-villejuif/02.webp",
+      "/listings/appart-city-paris-villejuif/03.webp",
+      "/listings/appart-city-paris-villejuif/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -4440,7 +5065,9 @@
       "https://sc-cdn.equator-live.com/media/5lip1kk5/paris-gare-de-lest-main-gallery-6.jpg?width=400&height=400&format=webp&quality=70",
       "https://sc-cdn.equator-live.com/media/x2zbiuhe/bordeaux-city-centre-main-gallery-34.jpg?width=220&height=320&format=webp&quality=70"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/staycity-paris-gare-de-lest/01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -4489,7 +5116,9 @@
       "https://sc-cdn.equator-live.com/media/oiipmqhs/paris-disney-84.jpg?width=220&height=320&format=webp&quality=70",
       "https://sc-cdn.equator-live.com/media/kpxhjell/gallery_n.jpg?width=220&height=320&format=webp&quality=70"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/staycity-paris-la-defense/01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -4545,7 +5174,12 @@
       "https://www.lockeliving.com/media/images/property/le%20jardin%20de%20verre/089a4011-(3).jpg?width=2000&height=1400&mode=crop&format=jpeg&quality=70",
       "https://www.lockeliving.com/media/images/property/le%20jardin%20de%20verre/089a3745.jpg?width=2000&height=1400&mode=crop&format=jpeg&quality=70"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/le-jardin-de-verre-by-locke-paris/01.webp",
+      "/listings/le-jardin-de-verre-by-locke-paris/02.webp",
+      "/listings/le-jardin-de-verre-by-locke-paris/03.webp",
+      "/listings/le-jardin-de-verre-by-locke-paris/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -4589,7 +5223,12 @@
       "https://www.sejours-affaires.com/images/photos/306_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/306-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-paris-davout/01.webp",
+      "/listings/sejours-affaires-paris-davout/02.webp",
+      "/listings/sejours-affaires-paris-davout/03.webp",
+      "/listings/sejours-affaires-paris-davout/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4633,7 +5272,14 @@
       "https://www.sejours-affaires.com/images/photos/286-entete-m.jpg",
       "https://www.sejours-affaires.com/images/photos/286_presentation.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-paris-bagneux/01.webp",
+      "/listings/sejours-affaires-paris-bagneux/02.webp",
+      "/listings/sejours-affaires-paris-bagneux/03.webp",
+      "/listings/sejours-affaires-paris-bagneux/04.webp",
+      "/listings/sejours-affaires-paris-bagneux/05.webp",
+      "/listings/sejours-affaires-paris-bagneux/06.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4677,7 +5323,13 @@
       "https://www.sejours-affaires.com/images/photos/371_presentation.jpg",
       "https://www.sejours-affaires.com/images/encarts/fidelite-myresidhome-UK.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-paris-bagnolet/01.webp",
+      "/listings/sejours-affaires-paris-bagnolet/02.webp",
+      "/listings/sejours-affaires-paris-bagnolet/03.webp",
+      "/listings/sejours-affaires-paris-bagnolet/04.webp",
+      "/listings/sejours-affaires-paris-bagnolet/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4721,7 +5373,13 @@
       "https://www.sejours-affaires.com/images/photos/18-entete-m.jpg",
       "https://www.sejours-affaires.com/images/photos/18_presentation.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-courbevoie-grande-arche/01.webp",
+      "/listings/sejours-affaires-courbevoie-grande-arche/02.webp",
+      "/listings/sejours-affaires-courbevoie-grande-arche/03.webp",
+      "/listings/sejours-affaires-courbevoie-grande-arche/04.webp",
+      "/listings/sejours-affaires-courbevoie-grande-arche/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4766,7 +5424,12 @@
       "https://www.sejours-affaires.com/images/photos/164_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/164-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-creteil-le-magistere/01.webp",
+      "/listings/sejours-affaires-creteil-le-magistere/02.webp",
+      "/listings/sejours-affaires-creteil-le-magistere/03.webp",
+      "/listings/sejours-affaires-creteil-le-magistere/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4808,7 +5471,13 @@
       "https://www.sejours-affaires.com/images/photos/158_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/158-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-paris-ivry/01.webp",
+      "/listings/sejours-affaires-paris-ivry/02.webp",
+      "/listings/sejours-affaires-paris-ivry/03.webp",
+      "/listings/sejours-affaires-paris-ivry/04.webp",
+      "/listings/sejours-affaires-paris-ivry/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4851,7 +5520,11 @@
       "https://www.sejours-affaires.com/images/photos/184_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/184-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-paris-malakoff/01.webp",
+      "/listings/sejours-affaires-paris-malakoff/02.webp",
+      "/listings/sejours-affaires-paris-malakoff/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4892,7 +5565,12 @@
       "https://www.sejours-affaires.com/images/photos/247_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/247-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-massy-atlantis/01.webp",
+      "/listings/sejours-affaires-massy-atlantis/02.webp",
+      "/listings/sejours-affaires-massy-atlantis/03.webp",
+      "/listings/sejours-affaires-massy-atlantis/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4935,7 +5613,11 @@
       "https://www.sejours-affaires.com/images/photos/19_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/19-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-st-mande/01.webp",
+      "/listings/sejours-affaires-st-mande/02.webp",
+      "/listings/sejours-affaires-st-mande/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -4977,7 +5659,12 @@
       "https://www.sejours-affaires.com/images/photos/160-entete-m.jpg",
       "https://www.sejours-affaires.com/images/photos/160_presentation.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-paris-nanterre/01.webp",
+      "/listings/sejours-affaires-paris-nanterre/02.webp",
+      "/listings/sejours-affaires-paris-nanterre/03.webp",
+      "/listings/sejours-affaires-paris-nanterre/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -5019,7 +5706,11 @@
       "https://www.sejours-affaires.com/images/photos/23_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/23-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-pantin-charles-de-gaulle/01.webp",
+      "/listings/sejours-affaires-pantin-charles-de-gaulle/02.webp",
+      "/listings/sejours-affaires-pantin-charles-de-gaulle/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -5061,7 +5752,12 @@
       "https://www.sejours-affaires.com/images/photos/179_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/179-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-rive-gauche-serris/01.webp",
+      "/listings/sejours-affaires-rive-gauche-serris/02.webp",
+      "/listings/sejours-affaires-rive-gauche-serris/03.webp",
+      "/listings/sejours-affaires-rive-gauche-serris/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -5103,7 +5799,13 @@
       "https://www.sejours-affaires.com/images/photos/187-entete-m.jpg",
       "https://www.sejours-affaires.com/images/photos/187_presentation.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-paris-vincennes/01.webp",
+      "/listings/sejours-affaires-paris-vincennes/02.webp",
+      "/listings/sejours-affaires-paris-vincennes/03.webp",
+      "/listings/sejours-affaires-paris-vincennes/04.webp",
+      "/listings/sejours-affaires-paris-vincennes/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -5146,7 +5848,12 @@
       "https://www.sejours-affaires.com/images/photos/219_presentation.jpg",
       "https://www.sejours-affaires.com/images/photos/219-entete-m.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/sejours-affaires-paris-vitry/01.webp",
+      "/listings/sejours-affaires-paris-vitry/02.webp",
+      "/listings/sejours-affaires-paris-vitry/03.webp",
+      "/listings/sejours-affaires-paris-vitry/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -5197,7 +5904,9 @@
       "https://www.residence-charles-floquet.fr/_novaimg/5210124-1533550_0_0_4800_3062_2000_1276.jpg",
       "https://www.residence-charles-floquet.fr/_novaimg/5210119-1533525_0_0_4800_3201_2000_1333.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residence-charles-floquet-paris/01.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -5251,7 +5960,10 @@
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/67e2d5ba9e7d4fed16cb8cde_04RecadrerLow.jpg",
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/680f53e99ac55cc8d93f8593_67cada30b23e7ec661813572_Slider03-ezgif.com-jpg-to-webp-converter.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/my-maison-in-paris-invalides/01.webp",
+      "/listings/my-maison-in-paris-invalides/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -5305,7 +6017,9 @@
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/67e2d24ebc6806b3e5102cd3_salledesporLow.jpg",
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/67e2d5ba9e7d4fed16cb8cde_04RecadrerLow.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/my-maison-in-paris-montmartre/01.webp"
+    ],
     "unitTypes": [
       "1-Bed"
     ],
@@ -5354,7 +6068,9 @@
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/680f53e99ac55cc8d93f8593_67cada30b23e7ec661813572_Slider03-ezgif.com-jpg-to-webp-converter.webp",
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/67e2d5ba9e7d4fed16cb8cde_04RecadrerLow.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/my-maison-in-paris-sentier/01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -5403,7 +6119,9 @@
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/680f53e99ac55cc8d93f8593_67cada30b23e7ec661813572_Slider03-ezgif.com-jpg-to-webp-converter.webp",
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/67e2d5ba9e7d4fed16cb8cde_04RecadrerLow.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/my-maison-in-paris-champ-de-mars/01.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -5453,7 +6171,9 @@
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/680f53e99ac55cc8d93f8593_67cada30b23e7ec661813572_Slider03-ezgif.com-jpg-to-webp-converter.webp",
       "https://cdn.prod.website-files.com/67920cf31854b6fb57988744/67e2d5ba9e7d4fed16cb8cde_04RecadrerLow.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/my-maison-in-paris-louvre/01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",

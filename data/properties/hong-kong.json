@@ -21,7 +21,16 @@
       "https://www.fsphk.com/images/lifestyle-3.jpg",
       "https://www.fsphk.com/images/f-0.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/four-seasons-place-central-hong-kong/01.webp",
+      "/listings/four-seasons-place-central-hong-kong/02.webp",
+      "/listings/four-seasons-place-central-hong-kong/03.webp",
+      "/listings/four-seasons-place-central-hong-kong/04.webp",
+      "/listings/four-seasons-place-central-hong-kong/05.webp",
+      "/listings/four-seasons-place-central-hong-kong/06.webp",
+      "/listings/four-seasons-place-central-hong-kong/07.webp",
+      "/listings/four-seasons-place-central-hong-kong/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -94,7 +103,16 @@
       "http://ppa.whitespace.hk/img/bedroom_6.jpg",
       "https://edge.sitecorecloud.io/swirehotels1-swirehotels-production-ebf6/media/Project/Upper-House/upper-house/hongkong/Images/menu/apartments.jpg?h=2000&iar=0&w=3000"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/pacific-place-apartments-admiralty-hong-kong/01.webp",
+      "/listings/pacific-place-apartments-admiralty-hong-kong/02.webp",
+      "/listings/pacific-place-apartments-admiralty-hong-kong/03.webp",
+      "/listings/pacific-place-apartments-admiralty-hong-kong/04.webp",
+      "/listings/pacific-place-apartments-admiralty-hong-kong/05.webp",
+      "/listings/pacific-place-apartments-admiralty-hong-kong/06.webp",
+      "/listings/pacific-place-apartments-admiralty-hong-kong/07.webp",
+      "/listings/pacific-place-apartments-admiralty-hong-kong/08.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -158,7 +176,16 @@
       "https://www.artus.com.hk/media/images/inspiration/facilities/photo_the-living-salon_home.jpg",
       "https://www.artus.com.hk/media/images/inspiration/facilities/photo_the-gym_home.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/k11-artus-tsim-sha-tsui-hong-kong/01.webp",
+      "/listings/k11-artus-tsim-sha-tsui-hong-kong/02.webp",
+      "/listings/k11-artus-tsim-sha-tsui-hong-kong/03.webp",
+      "/listings/k11-artus-tsim-sha-tsui-hong-kong/04.webp",
+      "/listings/k11-artus-tsim-sha-tsui-hong-kong/05.webp",
+      "/listings/k11-artus-tsim-sha-tsui-hong-kong/06.webp",
+      "/listings/k11-artus-tsim-sha-tsui-hong-kong/07.webp",
+      "/listings/k11-artus-tsim-sha-tsui-hong-kong/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -221,7 +248,10 @@
     "imageUrls": [
       "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/hong-kong/en/images/overview/rwhkg-asaya-pool-3.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/rosewood-residences-tsim-sha-tsui-hong-kong/01.webp",
+      "/listings/rosewood-residences-tsim-sha-tsui-hong-kong/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -277,7 +307,9 @@
       "https://www.therepulsebay.com/-/media/trb/01_apartments/01_landing/serviceapartment1.jpg",
       "https://www.therepulsebay.com/-/media/trb/01_apartments/02_de-ricou-serviced-apartments/apartment_enquiry.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-repulse-bay-hong-kong/01.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -331,7 +363,15 @@
       "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/Gym-Factilities.jpeg",
       "https://lansonplace.com/causewaybay/wp-content/uploads/sites/4/DF3FC4E9-87EA-409D-AB82-86B834AAF70F_1_201_a.jpeg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/lanson-place-causeway-bay-hong-kong/01.webp",
+      "/listings/lanson-place-causeway-bay-hong-kong/02.webp",
+      "/listings/lanson-place-causeway-bay-hong-kong/03.webp",
+      "/listings/lanson-place-causeway-bay-hong-kong/04.webp",
+      "/listings/lanson-place-causeway-bay-hong-kong/05.webp",
+      "/listings/lanson-place-causeway-bay-hong-kong/06.webp",
+      "/listings/lanson-place-causeway-bay-hong-kong/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -391,7 +431,15 @@
       "https://www.sino-residential.com/cache/img/c22e3a04455467f06911cd050a7fd663.jpg",
       "https://www.sino-residential.com/cache/img/f021db4bb04d72e03de3d9c7e438b9fc.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/one-central-place-hong-kong/01.webp",
+      "/listings/one-central-place-hong-kong/02.webp",
+      "/listings/one-central-place-hong-kong/03.webp",
+      "/listings/one-central-place-hong-kong/04.webp",
+      "/listings/one-central-place-hong-kong/05.webp",
+      "/listings/one-central-place-hong-kong/06.webp",
+      "/listings/one-central-place-hong-kong/07.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -450,7 +498,15 @@
       "https://hongkongparkview.com/wp-content/uploads/2023/10/Standard-room-parkview.jpg",
       "https://hongkongparkview.com/wp-content/uploads/2024/10/family-suite.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/hong-kong-parkview-tai-tam/01.webp",
+      "/listings/hong-kong-parkview-tai-tam/02.webp",
+      "/listings/hong-kong-parkview-tai-tam/03.webp",
+      "/listings/hong-kong-parkview-tai-tam/04.webp",
+      "/listings/hong-kong-parkview-tai-tam/05.webp",
+      "/listings/hong-kong-parkview-tai-tam/06.webp",
+      "/listings/hong-kong-parkview-tai-tam/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -514,7 +570,16 @@
       "https://www.littletaihang.com/wp-content/uploads/2020/01/One-Bedroom-Standard-Harbour-View-Room-03.jpg",
       "https://www.littletaihang.com/wp-content/uploads/2019/04/little-taihang-room.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/little-tai-hang-hong-kong/01.webp",
+      "/listings/little-tai-hang-hong-kong/02.webp",
+      "/listings/little-tai-hang-hong-kong/03.webp",
+      "/listings/little-tai-hang-hong-kong/04.webp",
+      "/listings/little-tai-hang-hong-kong/05.webp",
+      "/listings/little-tai-hang-hong-kong/06.webp",
+      "/listings/little-tai-hang-hong-kong/07.webp",
+      "/listings/little-tai-hang-hong-kong/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -576,7 +641,14 @@
       "https://www.harbourviewplace.com/en/images/img-health-club.jpg",
       "https://www.harbourviewplace.com/en/images/img-lounge.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-harbourview-place-kowloon-hong-kong/01.webp",
+      "/listings/the-harbourview-place-kowloon-hong-kong/02.webp",
+      "/listings/the-harbourview-place-kowloon-hong-kong/03.webp",
+      "/listings/the-harbourview-place-kowloon-hong-kong/04.webp",
+      "/listings/the-harbourview-place-kowloon-hong-kong/05.webp",
+      "/listings/the-harbourview-place-kowloon-hong-kong/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -640,7 +712,15 @@
       "https://discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/gallery/CN-HongKong-ANPHK-StudioPre-LivingRm-2024-LR.jpg.transform/ascott-lowres/image.jpg",
       "https://discoverasr.com/content/dam/tal/media/images/properties/china/hong-kong/ascott-north-point-hong-kong/gallery/CN-HongKong-ANPHK-Reception02-2024-LR.jpg.transform/ascott-lowres/image.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/ascott-north-point-hong-kong/01.webp",
+      "/listings/ascott-north-point-hong-kong/02.webp",
+      "/listings/ascott-north-point-hong-kong/03.webp",
+      "/listings/ascott-north-point-hong-kong/04.webp",
+      "/listings/ascott-north-point-hong-kong/05.webp",
+      "/listings/ascott-north-point-hong-kong/06.webp",
+      "/listings/ascott-north-point-hong-kong/07.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -690,7 +770,13 @@
       "https://lansonplace.com/waterfrontsuites/wp-content/uploads/sites/2/waterfront-suites_Studio-1.jpg",
       "https://lansonplace.com/waterfrontsuites/wp-content/uploads/sites/2/waterfront-suites_Studio_mood.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/lanson-place-waterfront-suites-hong-kong/01.webp",
+      "/listings/lanson-place-waterfront-suites-hong-kong/02.webp",
+      "/listings/lanson-place-waterfront-suites-hong-kong/03.webp",
+      "/listings/lanson-place-waterfront-suites-hong-kong/04.webp",
+      "/listings/lanson-place-waterfront-suites-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -750,7 +836,16 @@
     "longitude": null,
     "heroImageUrl": null,
     "imageUrls": [],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/chelsea-court-the-peak-hong-kong/gallery-02.webp",
+      "/listings/chelsea-court-the-peak-hong-kong/gallery-03.webp",
+      "/listings/chelsea-court-the-peak-hong-kong/gallery-04.webp",
+      "/listings/chelsea-court-the-peak-hong-kong/gallery-05.webp",
+      "/listings/chelsea-court-the-peak-hong-kong/gallery-06.webp",
+      "/listings/chelsea-court-the-peak-hong-kong/gallery-07.webp",
+      "/listings/chelsea-court-the-peak-hong-kong/gallery-08.webp",
+      "/listings/chelsea-court-the-peak-hong-kong/hero-01.webp"
+    ],
     "unitTypes": [
       "2-Bed",
       "Duplex"
@@ -798,7 +893,14 @@
       "https://www.gatewayapartments.com.hk/files/suite-banner-2br01_0.jpg",
       "https://www.gatewayapartments.com.hk/files/slider-room-penthouse-2br.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/gateway-apartments-tsim-sha-tsui-hong-kong/01.webp",
+      "/listings/gateway-apartments-tsim-sha-tsui-hong-kong/02.webp",
+      "/listings/gateway-apartments-tsim-sha-tsui-hong-kong/03.webp",
+      "/listings/gateway-apartments-tsim-sha-tsui-hong-kong/04.webp",
+      "/listings/gateway-apartments-tsim-sha-tsui-hong-kong/05.webp",
+      "/listings/gateway-apartments-tsim-sha-tsui-hong-kong/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -848,7 +950,14 @@
       "https://static.wixstatic.com/media/c0100a_a5d2330c3a884784a8145f018fcc6d2b~mv2.jpg/v1/fit/w_2000,h_1100,q_90/c0100a_a5d2330c3a884784a8145f018fcc6d2b~mv2.jpg",
       "https://static.wixstatic.com/media/c0100a_cac9b366249e43d087263e973851297c~mv2.jpg/v1/fit/w_2000,h_1100,q_90/c0100a_cac9b366249e43d087263e973851297c~mv2.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-mercer-sheung-wan-hong-kong/01.webp",
+      "/listings/the-mercer-sheung-wan-hong-kong/02.webp",
+      "/listings/the-mercer-sheung-wan-hong-kong/03.webp",
+      "/listings/the-mercer-sheung-wan-hong-kong/04.webp",
+      "/listings/the-mercer-sheung-wan-hong-kong/05.webp",
+      "/listings/the-mercer-sheung-wan-hong-kong/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -894,7 +1003,10 @@
     "imageUrls": [
       "https://cmplus.com.hk/upload/img/2024-03-15/36d654cc-b8e5-4f67-aefb-7940b6a22685.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/cm-plus-sheung-wan-hong-kong/01.webp",
+      "/listings/cm-plus-sheung-wan-hong-kong/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -938,7 +1050,9 @@
       "https://www.sinosuites.com.hk/suites/en/thestaunton/upload/thestaunton/page/1/share/5f28d3f1bcdb1.jpg",
       "https://www.sinosuites.com.hk/suites/en/img/?hash=e74924106039403e3a212e93c72b5bb1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-staunton-central-hong-kong/01.webp"
+    ],
     "unitTypes": [
       "1-Bed"
     ],
@@ -984,7 +1098,13 @@
       "https://twomr.com/wp-content/uploads/sites/5/LansonPlace_TMR_StandardSuperiorSuite_1.jpg",
       "https://twomr.com/wp-content/uploads/sites/5/LansonPlace_TMR_CafeBarOn8-e1620285001991-1600x899.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/two-macdonnell-road-hong-kong/01.webp",
+      "/listings/two-macdonnell-road-hong-kong/02.webp",
+      "/listings/two-macdonnell-road-hong-kong/03.webp",
+      "/listings/two-macdonnell-road-hong-kong/04.webp",
+      "/listings/two-macdonnell-road-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1079,7 +1199,13 @@
       "https://www.thebauhinia.com.hk/media/0zmjpocw/knc_retouched-0120.jpg",
       "https://www.thebauhinia.com.hk/media/c0zfvyfe/knc_retouched-0215.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-bauhinia-apartments-central-hong-kong/01.webp",
+      "/listings/the-bauhinia-apartments-central-hong-kong/02.webp",
+      "/listings/the-bauhinia-apartments-central-hong-kong/03.webp",
+      "/listings/the-bauhinia-apartments-central-hong-kong/04.webp",
+      "/listings/the-bauhinia-apartments-central-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1127,7 +1253,13 @@
       "https://www.hanlunhabitats.com/images/lily_i_22to24.jpg",
       "https://www.hanlunhabitats.com/images/home_sa_img1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/lily-i-ii-mid-levels-hong-kong/01.webp",
+      "/listings/lily-i-ii-mid-levels-hong-kong/02.webp",
+      "/listings/lily-i-ii-mid-levels-hong-kong/03.webp",
+      "/listings/lily-i-ii-mid-levels-hong-kong/04.webp",
+      "/listings/lily-i-ii-mid-levels-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1171,7 +1303,10 @@
     "imageUrls": [
       "https://www.townplace.com.hk/assets/images/ogimage.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/townplace-soho-hong-kong/01.webp",
+      "/listings/townplace-soho-hong-kong/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1221,7 +1356,13 @@
       "https://www.hanlunhabitats.com/images/home_sa_img3.jpg",
       "https://www.hanlunhabitats.com/images/home_sa_img4.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/orchid-mid-levels-hong-kong/01.webp",
+      "/listings/orchid-mid-levels-hong-kong/02.webp",
+      "/listings/orchid-mid-levels-hong-kong/03.webp",
+      "/listings/orchid-mid-levels-hong-kong/04.webp",
+      "/listings/orchid-mid-levels-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "Penthouse"
@@ -1265,7 +1406,12 @@
       "https://www.sinosuites.com.hk/suites/en/thegage/upload/thegage/page/1/share/5d2d2e5c3fcdb.jpg",
       "https://www.sinosuites.com.hk/suites/en/upload/thegage/page/1/social_media_mobile/5d2d30015fe62.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-gage-central-hong-kong/gallery-02.webp",
+      "/listings/the-gage-central-hong-kong/gallery-03.webp",
+      "/listings/the-gage-central-hong-kong/gallery-04.webp",
+      "/listings/the-gage-central-hong-kong/hero-01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1309,7 +1455,16 @@
       "https://www.thev.hk/en/upload/images/room_location/20230712105215_2754_banner.jpg",
       "https://www.thev.hk/en/upload/images/room_location/20230712105951_2771_banner.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/v-causeway-bay-2-hong-kong/gallery-02.webp",
+      "/listings/v-causeway-bay-2-hong-kong/gallery-03.webp",
+      "/listings/v-causeway-bay-2-hong-kong/gallery-04.webp",
+      "/listings/v-causeway-bay-2-hong-kong/gallery-05.webp",
+      "/listings/v-causeway-bay-2-hong-kong/gallery-06.webp",
+      "/listings/v-causeway-bay-2-hong-kong/gallery-07.webp",
+      "/listings/v-causeway-bay-2-hong-kong/gallery-08.webp",
+      "/listings/v-causeway-bay-2-hong-kong/hero-01.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -1355,7 +1510,11 @@
       "https://www.thev.hk/en/upload/images/room_location/20230712110815_2782_banner.jpg",
       "https://www.thev.hk/en/upload/images/room_location/20230712111433_2807_banner.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-hayworth-causeway-bay-hong-kong/01.webp",
+      "/listings/the-hayworth-causeway-bay-hong-kong/02.webp",
+      "/listings/the-hayworth-causeway-bay-hong-kong/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1403,7 +1562,13 @@
       "https://www.eatonresidences.com.hk/web/assets/images/Living_Room.jpg",
       "https://www.eatonresidences.com.hk/web/assets/images/home-banner-31.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/eaton-residences-happy-valley-hong-kong/01.webp",
+      "/listings/eaton-residences-happy-valley-hong-kong/02.webp",
+      "/listings/eaton-residences-happy-valley-hong-kong/03.webp",
+      "/listings/eaton-residences-happy-valley-hong-kong/04.webp",
+      "/listings/eaton-residences-happy-valley-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1448,7 +1613,9 @@
       "https://www.kerryprops.com/images/property/131/theaster_.jpg",
       "https://www.kerryprops.com/images/property/131/thumbnail_1222_the-aster_sky-clubhouse_disclaimer.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/resiglow-happy-valley-hong-kong/01.webp"
+    ],
     "unitTypes": [
       "2-Bed"
     ],
@@ -1492,7 +1659,13 @@
       "https://hv88.88hospitality.com/wp-content/uploads/2023/10/A7402085-%E7%B7%A8%E8%BC%AF-%E6%8B%B7%E8%B2%9D-960x600.jpg",
       "https://hv88.88hospitality.com/wp-content/uploads/2023/11/A7403710-%E7%B7%A8%E8%BC%AF-%E6%8B%B7%E8%B2%9D-960x600.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/happy-valley-88-hong-kong/01.webp",
+      "/listings/happy-valley-88-hong-kong/02.webp",
+      "/listings/happy-valley-88-hong-kong/03.webp",
+      "/listings/happy-valley-88-hong-kong/04.webp",
+      "/listings/happy-valley-88-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -1536,7 +1709,13 @@
       "https://www.theluna.com.hk/uploaded_files/homepage_banner/3/7e51b980f8dff02dea9a79e7d0ea7080cd7a79e1.jpg",
       "https://www.theluna.com.hk/images/room_bedroom_img1_client.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-luna-wan-chai-hong-kong/01.webp",
+      "/listings/the-luna-wan-chai-hong-kong/02.webp",
+      "/listings/the-luna-wan-chai-hong-kong/03.webp",
+      "/listings/the-luna-wan-chai-hong-kong/04.webp",
+      "/listings/the-luna-wan-chai-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1580,7 +1759,9 @@
       "https://www.sinosuites.com.hk/suites/en/thejohnston/upload/thejohnston/page/1/share/5ea7e86611859.jpg",
       "https://www.sinosuites.com.hk/suites/en/img/?hash=bddee41913fdc8f1c34417319398ec49.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-johnston-wan-chai-hong-kong/01.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -1625,7 +1806,13 @@
       "https://www.gardeneast.com.hk/assets/img/rooms/Deluxe-1-bedroom_01.jpg",
       "https://www.gardeneast.com.hk/assets/img/rooms/Executive_Suite_01.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/garden-east-wan-chai-hong-kong/01.webp",
+      "/listings/garden-east-wan-chai-hong-kong/02.webp",
+      "/listings/garden-east-wan-chai-hong-kong/03.webp",
+      "/listings/garden-east-wan-chai-hong-kong/04.webp",
+      "/listings/garden-east-wan-chai-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1670,7 +1857,11 @@
       "https://edge.sitecorecloud.io/swirehotels1-swirehotels-production-ebf6/media/Project/EAST-Hotels/HongKong/Residences/EHK-Residence-Home---Banner.jpg",
       "https://edge.sitecorecloud.io/swirehotels1-swirehotels-production-ebf6/media/Project/EAST-Hotels/HongKong/Residences/Studio/V3-NK/EHK-Residence---Studio.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/east-apartments-quarry-bay-hong-kong/01.webp",
+      "/listings/east-apartments-quarry-bay-hong-kong/02.webp",
+      "/listings/east-apartments-quarry-bay-hong-kong/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1719,7 +1910,12 @@
       "https://www.victoriaharbourresidence.com/ig/Right.jpeg",
       "https://www.victoriaharbourresidence.com/images/room-01-s.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/victoria-harbour-residence-north-point-hong-kong/01.webp",
+      "/listings/victoria-harbour-residence-north-point-hong-kong/02.webp",
+      "/listings/victoria-harbour-residence-north-point-hong-kong/03.webp",
+      "/listings/victoria-harbour-residence-north-point-hong-kong/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1766,7 +1962,12 @@
       "https://www.victoriaharbourresidence.com/vh/images/tower-3.jpg",
       "https://www.victoriaharbourresidence.com/vh/images/location-vh2.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/victoria-harbour-ii-north-point-hong-kong/01.webp",
+      "/listings/victoria-harbour-ii-north-point-hong-kong/02.webp",
+      "/listings/victoria-harbour-ii-north-point-hong-kong/03.webp",
+      "/listings/victoria-harbour-ii-north-point-hong-kong/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -1811,7 +2012,11 @@
       "https://www.thestellar.com.hk/wp-content/uploads/2023/09/Vanke0258-Pano-copy.jpg",
       "https://www.thestellar.com.hk/wp-content/uploads/2023/09/Vanke0258-Pano-copy-1536x768.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-stellar-north-point-hong-kong/01.webp",
+      "/listings/the-stellar-north-point-hong-kong/02.webp",
+      "/listings/the-stellar-north-point-hong-kong/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1856,7 +2061,13 @@
       "https://www.skyla.com.hk/images/gallery/03.jpg",
       "https://www.skyla.com.hk/images/gallery/04.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/skyla-kennedy-town-hong-kong/01.webp",
+      "/listings/skyla-kennedy-town-hong-kong/02.webp",
+      "/listings/skyla-kennedy-town-hong-kong/03.webp",
+      "/listings/skyla-kennedy-town-hong-kong/04.webp",
+      "/listings/skyla-kennedy-town-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "Duplex"
@@ -1897,7 +2108,10 @@
     "imageUrls": [
       "https://www.townplace.com.hk/assets/images/ogimage.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/townplace-kennedy-town-hong-kong/01.webp",
+      "/listings/townplace-kennedy-town-hong-kong/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -2010,7 +2224,9 @@
       "https://www.sinosuites.com.hk/suites/en/thehumphreys/upload/thehumphreys/page/1/share/5df761d587689.jpg",
       "https://www.sinosuites.com.hk/suites/en/img/?hash=869067afdd812bd93be0bbc4f4023d09.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-humphreys-tsim-sha-tsui-hong-kong/01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2051,7 +2267,13 @@
     "imageUrls": [
       "https://www.sinosuites.com.hk/suites/en/thecamphora/upload/thecamphora/page/1/share/5d2d7937c8236.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-camphora-tsim-sha-tsui-hong-kong/gallery-02.webp",
+      "/listings/the-camphora-tsim-sha-tsui-hong-kong/gallery-03.webp",
+      "/listings/the-camphora-tsim-sha-tsui-hong-kong/gallery-04.webp",
+      "/listings/the-camphora-tsim-sha-tsui-hong-kong/gallery-05.webp",
+      "/listings/the-camphora-tsim-sha-tsui-hong-kong/hero-01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2095,7 +2317,12 @@
       "https://westkowloon-webapi.townplace.com.hk/storage/app/media/cropped-images/TOWNPLACE-WK-Apt-281-63-0-640-480-1689135191.jpg",
       "https://westkowloon-webapi.townplace.com.hk/storage/app/media/cropped-images/TOWNPLACE-WK-Apt-105-v3-70-0-640-480-1689135226.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/townplace-west-kowloon-hong-kong/01.webp",
+      "/listings/townplace-west-kowloon-hong-kong/02.webp",
+      "/listings/townplace-west-kowloon-hong-kong/03.webp",
+      "/listings/townplace-west-kowloon-hong-kong/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2139,7 +2366,11 @@
       "https://www.vegasuites.com.hk/video/screen.jpg",
       "https://www.vegasuites.com.hk/en/images/location-buildings.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/vega-suites-tseung-kwan-o-hong-kong/01.webp",
+      "/listings/vega-suites-tseung-kwan-o-hong-kong/02.webp",
+      "/listings/vega-suites-tseung-kwan-o-hong-kong/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -2185,7 +2416,10 @@
     "imageUrls": [
       "https://www.weave-living.com/seo_image.webp"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/weave-suites-central-west-hong-kong/01.webp",
+      "/listings/weave-suites-central-west-hong-kong/02.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2230,7 +2464,13 @@
       "https://www.starstudios.com.hk/wp-content/uploads/2020/11/3-scaled.jpg",
       "https://www.starstudios.com.hk/wp-content/uploads/2020/11/4-scaled.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/star-studios-wan-chai-hong-kong/01.webp",
+      "/listings/star-studios-wan-chai-hong-kong/02.webp",
+      "/listings/star-studios-wan-chai-hong-kong/03.webp",
+      "/listings/star-studios-wan-chai-hong-kong/04.webp",
+      "/listings/star-studios-wan-chai-hong-kong/05.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -2274,7 +2514,10 @@
     "imageUrls": [
       "https://www.sinosuites.com.hk/suites/en/thehillside/upload/thehillside/page/1/share/5df7435bba5bb.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-hillside-wan-chai-hong-kong/gallery-02.webp",
+      "/listings/the-hillside-wan-chai-hong-kong/hero-01.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -2315,7 +2558,10 @@
     "imageUrls": [
       "https://www.sinosuites.com.hk/suites/en/theventris/upload/theventris/page/1/share/5e97cff4c66df.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-ventris-happy-valley-hong-kong/gallery-02.webp",
+      "/listings/the-ventris-happy-valley-hong-kong/hero-01.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"
@@ -2353,7 +2599,12 @@
     "longitude": null,
     "heroImageUrl": null,
     "imageUrls": [],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/v-wan-chai-hong-kong/01.webp",
+      "/listings/v-wan-chai-hong-kong/02.webp",
+      "/listings/v-wan-chai-hong-kong/03.webp",
+      "/listings/v-wan-chai-hong-kong/04.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -2392,7 +2643,12 @@
     "longitude": null,
     "heroImageUrl": null,
     "imageUrls": [],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/v-happy-valley-hong-kong/01.webp",
+      "/listings/v-happy-valley-hong-kong/02.webp",
+      "/listings/v-happy-valley-hong-kong/03.webp",
+      "/listings/v-happy-valley-hong-kong/04.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed"

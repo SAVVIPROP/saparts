@@ -10,6 +10,19 @@ export { PAGE_SIZE } from "./constants";
 
 const DATA_DIR = join(process.cwd(), "data");
 
+let cachedLocalImages: Record<string, string[]> | null = null;
+function localImageMap(): Record<string, string[]> {
+  if (!cachedLocalImages) cachedLocalImages = readJson<Record<string, string[]>>(join(DATA_DIR, "local-images.json"), {});
+  return cachedLocalImages;
+}
+
+function withLocalImages(p: Listing): Listing {
+  const files = (p.imageFiles ?? []).filter((u) => typeof u === "string" && u.startsWith("/listings/") && !/^https?:\/\//i.test(u));
+  if (files.length) return { ...p, imageFiles: files };
+  const mapped = (localImageMap()[p.slug] ?? []).filter((u) => typeof u === "string" && u.startsWith("/listings/") && !/^https?:\/\//i.test(u));
+  return { ...p, imageFiles: mapped };
+}
+
 function readJson<T>(path: string, fallback: T): T {
   if (!existsSync(path)) return fallback;
   try {
@@ -36,7 +49,7 @@ export function getCity(slug: string): City | undefined {
 export function getPropertiesForCity(citySlug: string): Listing[] {
   noStore();
   const rows = readJson<Listing[]>(join(DATA_DIR, "properties", `${citySlug}.json`), []);
-  return rows.filter((p) => p?.slug && p.published !== false);
+  return rows.filter((p) => p?.slug && p.published !== false).map(withLocalImages);
 }
 
 export function getAllProperties(): Listing[] {
@@ -48,7 +61,7 @@ export function getAllProperties(): Listing[] {
   for (const file of files) {
     const rows = readJson<Listing[]>(join(dir, file), []);
     for (const row of rows) {
-      if (row?.slug && row.published !== false) listings.push(row);
+      if (row?.slug && row.published !== false) listings.push(withLocalImages(row));
     }
   }
   return listings;

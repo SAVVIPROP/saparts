@@ -21,7 +21,16 @@
       "https://d2chnh63vyelao.cloudfront.net/stayaka.com-190490422/cms/imagepool/58e38a3e1f2c4.jpg",
       "https://dqesq4kyrvn2s.cloudfront.net/stayaka.com-1078091968/cms/cache/v2/58e38a3f06f77.jpg/1200x630/fit/100/3dbc1d8861647a2050342363c8f46330.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/aka-central-park/01.webp",
+      "/listings/aka-central-park/02.webp",
+      "/listings/aka-central-park/03.webp",
+      "/listings/aka-central-park/04.webp",
+      "/listings/aka-central-park/05.webp",
+      "/listings/aka-central-park/06.webp",
+      "/listings/aka-central-park/07.webp",
+      "/listings/aka-central-park/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -82,7 +91,16 @@
       "https://d2chnh63vyelao.cloudfront.net/stayaka.com-190490422/cms/imagepool/5cdabf751d3b2.jpg",
       "https://dqesq4kyrvn2s.cloudfront.net/stayaka.com-1078091968/cms/cache/v2/58e39945edfaa.jpg/1200x630/fit/100/8dc9b5c245edad1fc7eba1d00a8af643.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/aka-times-square/01.webp",
+      "/listings/aka-times-square/02.webp",
+      "/listings/aka-times-square/03.webp",
+      "/listings/aka-times-square/04.webp",
+      "/listings/aka-times-square/05.webp",
+      "/listings/aka-times-square/06.webp",
+      "/listings/aka-times-square/07.webp",
+      "/listings/aka-times-square/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -140,7 +158,16 @@
       "https://dqesq4kyrvn2s.cloudfront.net/stayaka.com-1078091968/cms/cache/v2/58e3b035bdf41.jpg/1200x630/fit/100/a741b113074b28fbc7cbd853d569022c.jpg",
       "https://d2chnh63vyelao.cloudfront.net/stayaka.com-190490422/cms/imagepool/58e3b057cdc64.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/aka-sutton-place/01.webp",
+      "/listings/aka-sutton-place/02.webp",
+      "/listings/aka-sutton-place/03.webp",
+      "/listings/aka-sutton-place/04.webp",
+      "/listings/aka-sutton-place/05.webp",
+      "/listings/aka-sutton-place/06.webp",
+      "/listings/aka-sutton-place/07.webp",
+      "/listings/aka-sutton-place/08.webp"
+    ],
     "unitTypes": [
       "1-Bed",
       "2-Bed",
@@ -196,7 +223,11 @@
     "imageUrls": [
       "https://res.cloudinary.com/kasa-living/image/upload/f_auto,q_auto,w_1600/v1769714406/kasa-website/PIN/STU-K%20PREM/Studio_Deluxe_1_wcmgfy.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/mint-house-70-pine-by-kasa/01.webp",
+      "/listings/mint-house-70-pine-by-kasa/02.webp",
+      "/listings/mint-house-70-pine-by-kasa/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -240,7 +271,10 @@
     "imageUrls": [
       "https://res.cloudinary.com/kasa-living/image/upload/f_auto,q_auto,w_1600/v1679692497/kasa-website/ALL/Lifestyle%20shoot/Copy_of_20230224_Kasa_NYC38_nugogx.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/kasa-lantern-lower-east-side/01.webp",
+      "/listings/kasa-lantern-lower-east-side/02.webp"
+    ],
     "unitTypes": [
       "Penthouse"
     ],
@@ -288,7 +322,16 @@
       "https://www.placemakr.com/hs-fs/hubfs/Wall-dining%20and%20kitchen.jpg",
       "https://www.placemakr.com/hs-fs/hubfs/0-pm-corp-website-brand-refresh/property-pages/Wall%20Street/Building%20+%20amenities%20(for%20gallery)/hero-gallery-17_Laundry%20RM-1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/placemakr-wall-street/01.webp",
+      "/listings/placemakr-wall-street/02.webp",
+      "/listings/placemakr-wall-street/03.webp",
+      "/listings/placemakr-wall-street/04.webp",
+      "/listings/placemakr-wall-street/05.webp",
+      "/listings/placemakr-wall-street/06.webp",
+      "/listings/placemakr-wall-street/07.webp",
+      "/listings/placemakr-wall-street/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -344,7 +387,16 @@
       "https://park.marmaranyc.com/hs-fs/hubfs/Rooms/Premium%20Residence/Premium_Residence%231.jpeg",
       "https://park.marmaranyc.com/hs-fs/hubfs/Rooms/Two%20Bedroom%20Residence/Two_Bed_Residence%237.jpeg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-marmara-park-avenue/01.webp",
+      "/listings/the-marmara-park-avenue/02.webp",
+      "/listings/the-marmara-park-avenue/03.webp",
+      "/listings/the-marmara-park-avenue/04.webp",
+      "/listings/the-marmara-park-avenue/05.webp",
+      "/listings/the-marmara-park-avenue/06.webp",
+      "/listings/the-marmara-park-avenue/07.webp",
+      "/listings/the-marmara-park-avenue/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -396,7 +448,16 @@
       "https://m301.marmaranyc.com/hs-fs/hubfs/18%20Units/Pictures/5E_Living_Room00012.jpg",
       "https://20137924.fs1.hubspotusercontent-na1.net/hubfs/20137924/M301%20Residence%20(1)-1.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/m301-the-marmara-manhattan/01.webp",
+      "/listings/m301-the-marmara-manhattan/02.webp",
+      "/listings/m301-the-marmara-manhattan/03.webp",
+      "/listings/m301-the-marmara-manhattan/04.webp",
+      "/listings/m301-the-marmara-manhattan/05.webp",
+      "/listings/m301-the-marmara-manhattan/06.webp",
+      "/listings/m301-the-marmara-manhattan/07.webp",
+      "/listings/m301-the-marmara-manhattan/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -446,7 +507,16 @@
       "https://www.radiocityapartments.com/files-sbbasic/ba_radiocityapartments_at/lobby_lounge.jpg",
       "https://www.radiocityapartments.com/files-sbbasic/ba_radiocityapartments_at/ddsf_1_bedroom_livingroom.jpg"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/radio-city-apartments/01.webp",
+      "/listings/radio-city-apartments/02.webp",
+      "/listings/radio-city-apartments/03.webp",
+      "/listings/radio-city-apartments/04.webp",
+      "/listings/radio-city-apartments/05.webp",
+      "/listings/radio-city-apartments/06.webp",
+      "/listings/radio-city-apartments/07.webp",
+      "/listings/radio-city-apartments/08.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed",
@@ -492,7 +562,13 @@
     "longitude": "-73.986437",
     "heroImageUrl": null,
     "imageUrls": [],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/longacre-house-furnished-quarters/01.webp",
+      "/listings/longacre-house-furnished-quarters/02.webp",
+      "/listings/longacre-house-furnished-quarters/03.webp",
+      "/listings/longacre-house-furnished-quarters/04.webp",
+      "/listings/longacre-house-furnished-quarters/05.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,
@@ -544,7 +620,14 @@
       "https://cache.marriott.com/is/image/marriotts7prod/ri-nycha-lobby-33172:Classic-Hor?wid=1300&fit=constrain",
       "https://cache.marriott.com/aka-fonts/ccpa/privacyoptions29x14.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residence-inn-new-york-manhattan-midtown-east/01.webp",
+      "/listings/residence-inn-new-york-manhattan-midtown-east/02.webp",
+      "/listings/residence-inn-new-york-manhattan-midtown-east/03.webp",
+      "/listings/residence-inn-new-york-manhattan-midtown-east/04.webp",
+      "/listings/residence-inn-new-york-manhattan-midtown-east/05.webp",
+      "/listings/residence-inn-new-york-manhattan-midtown-east/06.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -636,7 +719,11 @@
       "https://cache.marriott.com/content/dam/marriott-hws/global/map-pin.svg",
       "https://cache.marriott.com/aka-fonts/ccpa/privacyoptions29x14.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residence-inn-new-york-manhattan-times-square/01.webp",
+      "/listings/residence-inn-new-york-manhattan-times-square/02.webp",
+      "/listings/residence-inn-new-york-manhattan-times-square/03.webp"
+    ],
     "unitTypes": [
       "Studio"
     ],
@@ -749,7 +836,11 @@
       "https://cache.marriott.com/content/dam/marriott-hws/global/map-pin.svg",
       "https://cache.marriott.com/aka-fonts/ccpa/privacyoptions29x14.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residence-inn-new-york-downtown-manhattan-world-trade-center-area/01.webp",
+      "/listings/residence-inn-new-york-downtown-manhattan-world-trade-center-area/02.webp",
+      "/listings/residence-inn-new-york-downtown-manhattan-world-trade-center-area/03.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -824,7 +915,12 @@
       "https://cache.marriott.com/content/dam/marriott-hws/global/map-pin.svg",
       "https://cache.marriott.com/aka-fonts/ccpa/privacyoptions29x14.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/residence-inn-new-york-downtown-manhattan-financial-district/01.webp",
+      "/listings/residence-inn-new-york-downtown-manhattan-financial-district/02.webp",
+      "/listings/residence-inn-new-york-downtown-manhattan-financial-district/03.webp",
+      "/listings/residence-inn-new-york-downtown-manhattan-financial-district/04.webp"
+    ],
     "unitTypes": [
       "Studio",
       "1-Bed"
@@ -1103,7 +1199,12 @@
       "https://cache.marriott.com/content/dam/marriott-hws/global/map-pin.svg",
       "https://cache.marriott.com/aka-fonts/ccpa/privacyoptions29x14.png"
     ],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/towneplace-suites-new-york-brooklyn/01.webp",
+      "/listings/towneplace-suites-new-york-brooklyn/02.webp",
+      "/listings/towneplace-suites-new-york-brooklyn/03.webp",
+      "/listings/towneplace-suites-new-york-brooklyn/04.webp"
+    ],
     "unitTypes": [
       "1-Bed"
     ],
@@ -1659,7 +1760,9 @@
     "longitude": -73.9913907,
     "heroImageUrl": null,
     "imageUrls": [],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/150-forsyth-street/01.webp"
+    ],
     "unitTypes": [
       "2-Bed"
     ],
@@ -5746,7 +5849,16 @@
     "longitude": "-73.967388",
     "heroImageUrl": null,
     "imageUrls": [],
-    "imageFiles": [],
+    "imageFiles": [
+      "/listings/the-bridgeview-lenox-hill/gallery-02.webp",
+      "/listings/the-bridgeview-lenox-hill/gallery-03.webp",
+      "/listings/the-bridgeview-lenox-hill/gallery-04.webp",
+      "/listings/the-bridgeview-lenox-hill/gallery-05.webp",
+      "/listings/the-bridgeview-lenox-hill/gallery-06.webp",
+      "/listings/the-bridgeview-lenox-hill/gallery-07.webp",
+      "/listings/the-bridgeview-lenox-hill/gallery-08.webp",
+      "/listings/the-bridgeview-lenox-hill/hero-01.webp"
+    ],
     "unitTypes": [],
     "amenities": [],
     "minStayNights": null,

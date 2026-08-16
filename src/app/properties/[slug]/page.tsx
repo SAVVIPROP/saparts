@@ -12,6 +12,7 @@ import { BookmarkButton } from "@/components/BookmarkButton";
 import { PropertyActions } from "./PropertyActions";
 import { Bed, Check, ExternalLink, MapPin, ArrowRight } from "@/components/icons";
 import { cardImageUrl } from "@/lib/media";
+import { listingJsonLd } from "@/lib/seo";
 
 export async function generateStaticParams() {
   return getAllProperties().map((p) => ({ slug: p.slug }));
@@ -22,9 +23,20 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const listing = getProperty(slug);
   if (!listing) return { title: "Residence" };
   const city = getCity(listing.citySlug);
+  const image = cardImageUrl(listing);
+  const title = `${listing.name}${city ? ` — ${city.name}` : ""}`;
+  const description = listing.tagline || listing.description?.slice(0, 160) || `${listing.name} serviced apartment in ${city?.name ?? "the SAparts directory"}.`;
   return {
-    title: `${listing.name}${city ? ` — ${city.name}` : ""}`,
-    description: listing.tagline || listing.description?.slice(0, 160) || `${listing.name} serviced apartment.`,
+    title,
+    description,
+    alternates: { canonical: `/properties/${listing.slug}` },
+    openGraph: {
+      title,
+      description,
+      type: "website",
+      url: `/properties/${listing.slug}`,
+      images: image && image.startsWith("/listings/") ? [{ url: image, alt: listing.name }] : undefined,
+    },
   };
 }
 
@@ -44,8 +56,10 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
   const address = dedupeAddress(listing.address);
   const tour = listing.virtualTourUrl && !isMatterportUrl(listing.virtualTourUrl) ? listing.virtualTourUrl : null;
 
+  const jsonLd = listingJsonLd(listing, city);
   return (
     <div className="pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className="hairline-bottom">
         <div className="container py-3 flex items-center gap-2 tracker-muted overflow-x-auto no-scrollbar whitespace-nowrap">
           <Link href="/" className="hover:text-forest">SAparts</Link>

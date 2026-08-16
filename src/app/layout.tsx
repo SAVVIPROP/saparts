@@ -32,6 +32,16 @@ export const metadata: Metadata = {
   description:
     "An independent, source-backed index of serviced apartments and aparthotels. Listings are reviewed for factual content, location, and property imagery.",
   metadataBase: new URL("https://saparts.vercel.app"),
+  alternates: { canonical: "/" },
+  openGraph: {
+    title: "SAparts — World's Leading Directory of Serviced Apartments",
+    description: "Official serviced apartments across Hong Kong, London, New York, Paris, Singapore, Dubai, and Tokyo.",
+    url: "https://saparts.vercel.app",
+    siteName: "SAparts",
+    type: "website",
+    locale: "en_GB",
+  },
+  robots: { index: true, follow: true },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
