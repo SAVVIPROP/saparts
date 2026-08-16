@@ -62,7 +62,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/lyf/singapore/lyf-chinatown-singapore"
     ]
   },
   {
@@ -132,7 +132,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/lyf/singapore/lyf-bugis-singapore"
     ]
   },
   {
@@ -196,7 +196,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/lyf/singapore/lyf-farrer-park-singapore"
     ]
   },
   {
@@ -264,7 +264,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/lyf/singapore/lyf-funan-singapore"
     ]
   },
   {
@@ -329,7 +329,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/lyf/singapore/lyf-one-north-singapore"
     ]
   },
   {
@@ -401,7 +401,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/oakwood/singapore/oakwood-studios-singapore"
     ]
   },
   {
@@ -411,7 +411,7 @@
     "brand": "Oakwood",
     "category": "Serviced Apartment",
     "tagline": "Oakwood Bencoolen Singapore",
-    "description": "Oakwood Bencoolen Singapore is a serviced apartment in Bencoolen, Singapore, operated under The Ascott Limited. The official address is 30 Bencoolen St, Singapore 189621. Published apartment types include Studio, 1-Bed. Official amenities include Gym, Pool, Workspace, Laundry, Parking, Concierge. Oakwood Bencoolen Singapore offers a sophisticated and seamlessly connected base for travellers seeking premium accommodation.",
+    "description": "Oakwood Bencoolen Singapore is a serviced apartment in Bencoolen, Singapore, operated under The Ascott Limited. The official address is 30 Bencoolen St, Singapore 189621. Published apartment types include 1-Bed. Official amenities include Gym, Pool, Workspace, Laundry, Parking, Concierge. Oakwood Bencoolen Singapore offers a sophisticated and seamlessly connected base for travellers seeking premium accommodation.",
     "neighborhood": "Bencoolen",
     "address": "30 Bencoolen St, Singapore 189621",
     "latitude": 1.2986041,
@@ -441,7 +441,9 @@
       "/listings/oakwood-bencoolen-singapore/03.webp",
       "/listings/oakwood-bencoolen-singapore/04.webp"
     ],
-    "unitTypes": [],
+    "unitTypes": [
+      "1-Bed"
+    ],
     "amenities": [
       "Gym",
       "Pool",
@@ -463,7 +465,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/oakwood/singapore/oakwood-bencoolen-singapore"
     ]
   },
   {
@@ -528,7 +530,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/oakwood/singapore/oakwood-premier-raffles-place-singapore"
     ]
   },
   {
@@ -595,7 +597,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/somerset-serviced-residence/singapore/somerset-bencoolen-singapore"
     ]
   },
   {
@@ -664,7 +666,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/citadines/singapore/citadines-balestier-singapore"
     ]
   },
   {
@@ -727,7 +729,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/citadines/singapore/citadines-fusionopolis-singapore"
     ]
   },
   {
@@ -796,7 +798,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/citadines/singapore/citadines-rochor-singapore"
     ]
   },
   {
@@ -865,7 +867,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/citadines/singapore/citadines-science-park-singapore"
     ]
   },
   {
@@ -936,7 +938,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/ascott-the-residence/singapore/ascott-orchard-singapore"
     ]
   },
   {
@@ -1005,7 +1007,7 @@
     "operatorGroup": "The Ascott Limited",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.discoverasr.com/en/ascott-the-residence/singapore/ascott-raffles-place-singapore"
     ]
   },
   {
@@ -1073,7 +1075,7 @@
     "operatorGroup": "Frasers Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.frasershospitality.com/en/singapore/fraser-suites-singapore/"
     ]
   },
   {
@@ -1138,7 +1140,7 @@
     "operatorGroup": "Frasers Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.frasershospitality.com/en/singapore/fraser-residence-orchard-singapore/"
     ]
   },
   {
@@ -1148,9 +1150,9 @@
     "brand": "Fraser Residence",
     "category": "Serviced Apartment",
     "tagline": "Discover waterfront luxury at Fraser Residence River Promenade, Singapore.",
-    "description": "Fraser Residence River Promenade, Singapore is a serviced apartment in Robertson Quay, Singapore, operated under Frasers Hospitality. Published apartment types include Studio, 1-Bed. Official amenities include Gym, Pool, Parking, Pet-friendly. Discover waterfront luxury at Fraser Residence River Promenade, Singapore.",
+    "description": "Fraser Residence River Promenade, Singapore is a serviced apartment in Robertson Quay, Singapore, operated under Frasers Hospitality. The official address is 5 Jiak Kim Street, Singapore 169425. Published apartment types include Studio, 1-Bed. Official amenities include Gym, Pool, Parking, Pet-friendly. Discover waterfront luxury at Fraser Residence River Promenade, Singapore.",
     "neighborhood": "Robertson Quay",
-    "address": null,
+    "address": "5 Jiak Kim Street, Singapore 169425",
     "latitude": null,
     "longitude": null,
     "heroImageUrl": "https://www.frasershospitality.com/content/dam/frasers-hospitality/english/properties/singapore/singapore/fraser-residence-river-promenade/images/hero-images/fh_en_frrp_homepage_masthead_1.jpg",
@@ -1199,7 +1201,7 @@
     "operatorGroup": "Frasers Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.frasershospitality.com/en/singapore/fraser-residence-river-promenade-singapore/"
     ]
   },
   {
@@ -1258,7 +1260,7 @@
     "operatorGroup": "Frasers Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.frasershospitality.com/en/singapore/capri-by-fraser-china-square/"
     ]
   },
   {
@@ -1267,22 +1269,46 @@
     "name": "Oasia Residence Singapore",
     "brand": "Oasia",
     "category": "Serviced Apartment",
-    "tagline": "Oasia Residence Singapore",
-    "description": "Oasia Residence Singapore is a serviced apartment in West Coast, Singapore, operated under Far East Hospitality. Official fareasthospitality.com property page returned HTTP 403 (WAF/JS challenge) on 2026-08-16; second headered fetch also 403. No facts invented.",
+    "tagline": "Wellness-focused serviced residence in West Coast, near NUS and Singapore Science Park.",
+    "description": "Oasia Residence, Singapore is a wellness-focused serviced residence at 123 West Coast Crescent, near NUS and Singapore Science Park. The official Far East Hospitality page lists 140 studios to two-bedroom apartments and welcomes short weekly stays and extended periods. Published apartment sizes: Studio 358–382 sq ft (max 2 adults); One-Bedroom 422 sq ft (max 2 adults); Two-Bedroom 753–774 sq ft (max 4 adults). Each apartment has a fully equipped kitchenette. Official amenities include a 24-hour gym, Level 7 swimming pool, tennis courts, BBQ pits, The Living Room lounge with weekday continental breakfast (7:00–10:00 AM except public holidays), multipurpose pavilion, sauna, steam room, spa, children’s playground, complimentary Wi-Fi, complimentary parking (1 lot), 24-hour front desk, in-room washer/dryer, and pet-friendly stays (SGD 30/day or SGD 500/month). Check-in 3:00 PM, check-out 12:00 PM. Long-stay rates on request; no from-price published.",
     "neighborhood": "West Coast",
-    "address": null,
-    "latitude": null,
-    "longitude": null,
+    "address": "123 West Coast Crescent, Singapore 126779",
+    "latitude": 1.2991758,
+    "longitude": 103.7645124,
     "heroImageUrl": null,
     "imageUrls": [],
     "imageFiles": [],
-    "unitTypes": [],
-    "amenities": [],
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed"
+    ],
+    "amenities": [
+      "Kitchenette",
+      "24-hour gym",
+      "Swimming pool",
+      "Tennis court",
+      "BBQ pits",
+      "The Living Room lounge",
+      "Weekday continental breakfast",
+      "Sauna",
+      "Steam room",
+      "Spa",
+      "Children’s playground",
+      "Complimentary Wi-Fi",
+      "Complimentary parking (1 lot)",
+      "24-hour front desk",
+      "In-room washer/dryer",
+      "Laundry service",
+      "Pet-friendly",
+      "Air conditioning",
+      "Non-smoking property"
+    ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "on request",
+    "priceCurrencyNative": "SGD",
+    "priceNotes": "on request — official page offers discounted long-stay rates; no from-price published",
     "bookingUrl": null,
     "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/oasia-residence-singapore",
     "virtualTourUrl": null,
@@ -1291,7 +1317,7 @@
     "operatorGroup": "Far East Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.fareasthospitality.com/en/serviced-residences/oasia-residence-singapore"
     ]
   },
   {
@@ -1300,22 +1326,42 @@
     "name": "Village Residence West Coast",
     "brand": "Village Residence",
     "category": "Serviced Apartment",
-    "tagline": "Village Residence West Coast",
-    "description": "Village Residence West Coast is a serviced apartment in West Coast, Singapore, operated under Far East Hospitality. Official fareasthospitality.com property page returned HTTP 403 (WAF/JS challenge) on 2026-08-16; second headered fetch also 403. No facts invented.",
+    "tagline": "51 pet-friendly studios to 3-bedroom apartments inside West Coast Plaza; 3-month minimum.",
+    "description": "Village Residence West Coast is a Far East Hospitality serviced residence at 154 West Coast Road, inside West Coast Plaza. The official page lists 51 pet-friendly, fully furnished studios to 3-bedroom apartments and a required minimum stay of 3 months. Published sizes: Studio 388–484 sq ft (max 2 adults); One-Bedroom 444–526 sq ft (max 2 adults); Two-Bedroom duplex 605–918 sq ft (max 3 adults); Three-Bedroom 1,283 sq ft (max 6 adults). Apartments have a kitchenette and in-apartment washer/dryer. Official amenities include gym, outdoor swimming pool, tennis court, children’s playground, edible garden, garden BBQ pit, complimentary Wi-Fi, and paid on-site parking. Pet-friendly (SGD 30/day or SGD 500/month). Check-in 3:00 PM, check-out 12:00 PM. Long-stay rates on request; no from-price published.",
     "neighborhood": "West Coast",
-    "address": null,
-    "latitude": null,
-    "longitude": null,
+    "address": "154 West Coast Road, Singapore 127371",
+    "latitude": 1.303774,
+    "longitude": 103.766084,
     "heroImageUrl": null,
     "imageUrls": [],
     "imageFiles": [],
-    "unitTypes": [],
-    "amenities": [],
-    "minStayNights": null,
+    "unitTypes": [
+      "Studio",
+      "1-Bed",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Kitchenette",
+      "Gym",
+      "Outdoor swimming pool",
+      "Tennis court",
+      "Children’s playground",
+      "Edible garden",
+      "BBQ pit",
+      "Complimentary Wi-Fi",
+      "On-site parking (charges apply)",
+      "In-apartment washer/dryer",
+      "Laundry service",
+      "Pet-friendly",
+      "Air conditioning",
+      "Limited housekeeping"
+    ],
+    "minStayNights": 90,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "on request",
+    "priceCurrencyNative": "SGD",
+    "priceNotes": "on request — 3-month minimum; official page has no from-price",
     "bookingUrl": null,
     "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/village-residence-west-coast",
     "virtualTourUrl": null,
@@ -1324,7 +1370,7 @@
     "operatorGroup": "Far East Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.fareasthospitality.com/en/serviced-residences/village-residence-west-coast"
     ]
   },
   {
@@ -1333,22 +1379,42 @@
     "name": "Village Residence Hougang",
     "brand": "Village Residence",
     "category": "Serviced Apartment",
-    "tagline": "Village Residence Hougang",
-    "description": "Village Residence Hougang is a serviced apartment in Hougang, Singapore, operated under Far East Hospitality. Official fareasthospitality.com property page returned HTTP 403 (WAF/JS challenge) on 2026-08-16; second headered fetch also 403. No facts invented.",
+    "tagline": "78 pet-friendly 2- and 3-bedroom apartments above Hougang One Mall.",
+    "description": "Village Residence Hougang sits at 1 Hougang Street 91 above Hougang One Mall. The official Far East Hospitality page lists 78 pet-friendly two- and three-bedroom apartments for short weekly stays or long stays. Published sizes: Two-Bedroom 850–883 sq ft (max 4 adults); Three-Bedroom 1,066–1,593 sq ft (max 5 adults). Apartments have a fully equipped kitchen, Wi-Fi and in-room washer/dryer. Official amenities include gym, outdoor swimming pool, sauna, tennis court, children’s playground, edible garden, Level 4 garden BBQ pits, complimentary Wi-Fi, complimentary parking (1 lot), laundry, 24-hour security, and pet-friendly stays (SGD 30/day or SGD 500/month). Check-in 3:00 PM, check-out 12:00 PM. Long-stay rates on request; no from-price published.",
     "neighborhood": "Hougang",
-    "address": null,
-    "latitude": null,
-    "longitude": null,
+    "address": "1 Hougang Street 91, Singapore 538692",
+    "latitude": 1.375719,
+    "longitude": 103.8794915,
     "heroImageUrl": null,
     "imageUrls": [],
     "imageFiles": [],
-    "unitTypes": [],
-    "amenities": [],
+    "unitTypes": [
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Outdoor swimming pool",
+      "Sauna",
+      "Tennis court",
+      "Children’s playground",
+      "Edible garden",
+      "BBQ pits",
+      "Complimentary Wi-Fi",
+      "Complimentary parking (1 lot)",
+      "Washer/dryer",
+      "Laundry",
+      "24-hour security",
+      "Pet-friendly",
+      "Air conditioning",
+      "Limited housekeeping"
+    ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "on request",
+    "priceCurrencyNative": "SGD",
+    "priceNotes": "on request — official page offers discounted long-stay rates; no from-price published",
     "bookingUrl": null,
     "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/village-residence-hougang",
     "virtualTourUrl": null,
@@ -1357,7 +1423,7 @@
     "operatorGroup": "Far East Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.fareasthospitality.com/en/serviced-residences/village-residence-hougang"
     ]
   },
   {
@@ -1366,22 +1432,42 @@
     "name": "Village Residence Robertson Quay",
     "brand": "Village Residence",
     "category": "Serviced Apartment",
-    "tagline": "Village Residence Robertson Quay",
-    "description": "Village Residence Robertson Quay is a serviced apartment in Robertson Quay, Singapore, operated under Far East Hospitality. Official fareasthospitality.com property page returned HTTP 403 (WAF/JS challenge) on 2026-08-16; second headered fetch also 403. No facts invented.",
+    "tagline": "71 pet-friendly riverside apartments from studios to 3-bedrooms at Robertson Quay.",
+    "description": "Village Residence Robertson Quay is at 30 Robertson Quay on the Singapore River. The official page lists 71 pet-friendly apartments from studios to 3-bedroom layouts for short weekly stays and extended periods. Published sizes: Studio 667–872 sq ft (max 2 adults); Two-Bedroom 915–1,130 sq ft (max 4 adults); Three-Bedroom 1,012 sq ft (max 6 adults). All studios and some two-bedrooms are walk-up. Apartments have a kitchenette and washer/dryer. Official amenities include gym, swimming and wading pools, children’s playground, edible garden, BBQ facilities, complimentary parking (1 lot), 24-hour front desk, complimentary Wi-Fi, and pet-friendly stays (SGD 30/day or SGD 500/month). A major redevelopment next door runs 1 June 2025 to end 2028 (construction noise). Check-in 3:00 PM, check-out 12:00 PM. Long-stay rates on request; no from-price published.",
     "neighborhood": "Robertson Quay",
-    "address": null,
-    "latitude": null,
-    "longitude": null,
+    "address": "30 Robertson Quay, Singapore 238251",
+    "latitude": 1.2913015,
+    "longitude": 103.8413925,
     "heroImageUrl": null,
     "imageUrls": [],
     "imageFiles": [],
-    "unitTypes": [],
-    "amenities": [],
+    "unitTypes": [
+      "Studio",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Kitchenette",
+      "Gym",
+      "Swimming pool",
+      "Wading pool",
+      "Children’s playground",
+      "Edible garden",
+      "BBQ facilities",
+      "Complimentary parking (1 lot)",
+      "24-hour front desk",
+      "Complimentary Wi-Fi",
+      "Washer/dryer",
+      "Laundry service",
+      "Pet-friendly",
+      "24-hour security",
+      "Air conditioning"
+    ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "on request",
+    "priceCurrencyNative": "SGD",
+    "priceNotes": "on request — official page offers discounted long-stay rates; no from-price published",
     "bookingUrl": null,
     "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/village-residence-robertson-quay",
     "virtualTourUrl": null,
@@ -1390,7 +1476,7 @@
     "operatorGroup": "Far East Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.fareasthospitality.com/en/serviced-residences/village-residence-robertson-quay"
     ]
   },
   {
@@ -1399,12 +1485,12 @@
     "name": "Adina Serviced Apartments Singapore Orchard",
     "brand": "Adina",
     "category": "Aparthotel",
-    "tagline": "Adina Serviced Apartments Singapore Orchard",
-    "description": "Adina Serviced Apartments Singapore Orchard is a aparthotel in Orchard, Singapore, operated under Far East Hospitality. Official fareasthospitality.com property page returned HTTP 403 (WAF/JS challenge) on 2026-08-16; second headered fetch also 403. No facts invented.",
+    "tagline": "Studios to 3-bedroom apartments on Penang Road, a 5-minute walk from Orchard Road.",
+    "description": "Adina Serviced Apartments Singapore Orchard is at 121 Penang Road. The official Far East Hospitality page lists stylish studios to 3-bedroom apartments for weekly short stays and extended stays, with Australian-branded service. Published sizes: Studio 388–538 sq ft (max 2 adults); Two-Bedroom 635–1,066 sq ft; Three-Bedroom 1,098–1,227 sq ft (max 6 adults). Apartments have a kitchenette; washer/dryer in selected units. Official amenities include rooftop swimming pool, gym, jacuzzi, sauna, steam room, kids pool, BBQ facilities, complimentary parking (1 lot), 24-hour front desk and concierge, complimentary weekday continental breakfast in the Breakfast Lounge, complimentary Wi-Fi, and pet-friendly stays (SGD 30/day or SGD 500/month). Orchard Road, Somerset and Dhoby Ghaut MRT are about a 5-minute walk. Check-in 3:00 PM, check-out 12:00 PM. Long-stay rates on request; no from-price published.",
     "neighborhood": "Orchard",
-    "address": null,
-    "latitude": null,
-    "longitude": null,
+    "address": "121 Penang Road, Singapore 238464",
+    "latitude": 1.2994528,
+    "longitude": 103.8420925,
     "heroImageUrl": "https://apimedia.tfehotels.com/media-green/optimized/c7/36/c7360992-3564-48be-8070-9ecbb21e0e03/adina-singapore-orchard-lobby-night-hr-1500w.jpg",
     "imageUrls": [
       "https://apimedia.tfehotels.com/media-green/optimized/c7/36/c7360992-3564-48be-8070-9ecbb21e0e03/adina-singapore-orchard-lobby-night-hr-1500w.jpg",
@@ -1420,13 +1506,35 @@
       "/listings/adina-serviced-apartments-singapore-orchard/04.webp",
       "/listings/adina-serviced-apartments-singapore-orchard/05.webp"
     ],
-    "unitTypes": [],
-    "amenities": [],
+    "unitTypes": [
+      "Studio",
+      "2-Bed",
+      "3-Bed"
+    ],
+    "amenities": [
+      "Kitchenette",
+      "Rooftop swimming pool",
+      "Gym",
+      "Jacuzzi",
+      "Sauna",
+      "Steam room",
+      "Kids pool",
+      "BBQ facilities",
+      "Complimentary parking (1 lot)",
+      "24-hour front desk",
+      "Concierge",
+      "Weekday continental breakfast",
+      "Complimentary Wi-Fi",
+      "Washer/dryer in selected units",
+      "Housekeeping",
+      "Pet-friendly",
+      "Air conditioning"
+    ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "on request",
+    "priceCurrencyNative": "SGD",
+    "priceNotes": "on request — official page offers discounted long-stay rates; no from-price published",
     "bookingUrl": null,
     "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/adina-serviced-apartments-singapore-orchard",
     "virtualTourUrl": null,
@@ -1435,7 +1543,7 @@
     "operatorGroup": "Far East Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.fareasthospitality.com/en/serviced-residences/adina-serviced-apartments-singapore-orchard"
     ]
   },
   {
@@ -1444,22 +1552,47 @@
     "name": "Orchard Parksuites",
     "brand": "Far East Collection",
     "category": "Residence",
-    "tagline": "Orchard Parksuites",
-    "description": "Orchard Parksuites is a residence in Orchard, Singapore, operated under Far East Hospitality. Official fareasthospitality.com property page returned HTTP 403 (WAF/JS challenge) on 2026-08-16; second headered fetch also 403. No facts invented.",
+    "tagline": "223 loft-to-penthouse apartments on Orchard Turn, with direct access to Orchard MRT.",
+    "description": "Orchard Parksuites is at 11 Orchard Turn, with Orchard MRT and ION Orchard / Wisma Atria / Ngee Ann City at the doorstep. The official page lists 223 contemporary apartments from one-bedroom lofts to four-bedroom penthouses, pet-friendly, for short weekly, extended or long-term stays. Published sizes: One-Bedroom Loft 635–829 sq ft (max 2 adults); Two-Bedroom Superior 791–983 sq ft (max 4); Two-Bedroom Deluxe 921–1,039 sq ft (max 4); Three-Bedroom 1,233–1,316 sq ft (max 6); Two-Bedroom Penthouse 1,132 sq ft (max 4); Four-Bedroom Penthouse 1,803–2,116 sq ft (max 8). Official amenities include gym, outdoor swimming pool and wading pool, tennis courts, Residence Lounge weekday coffee (7:00 AM–3:00 PM except public holidays), BBQ facilities, steam and sauna rooms, jacuzzi, 24-hour front desk and concierge, complimentary Wi-Fi, complimentary parking (1 lot), self-service launderette, and washer/dryer in selected units. Pet-friendly (SGD 30/day or SGD 500/month). Check-in 3:00 PM, check-out 12:00 PM. Long-stay rates on request; no from-price published.",
     "neighborhood": "Orchard",
-    "address": null,
-    "latitude": null,
-    "longitude": null,
+    "address": "11 Orchard Turn, Singapore 238800",
+    "latitude": 1.3028826,
+    "longitude": 103.8328042,
     "heroImageUrl": null,
     "imageUrls": [],
     "imageFiles": [],
-    "unitTypes": [],
-    "amenities": [],
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed",
+      "3-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "Kitchenette",
+      "Gym",
+      "Outdoor swimming pool",
+      "Wading pool",
+      "Tennis courts",
+      "Residence Lounge",
+      "BBQ facilities",
+      "Sauna",
+      "Steam room",
+      "Jacuzzi",
+      "24-hour front desk",
+      "Concierge",
+      "Complimentary Wi-Fi",
+      "Complimentary parking (1 lot)",
+      "Self-service launderette",
+      "Washer/dryer in selected units",
+      "Housekeeping",
+      "Pet-friendly",
+      "Air conditioning"
+    ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "on request",
+    "priceCurrencyNative": "SGD",
+    "priceNotes": "on request — official page offers discounted long-stay rates and a Stay 6 Pay 4 promo; no standing from-price published",
     "bookingUrl": null,
     "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/orchard-parksuites",
     "virtualTourUrl": null,
@@ -1468,7 +1601,7 @@
     "operatorGroup": "Far East Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.fareasthospitality.com/en/serviced-residences/orchard-parksuites"
     ]
   },
   {
@@ -1477,22 +1610,47 @@
     "name": "Orchard Scotts Residences",
     "brand": "Far East Collection",
     "category": "Residence",
-    "tagline": "Orchard Scotts Residences",
-    "description": "Orchard Scotts Residences is a residence in Newton, Singapore, operated under Far East Hospitality. Official fareasthospitality.com property page returned HTTP 403 (WAF/JS challenge) on 2026-08-16; second headered fetch also 403. No facts invented.",
+    "tagline": "204 loft-to-penthouse residences in 2.5 hectares of gardens; 3-month minimum.",
+    "description": "Orchard Scotts Residences is at 5 Anthony Road in 2.5 hectares of sculpted gardens, a 3-minute walk from Newton MRT. The official page lists 204 contemporary units from one-bedroom apartments and lofts to two-, three- and four-bedroom penthouses, and requires a minimum stay of 3 months. Published sizes: One-Bedroom 538–689 sq ft; One-Bedroom Loft 926–1,119 sq ft; Two-Bedroom Superior 904–1,098 sq ft; Two-Bedroom Deluxe 1,001–1,399 sq ft; Three-Bedroom 1,141–1,679 sq ft; Two-Bedroom Penthouse 3,100 sq ft; Three-Bedroom Penthouse 2,863–3,380 sq ft; Four-Bedroom Penthouse 2,939–3,423 sq ft. Official amenities include four swimming pools, gym, spa, furo bath, sauna, steam room, tennis courts, 2,000 sq ft children’s playground, BBQ cabanas, landscaped garden, wine cellar (The Cellar), The Boardroom, complimentary Wi-Fi, complimentary parking (1 lot), in-room washer/dryer, and pet-friendly stays (SGD 30/day or SGD 500/month). Check-in 3:00 PM, check-out 12:00 PM. Long-stay rates on request; no from-price published.",
     "neighborhood": "Newton",
-    "address": null,
-    "latitude": null,
-    "longitude": null,
+    "address": "5 Anthony Road, Singapore 229954",
+    "latitude": 1.3106954,
+    "longitude": 103.8384817,
     "heroImageUrl": null,
     "imageUrls": [],
     "imageFiles": [],
-    "unitTypes": [],
-    "amenities": [],
-    "minStayNights": null,
+    "unitTypes": [
+      "1-Bed",
+      "2-Bed",
+      "3-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "Kitchenette",
+      "Four swimming pools",
+      "Gym",
+      "Spa",
+      "Furo bath",
+      "Sauna",
+      "Steam room",
+      "Tennis courts",
+      "Children’s playground",
+      "BBQ cabanas",
+      "Landscaped garden",
+      "Wine cellar",
+      "The Boardroom",
+      "Complimentary Wi-Fi",
+      "Complimentary parking (1 lot)",
+      "In-room washer/dryer",
+      "Laundry service",
+      "Pet-friendly",
+      "24-hour security"
+    ],
+    "minStayNights": 90,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "on request",
+    "priceCurrencyNative": "SGD",
+    "priceNotes": "on request — 3-month minimum; official page has no from-price",
     "bookingUrl": null,
     "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/orchard-scotts-residences",
     "virtualTourUrl": null,
@@ -1501,7 +1659,7 @@
     "operatorGroup": "Far East Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.fareasthospitality.com/en/serviced-residences/orchard-scotts-residences"
     ]
   },
   {
@@ -1566,7 +1724,7 @@
     "operatorGroup": "Pan Pacific Hotels Group",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.panpacific.com/en/serviced-suites/pp-ss-beach-road.html"
     ]
   },
   {
@@ -1631,7 +1789,7 @@
     "operatorGroup": "Pan Pacific Hotels Group",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.panpacific.com/en/serviced-suites/pp-ss-orchard.html"
     ]
   },
   {
@@ -1697,7 +1855,7 @@
     "operatorGroup": "Pan Pacific Hotels Group",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.panpacific.com/en/serviced-suites/pr-ss-singapore.html"
     ]
   },
   {
@@ -1763,7 +1921,7 @@
     "operatorGroup": "Park Avenue",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://parkavenuegroup.com/property/singapore-rochester-parkavenue/"
     ]
   },
   {
@@ -1828,7 +1986,7 @@
     "operatorGroup": "Park Avenue",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://parkavenuegroup.com/property/singapore-robertson-parkavenue/"
     ]
   },
   {
@@ -1891,7 +2049,7 @@
     "operatorGroup": "Park Avenue",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://parkavenuegroup.com/property/singapore-clemenceau-parkavenue/"
     ]
   },
   {
@@ -1955,8 +2113,7 @@
     "operatorGroup": "independent",
     "published": true,
     "sources": [
-      "[object Object]",
-      "[object Object]"
+      "https://www.treetops.com.sg/"
     ]
   },
   {
@@ -2032,8 +2189,7 @@
     "operatorGroup": "independent",
     "published": true,
     "sources": [
-      "[object Object]",
-      "[object Object]"
+      "https://legrove.com.sg/"
     ]
   },
   {
@@ -2098,10 +2254,7 @@
     "operatorGroup": "independent",
     "published": true,
     "sources": [
-      "[object Object]",
-      "[object Object]",
-      "[object Object]",
-      "[object Object]"
+      "https://www.alocassia.com.sg/"
     ]
   },
   {
@@ -2170,7 +2323,7 @@
     "operatorGroup": "Lanson Place",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://lansonplace.com/winsland/"
     ]
   },
   {
@@ -2213,10 +2366,10 @@
       "Pet-friendly"
     ],
     "minStayNights": 90,
-    "priceFromMonthlyUsd": 2971,
+    "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": 3800,
     "priceCurrencyNative": "SGD",
-    "priceNotes": "Official monthly from-prices on apartment-types page (Studio from S$3,800; 4-Bed Premier from S$13,500). SGD→USD 0.781866 (open.er-api.com, 2026-08-16).",
+    "priceNotes": "Official apartment-types page: studio from S$3,800/month; 4-Bed Premier from S$13,500/month (16 Aug 2026).",
     "bookingUrl": "https://www.wilbyresidences.com/wilby-bukit-timah-apartment-types",
     "officialUrl": "https://www.wilbyresidences.com/wilby-bukit-timah-apartment-types",
     "virtualTourUrl": null,
@@ -2225,10 +2378,7 @@
     "operatorGroup": "independent",
     "published": true,
     "sources": [
-      "[object Object]",
-      "[object Object]",
-      "[object Object]",
-      "[object Object]"
+      "https://www.wilbyresidences.com/wilby-bukit-timah-apartment-types"
     ]
   },
   {
@@ -2271,10 +2421,10 @@
       "Pet-friendly"
     ],
     "minStayNights": 6,
-    "priceFromMonthlyUsd": 4457,
+    "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": 5700,
     "priceCurrencyNative": "SGD",
-    "priceNotes": "Official from-prices on apartment-types page: S$210–S$610 per night; Studio Deluxe from S$5,700 / 2-Bed from S$9,000 per month. SGD→USD 0.781866 (open.er-api.com, 2026-08-16).",
+    "priceNotes": "Official apartment-types page: S$210–S$610/night; studio deluxe from S$5,700/month; 2-bed from S$9,000/month (16 Aug 2026). Nightly figures are not monthly rates.",
     "bookingUrl": "https://www.wilbyresidences.com/wilby-central-apartment-types",
     "officialUrl": "https://www.wilbyresidences.com/wilby-central-apartment-types",
     "virtualTourUrl": null,
@@ -2283,10 +2433,7 @@
     "operatorGroup": "independent",
     "published": true,
     "sources": [
-      "[object Object]",
-      "[object Object]",
-      "[object Object]",
-      "[object Object]"
+      "https://www.wilbyresidences.com/wilby-central-apartment-types"
     ]
   },
   {
@@ -2340,7 +2487,7 @@
     "operatorGroup": "Shangri-La Group",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.shangri-la.com/singapore/shangrilaapartment/"
     ]
   },
   {
@@ -2402,7 +2549,7 @@
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
     "priceCurrencyNative": "SGD",
-    "priceNotes": "Official JSON-LD priceRange S$350–S$1200 (treated as nightly; monthly would be implausible for this product). SGD→USD 0.781866 (open.er-api.com, 2026-08-16).",
+    "priceNotes": "Official JSON-LD priceRange S$350–S$1,200 (16 Aug 2026), treated as nightly. Not a monthly rate.",
     "bookingUrl": "https://stay.greatworld.com.sg/",
     "officialUrl": "https://stay.greatworld.com.sg/",
     "virtualTourUrl": null,
@@ -2411,10 +2558,7 @@
     "operatorGroup": "independent",
     "published": true,
     "sources": [
-      "[object Object]",
-      "[object Object]",
-      "[object Object]",
-      "[object Object]"
+      "https://stay.greatworld.com.sg/"
     ]
   },
   {
@@ -2423,22 +2567,43 @@
     "name": "Far East Plaza Residences",
     "brand": "Far East Collection",
     "category": "Residence",
-    "tagline": "Far East Plaza Residences",
-    "description": "Far East Plaza Residences is a residence in Orchard, Singapore, operated under Far East Hospitality. Official fareasthospitality.com property page returned HTTP 403 (WAF/JS challenge) on 2026-08-16; second headered fetch also 403. No facts invented.",
+    "tagline": "139 two- and three-bedroom apartments and penthouses above Far East Plaza; 3-month minimum.",
+    "description": "Far East Plaza Residences is at 14 Scotts Road, directly above Far East Plaza Shopping Centre. The official page lists 139 contemporary two- and three-bedroom apartments and penthouses, each with a balcony, and a required minimum stay of 3 months. Pets are not allowed. Published sizes: Two-Bedroom Superior 646 sq ft (max 4 adults); Two-Bedroom Deluxe 1,033–1,130 sq ft (max 4); Three-Bedroom 1,313–1,432 sq ft (max 6); Three-Bedroom Penthouse 2,702 sq ft (max 6); Four-Bedroom Penthouse 2,777–5,500 sq ft (max 8). Apartments have a kitchenette and in-room washer/dryer. Official amenities include gym, swimming and wading pools, sauna, jacuzzi, tennis and squash courts, billiard room, children’s playground, landscaped garden, complimentary Wi-Fi, and paid on-site parking. Check-in 3:00 PM, check-out 12:00 PM. The official apartment cards show an indicative from-rate of SGD 188 per night for selected two-bedroom types (marked indicative only). USD not converted.",
     "neighborhood": "Orchard",
-    "address": null,
-    "latitude": null,
-    "longitude": null,
+    "address": "14 Scotts Road, Singapore 228213",
+    "latitude": 1.3072114,
+    "longitude": 103.8333749,
     "heroImageUrl": null,
     "imageUrls": [],
     "imageFiles": [],
-    "unitTypes": [],
-    "amenities": [],
-    "minStayNights": null,
+    "unitTypes": [
+      "2-Bed",
+      "3-Bed",
+      "Penthouse"
+    ],
+    "amenities": [
+      "Kitchenette",
+      "Gym",
+      "Swimming pool",
+      "Wading pool",
+      "Sauna",
+      "Jacuzzi",
+      "Tennis court",
+      "Squash court",
+      "Billiard room",
+      "Children’s playground",
+      "Landscaped garden",
+      "Complimentary Wi-Fi",
+      "On-site parking (charges apply)",
+      "In-room washer/dryer",
+      "Laundry service",
+      "Limited housekeeping"
+    ],
+    "minStayNights": 90,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "on request",
+    "priceCurrencyNative": "SGD",
+    "priceNotes": "Official page showed indicative from S$188/night for selected 2-bed types (16 Aug 2026). Not a monthly rate.",
     "bookingUrl": null,
     "officialUrl": "https://www.fareasthospitality.com/en/serviced-residences/far-east-plaza-residences",
     "virtualTourUrl": null,
@@ -2447,7 +2612,7 @@
     "operatorGroup": "Far East Hospitality",
     "published": true,
     "sources": [
-      "[object Object]"
+      "https://www.fareasthospitality.com/en/serviced-residences/far-east-plaza-residences"
     ]
   }
 ]

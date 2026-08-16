@@ -566,3 +566,23 @@
     100% { background-position: -200% 0; }
   }
 }
+
+/* Quiet grey property map */
+.saparts-map .leaflet-control-attribution {
+  font-size: 10px;
+  background: rgba(255, 255, 255, 0.72);
+  color: #6b6560;
+}
+.saparts-map-pin {
+  background: transparent;
+  border: 0;
+}
+.saparts-map-pin span {
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  background: #2c2a26;
+  border: 2px solid #f4efe6;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.22);
+}

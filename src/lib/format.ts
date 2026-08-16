@@ -8,7 +8,14 @@ export function unitTypeName(unit: string | UnitType): string {
 export function unitTypeMeta(unit: string | UnitType): string[] {
   if (typeof unit === "string") return [];
   const bits: string[] = [];
-  if (unit.sizeSqm) bits.push(`${unit.sizeSqm} m²`);
+  const sqmMin = Number(unit.sizeSqmMin ?? unit.sizeSqm);
+  const sqmMax = Number(unit.sizeSqmMax ?? unit.sizeSqm);
+  if (sqmMin && sqmMax && sqmMin !== sqmMax) bits.push(`${sqmMin}–${sqmMax} m²`);
+  else if (sqmMin) bits.push(`${sqmMin} m²`);
+  const sqftMin = Number(unit.sizeSqft);
+  const sqftMax = Number(unit.sizeSqftMax);
+  if (sqftMin && sqftMax && sqftMin !== sqftMax) bits.push(`${sqftMin}–${sqftMax} sq ft`);
+  else if (sqftMin) bits.push(`${sqftMin} sq ft`);
   if (unit.maxOccupancy) bits.push(`Sleeps ${unit.maxOccupancy}`);
   if (Array.isArray(unit.beds) && unit.beds.length) bits.push(unit.beds.join(", "));
   else if (typeof unit.beds === "string" && unit.beds) bits.push(unit.beds);
