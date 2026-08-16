@@ -6,7 +6,7 @@
     "brand": "Address",
     "category": "Residence",
     "tagline": "Studio to 4-bedroom serviced residences in the Address Downtown tower, next to Burj Khalifa and Dubai Mall.",
-    "description": "Address Downtown publishes studio, 1, 2, 3 and 4 bedroom serviced residences in the same building as the hotel, ideal for long stays, with hotel services and access to on-site amenities.\n\nOfficial address: Sheikh Mohammed Bin Rashed Boulevard, Downtown Dubai, PO Box 123234, Dubai, UAE. Direct connection to Dubai Mall; steps from Burj Khalifa and Dubai Fountain. Approximately 15–20 minutes from Dubai International Airport.\n\nOn-site amenities stated on the official page: four swimming pools (bubble pool, sun pool, children and family pool, and an adult infinity pool with Burj Khalifa views); Pool & Fitness recreation; The Spa with traditional Hammam, Finnish sauna and steam room, plus The Spa Longevity; Qix Club on Level 7 for ages 4–12; Club Lounge on Level 7 for Club Suites guests; seven restaurants (Cetara, Lounge, Café, The Garden, Cigar Lounge, GAL and KRASOTA Dubai); six meeting rooms. Pets are not accommodated. Check-in 15:00 / check-out 12:00. Room rates vary by stay dates; no standing tariff on the official page.\n\nThe hotel /residences/ path redirects to Address Marassi Golf Resort (Egypt) and was not used.",
+    "description": "Address Downtown publishes studio, 1, 2, 3 and 4 bedroom serviced residences in the same building as the hotel, ideal for long stays, with hotel services and access to on-site amenities.\n\nOfficial address: Sheikh Mohammed Bin Rashed Boulevard, Downtown Dubai, PO Box 123234, Dubai, UAE. Direct connection to Dubai Mall; steps from Burj Khalifa and Dubai Fountain. Approximately 15–20 minutes from Dubai International Airport.\n\nOn-site amenities stated on the official page: four swimming pools (bubble pool, sun pool, children and family pool, and an adult infinity pool with Burj Khalifa views); Pool & Fitness recreation; The Spa with traditional Hammam, Finnish sauna and steam room, plus The Spa Longevity; Qix Club on Level 7 for ages 4–12; Club Lounge on Level 7 for Club Suites guests; seven restaurants (Cetara, Lounge, Café, The Garden, Cigar Lounge, GAL and KRASOTA Dubai); six meeting rooms. Pets are not accommodated. Check-in 15:00 / check-out 12:00. Room rates vary by stay dates; no standing tariff on the official page.\n\nThe hotel /residences/ path redirects to Address Marassi Golf Resort (Egypt) and was not used.\n\nImages not captured: addresshotels.com WAF (gallery skipped; no invented images).",
     "neighborhood": "Downtown Dubai",
     "address": "Sheikh Mohammed Bin Rashed Boulevard, Downtown Dubai, PO Box 123234, Dubai, UAE",
     "latitude": null,
@@ -62,7 +62,8 @@
     "operatorGroup": "Emaar Hospitality",
     "published": true,
     "sources": [
-      "https://www.addresshotels.com/en/hotels/address-downtown/"
+      "https://www.addresshotels.com/en/hotels/address-downtown/",
+      "https://www.addresshotels.com/en/hotels/address-downtown/rooms-and-suites/"
     ]
   },
   {
@@ -146,7 +147,7 @@
     "brand": "Vida",
     "category": "Residence",
     "tagline": "1- to 3-bedroom serviced residences at Vida Emirates Hills.",
-    "description": "Vida Emirates Hills Residences (official residences page) lists serviced apartments: One-Bedroom City View 76 sqm (up to 2 adults + 1 child); One-Bedroom Golf View 100 sqm (up to 2 adults + 1 child); Two-Bedroom City View 144 sqm (up to 3 adults + 2 children); Two-Bedroom Golf View 152 sqm (up to 3 adults + 2 children); Three-Bedroom City View 175 sqm (up to 4 adults + 3 children); Three-Bedroom Golf View 175 sqm (up to 4 adults + 3 children). No street address and no from-price on the residences page. Images not captured: vidahotels.com WAF (gallery 0 of 0).",
+    "description": "Vida Emirates Hills Residences (official residences page) lists serviced apartments: One-Bedroom City View 76 sqm (up to 2 adults + 1 child); One-Bedroom Golf View 100 sqm (up to 2 adults + 1 child); Two-Bedroom City View 144 sqm (up to 3 adults + 2 children); Two-Bedroom Golf View 152 sqm (up to 3 adults + 2 children); Three-Bedroom City View 175 sqm (up to 4 adults + 3 children); Three-Bedroom Golf View 175 sqm (up to 4 adults + 3 children). No from-price on the residences page.\n\nOfficial hotel page address: Vida Emirates Hills, The Hills, Emirates Hills – Dubai. Check-in 15:00 / check-out 12:00. Hotel-page facilities stated: infinity pool overlooking the golf course (07:00–19:00 for hotel guests), fitness centre, co-working spaces. About 23 minutes from Dubai International Airport. Images not captured: vidahotels.com WAF (gallery 0 of 0).",
     "neighborhood": "Emirates Hills",
     "address": "Vida Emirates Hills, The Hills, Emirates Hills, Dubai, UAE",
     "latitude": 25.077274,
@@ -193,7 +194,9 @@
       }
     ],
     "amenities": [
-      "Serviced residences"
+      "Serviced residences",
+      "Pool",
+      "Gym"
     ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
@@ -208,7 +211,8 @@
     "operatorGroup": "Emaar Hospitality",
     "published": true,
     "sources": [
-      "https://www.vidahotels.com/en/hotels/vida-emirates-hills/residences/"
+      "https://www.vidahotels.com/en/hotels/vida-emirates-hills/residences/",
+      "https://www.vidahotels.com/en/hotels/vida-emirates-hills/"
     ]
   },
   {
@@ -218,7 +222,7 @@
     "brand": "Jumeirah Living",
     "category": "Residence",
     "tagline": "104 residential suites on Al Khayay Street, Dubai Marina, with kitchens and a Level 7 infinity pool.",
-    "description": "Official FAQ: 104 residential suites with balconies and full-height glass. Accommodation listed: Executive Studio; Deluxe and Premium One Bedroom Suites; Deluxe and Premium Two Bedroom Suites; Premium Three Bedroom Suite. The Stay a bit Longer campaign (valid until 30 September 2026) publishes monthly rates starting from AED 14,000 and states fully equipped open-plan kitchens, Level 7 fitness centre, infinity pool, steam, sauna and kids play area, plus one parking space on the offer.\n\nAddress on the official contact block: Jumeirah Living Marina Gate, Al Khayay Street, Dubai Marina, Dubai, UAE. JSON-LD geo: 25.086864, 55.147483. Check-in 15:00 / out 12:00. Special rates for 1–12 month stays.",
+    "description": "Official accommodation pages: Executive Studio 57 sqm (up to 2 adults + 1 child, city view); Deluxe One Bedroom Suite 74–91 sqm (up to 2 adults + 2 children or 3 adults); Deluxe and Premium Two Bedroom Suites 132–141 sqm; Premium Three Bedroom Suite 200 sqm (up to 6 adults + 2 children, marina view). Premium One Bedroom Suite is listed on the official Club Executive Package page; no size published on a loaded suite page.\n\nOfficial FAQ: 104 residential suites with balconies and full-height glass. The Stay a bit Longer campaign (valid until 30 September 2026) publishes monthly rates starting from AED 14,000 and states fully equipped open-plan kitchens, Level 7 fitness centre, infinity pool, steam, sauna and kids play area, plus one parking space on the offer.\n\nAddress on the official contact block: Jumeirah Living Marina Gate, Al Khayay Street, Dubai Marina, Dubai, UAE. JSON-LD geo: 25.086864, 55.147483. Check-in 15:00 / out 12:00. Special rates for 1–12 month stays.",
     "neighborhood": "Dubai Marina",
     "address": "Jumeirah Living Marina Gate, Al Khayay Street, Dubai Marina, Dubai, UAE",
     "latitude": 25.086864,
@@ -243,10 +247,43 @@
       "/listings/jumeirah-living-marina-gate-dubai/04.webp"
     ],
     "unitTypes": [
-      "Studio",
-      "1-Bed",
-      "2-Bed",
-      "3-Bed"
+      {
+        "name": "Executive Studio",
+        "beds": "Studio",
+        "sizeSqm": 57,
+        "maxOccupancy": "2 adults + 1 child"
+      },
+      {
+        "name": "Deluxe One Bedroom Suite",
+        "beds": "1-Bed",
+        "sizeSqm": 74,
+        "sizeSqmMax": 91,
+        "maxOccupancy": "2 adults + 2 children, or 3 adults"
+      },
+      {
+        "name": "Premium One Bedroom Suite",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Deluxe Two Bedroom Suite",
+        "beds": "2-Bed",
+        "sizeSqm": 132,
+        "sizeSqmMax": 141,
+        "maxOccupancy": "3 adults + 3 children, or 3 adults"
+      },
+      {
+        "name": "Premium Two Bedroom Suite",
+        "beds": "2-Bed",
+        "sizeSqm": 132,
+        "sizeSqmMax": 141,
+        "maxOccupancy": "4 adults + 4 children, or 6 adults"
+      },
+      {
+        "name": "Premium Three Bedroom Suite",
+        "beds": "3-Bed",
+        "sizeSqm": 200,
+        "maxOccupancy": "6 adults + 2 children"
+      }
     ],
     "amenities": [
       "Kitchen",
@@ -268,7 +305,13 @@
     "operatorGroup": "Jumeirah",
     "published": true,
     "sources": [
-      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-marina-gate"
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-marina-gate",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-marina-gate/accommodation/executive-studio",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-marina-gate/accommodation/deluxe-one-bedroom-suite",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-marina-gate/accommodation/deluxe-two-bedroom-suite",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-marina-gate/accommodation/premium-two-bedroom-suite-with-marina-view-exclusive",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-marina-gate/accommodation/premium-three-bedroom-suite-with-marina-view-exclusive",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-marina-gate/campaigns/stay-a-bit-longer"
     ]
   },
   {
@@ -278,7 +321,7 @@
     "brand": "Jumeirah Living",
     "category": "Residence",
     "tagline": "1–4 bedroom residences and duplexes on 2nd Zabeel Road at Dubai World Trade Centre.",
-    "description": "Official FAQ lists One Bedroom Residence, One Bedroom Duplex, Two Bedroom Residence, Two Bedroom Duplex / Duplex Panoramic, Three Bedroom Residences and Four Bedroom Duplex Panoramic Residences. Contact address: Jumeirah Living World Trade Centre, 2nd Zabeel Road, PO Box 116555, Dubai, UAE. JSON-LD geo: 25.226886, 55.289074. Fitness facilities and Olivine restaurant are stated. Breakfast is served on site. Prices vary by dates. Check-in 15:00 / out 12:00.",
+    "description": "Official accommodation pages: One Bedroom Residence 90 sqm; One Bedroom Duplex Residences 135 sqm; Two Bedroom Residences 132 sqm; Two Bedroom Duplex Residences 229 sqm; Three Bedroom Residences 310 sqm. Official FAQ also lists Four Bedroom Duplex Panoramic Residences (size not published on a loaded page).\n\nContact address: Jumeirah Living World Trade Centre, 2nd Zabeel Road, PO Box 116555, Dubai, UAE. JSON-LD geo: 25.226886, 55.289074. Fitness facilities and Olivine restaurant are stated. Breakfast is served on site. Prices vary by dates. Check-in 15:00 / out 12:00.",
     "neighborhood": "World Trade Centre",
     "address": "Jumeirah Living World Trade Centre, 2nd Zabeel Road, PO Box 116555, Dubai, UAE",
     "latitude": 25.226886,
@@ -301,13 +344,45 @@
       "/listings/jumeirah-living-world-trade-centre-dubai/02.webp"
     ],
     "unitTypes": [
-      "1-Bed",
-      "2-Bed",
-      "3-Bed",
-      "Duplex"
+      {
+        "name": "One Bedroom Residence",
+        "beds": "1-Bed",
+        "sizeSqm": 90,
+        "maxOccupancy": "2 adults + 1 child"
+      },
+      {
+        "name": "One Bedroom Duplex Residences",
+        "beds": "Duplex",
+        "sizeSqm": 135,
+        "maxOccupancy": "2 adults + 1 child"
+      },
+      {
+        "name": "Two Bedroom Residences",
+        "beds": "2-Bed",
+        "sizeSqm": 132,
+        "maxOccupancy": "4 adults + 1 child"
+      },
+      {
+        "name": "Two Bedroom Duplex Residences",
+        "beds": "Duplex",
+        "sizeSqm": 229,
+        "maxOccupancy": "4 adults + 1 child"
+      },
+      {
+        "name": "Three Bedroom Residences",
+        "beds": "3-Bed",
+        "sizeSqm": 310,
+        "maxOccupancy": "6 adults + 2 children"
+      },
+      {
+        "name": "Four Bedroom Duplex Panoramic Residences",
+        "beds": "Duplex"
+      }
     ],
     "amenities": [
-      "Gym"
+      "Gym",
+      "Kitchen",
+      "Pool"
     ],
     "minStayNights": 1,
     "priceFromMonthlyUsd": null,
@@ -322,7 +397,12 @@
     "operatorGroup": "Jumeirah",
     "published": true,
     "sources": [
-      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-world-trade-centre"
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-world-trade-centre",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-world-trade-centre/accommodation/one-bedroom-residence",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-world-trade-centre/accommodation/one-bedroom-duplex-residence",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-world-trade-centre/accommodation/two-bedroom-residence",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-world-trade-centre/accommodation/two-bedroom-duplex-residence",
+      "https://www.jumeirah.com/en/stay/dubai/jumeirah-living-world-trade-centre/accommodation/three-bedroom-residence"
     ]
   },
   {
@@ -331,12 +411,12 @@
     "name": "DAMAC Maison Mall Street",
     "brand": "DAMAC Maison",
     "category": "Serviced Apartment",
-    "tagline": "Kitchen suites opposite Dubai Mall: deluxe, 1-, 2- and 3-bedroom.",
-    "description": "Official rooms list Deluxe Room 38–48 sqm, One Bedroom Suite 77–88 sqm, Two Bedroom Suite 120–135 sqm and Three Bedroom Suite 140 sqm. JSON-LD address: Damac Maison, Dubai Mall Street, Downtown Dubai, UAE. Geo 25.19529, 55.28363. Facilities stated on the page include outdoor and kids pool, gym/fitness studio, sauna and dining at La Maison.",
+    "tagline": "Downtown suites on Dubai Mall Street, opposite Dubai Mall. Deluxe to three-bedroom.",
+    "description": "Set in the heart of Downtown Dubai, DAMAC Maison Mall Street is a short walk from Dubai Mall, with views across the Dubai skyline and the Dubai Fountains. Official rooms and suites (DAMAC Hotels & Resorts rooms page, 16 Aug 2026): Deluxe Room 38–48 sqm, king bed and en-suite; One Bedroom Suite 77–88 sqm, king bed and en-suite; Two Bedroom Suite 120–135 sqm, master king, second bedroom with twins, guest washroom; Three Bedroom Suite 140 sqm. Official contact page: Dubai Mall Street, Downtown Dubai (opposite to Dubai Mall); GPS 25.195252, 55.283775. About 25 minutes from Dubai International Airport and minutes from Burj Khalifa / Dubai Mall Metro. Daily shuttle to The Dubai Mall; chauffeur on request. On-site dining at La Maison (Mediterranean, international). No monthly from-price is published.",
     "neighborhood": "Downtown Dubai",
-    "address": "Damac Maison, Dubai Mall Street, Downtown Dubai, Dubai, UAE",
-    "latitude": 25.19529,
-    "longitude": 55.28363,
+    "address": "Dubai Mall Street, Downtown Dubai (opposite to Dubai Mall), UAE",
+    "latitude": 25.195252,
+    "longitude": 55.283775,
     "heroImageUrl": "https://image-tc.galaxy.tf/wijpeg-d7pe68d3ns922afos4hdrtgut/swimming-pool-02.jpg?width=900",
     "imageUrls": [
       "https://image-tc.galaxy.tf/wijpeg-d7pe68d3ns922afos4hdrtgut/swimming-pool-02.jpg?width=900",
@@ -359,12 +439,6 @@
     ],
     "unitTypes": [
       {
-        "name": "Deluxe Room",
-        "beds": "Studio",
-        "sizeSqm": 38,
-        "sizeSqmMax": 48
-      },
-      {
         "name": "One Bedroom Suite",
         "beds": "1-Bed",
         "sizeSqm": 77,
@@ -383,9 +457,18 @@
       }
     ],
     "amenities": [
-      "Gym",
-      "Pool",
-      "Sauna"
+      "Free Wi-Fi",
+      "Meeting & events facilities",
+      "Restaurants & bars",
+      "Accessible rooms",
+      "Room service",
+      "Outdoor pool",
+      "Kids pool",
+      "Sauna",
+      "Gym / fitness studio",
+      "La Maison",
+      "Daily shuttle to Dubai Mall",
+      "Chauffeur on request"
     ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
@@ -400,7 +483,9 @@
     "operatorGroup": "DAMAC Hotels & Resorts",
     "published": true,
     "sources": [
-      "https://www.damachotelsandresorts.com/damac-maison-dubai-mall-street"
+      "https://www.damachotelsandresorts.com/damac-maison-dubai-mall-street",
+      "https://www.damachotelsandresorts.com/damac-maison-dubai-mall-street/rooms-suites",
+      "https://www.damachotelsandresorts.com/damac-maison-dubai-mall-street/contact-location"
     ]
   },
   {
@@ -409,12 +494,12 @@
     "name": "DAMAC Maison Distinction",
     "brand": "DAMAC Maison",
     "category": "Serviced Apartment",
-    "tagline": "Business Bay Maison with deluxe to 3-bedroom suites facing Downtown.",
-    "description": "Official rooms: Deluxe Room 44 sqm, One Bedroom Suite 57–83 sqm, Two Bedroom Suite 115–132 sqm, Three Bedroom Suite 164–201 sqm. JSON-LD address: School Street, Opposite South Ridge Tower 6, Dubai, UAE. Geo 25.18779, 55.27901. Page facilities include outdoor and kids pool, gym/fitness studio and sauna.",
+    "tagline": "Business Bay suites on School Street with Downtown views. Deluxe to three-bedroom.",
+    "description": "Towering over Business Bay, DAMAC Maison Distinction presents views of Downtown Dubai. Official rooms and suites (DAMAC Hotels & Resorts rooms page, 16 Aug 2026): Deluxe Room 44 sqm; One Bedroom Suite 57–83 sqm (up to 3 adults on the hotel page), king bed and en-suite; Two Bedroom Suite 115–132 sqm, master king, second bedroom with twins, guest washroom; Three Bedroom Suite 164–201 sqm, king, queen and twin beds, two bathrooms plus guest toilet. Official contact page: School Street, Burj Area, Business Bay, Downtown, Dubai; GPS 25.188016, 55.279717. Daily shuttle to The Dubai Mall; chauffeur on request. On-site dining at Blooms AVA (Arabic, European, Asian and American). No monthly from-price is published.",
     "neighborhood": "Business Bay",
-    "address": "School Street, Opposite South Ridge Tower 6, Business Bay, Dubai, UAE",
-    "latitude": 25.18779,
-    "longitude": 55.27901,
+    "address": "School Street, Burj Area, Business Bay, Downtown, Dubai, UAE",
+    "latitude": 25.188016,
+    "longitude": 55.279717,
     "heroImageUrl": "https://image-tc.galaxy.tf/wijpeg-dwxkjaqyewhv9hlftc7uko2ap/the-distinction-swimming-pool.jpg?width=2560",
     "imageUrls": [
       "https://image-tc.galaxy.tf/wijpeg-dwxkjaqyewhv9hlftc7uko2ap/the-distinction-swimming-pool.jpg?width=2560",
@@ -440,11 +525,6 @@
     ],
     "unitTypes": [
       {
-        "name": "Deluxe Room",
-        "beds": "Studio",
-        "sizeSqm": 44
-      },
-      {
         "name": "One Bedroom Suite",
         "beds": "1-Bed",
         "sizeSqm": 57,
@@ -465,9 +545,18 @@
       }
     ],
     "amenities": [
-      "Gym",
-      "Pool",
-      "Sauna"
+      "Free Wi-Fi",
+      "Meeting & events facilities",
+      "Restaurants & bars",
+      "Accessible rooms",
+      "Room service",
+      "Outdoor pool",
+      "Kids pool",
+      "Sauna",
+      "Gym / fitness studio",
+      "Blooms AVA",
+      "Daily shuttle to Dubai Mall",
+      "Chauffeur on request"
     ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
@@ -482,7 +571,9 @@
     "operatorGroup": "DAMAC Hotels & Resorts",
     "published": true,
     "sources": [
-      "https://www.damachotelsandresorts.com/damac-maison-distinction"
+      "https://www.damachotelsandresorts.com/damac-maison-distinction",
+      "https://www.damachotelsandresorts.com/damac-maison-distinction/rooms-suites",
+      "https://www.damachotelsandresorts.com/damac-maison-distinction/contact-location"
     ]
   },
   {
@@ -517,12 +608,6 @@
       "/listings/damac-maison-cour-jardin-dubai/04.webp"
     ],
     "unitTypes": [
-      {
-        "name": "Deluxe Room",
-        "beds": "Studio",
-        "sizeSqm": 35,
-        "sizeSqmMax": 42
-      },
       {
         "name": "One Bedroom Suite",
         "beds": "1-Bed",
@@ -579,12 +664,12 @@
     "name": "DAMAC Maison Canal Views",
     "brand": "DAMAC Maison",
     "category": "Serviced Apartment",
-    "tagline": "Canal-side Maison on Marasi Drive with deluxe to 3-bedroom suites.",
-    "description": "Official rooms: Deluxe Room 35–48 sqm, One Bedroom Suite 63–100 sqm, Two Bedroom Suite 100–136 sqm, Three Bedroom Suite 133–174 sqm. JSON-LD address: Marasi Drive, Dubai. Geo 25.18769, 55.28390. Facilities listed include pool and gym/fitness studio.",
+    "tagline": "Canal-side suites on Marasi Drive, Business Bay. Deluxe to three-bedroom.",
+    "description": "On the Business Bay canal, DAMAC Maison Canal Views looks over the Dubai Water Canal and Downtown Dubai. Official rooms and suites (DAMAC Hotels & Resorts rooms page, 16 Aug 2026): Deluxe Room 35–48 sqm, king bed and en-suite; One Bedroom Suite 63–100 sqm, king bed and en-suite; Two Bedroom Suite 100–136 sqm, master king, second bedroom with twins, guest washroom; Three Bedroom Suite 133–174 sqm, king, queen and twin beds, three bathrooms plus guest toilet. Official contact page GPS 25.187882, 55.284179; JSON-LD street Marasi Drive, Business Bay. About 25 minutes from Dubai International Airport and minutes from Burj Khalifa / Dubai Mall Metro. Daily shuttle to The Dubai Mall (about 5 minutes); chauffeur on request. On-site dining at La Maison (Mediterranean, international). No monthly from-price is published.",
     "neighborhood": "Business Bay",
     "address": "Marasi Drive, Business Bay, Dubai, UAE",
-    "latitude": 25.18769,
-    "longitude": 55.2839,
+    "latitude": 25.187882,
+    "longitude": 55.284179,
     "heroImageUrl": "https://image-tc.galaxy.tf/wijpeg-6qkn6u1qk3xz3ejd35hxsfp9g/one-bedroom-suite_wide.jpg?crop=0%2C104%2C1920%2C1080&width=940",
     "imageUrls": [
       "https://image-tc.galaxy.tf/wijpeg-6qkn6u1qk3xz3ejd35hxsfp9g/one-bedroom-suite_wide.jpg?crop=0%2C104%2C1920%2C1080&width=940",
@@ -606,12 +691,6 @@
     ],
     "unitTypes": [
       {
-        "name": "Deluxe Room",
-        "beds": "Studio",
-        "sizeSqm": 35,
-        "sizeSqmMax": 48
-      },
-      {
         "name": "One Bedroom Suite",
         "beds": "1-Bed",
         "sizeSqm": 63,
@@ -631,9 +710,18 @@
       }
     ],
     "amenities": [
-      "Gym",
-      "Pool",
-      "Sauna"
+      "Free Wi-Fi",
+      "Meeting & events facilities",
+      "Restaurants & bars",
+      "Accessible rooms",
+      "Room service",
+      "Outdoor pool",
+      "Kids pool",
+      "Sauna",
+      "Gym / fitness studio",
+      "La Maison",
+      "Daily shuttle to Dubai Mall",
+      "Chauffeur on request"
     ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
@@ -648,7 +736,9 @@
     "operatorGroup": "DAMAC Hotels & Resorts",
     "published": true,
     "sources": [
-      "https://www.damachotelsandresorts.com/damac-maison-canal-views"
+      "https://www.damachotelsandresorts.com/damac-maison-canal-views",
+      "https://www.damachotelsandresorts.com/damac-maison-canal-views/rooms-suites",
+      "https://www.damachotelsandresorts.com/damac-maison-canal-views/contact-location"
     ]
   },
   {
@@ -658,7 +748,7 @@
     "brand": "Citadines",
     "category": "Aparthotel",
     "tagline": "208 studio and 1-bedroom serviced apartments opposite Dubai Internet City Metro.",
-    "description": "Official JSON-LD: 208 apartments from studios to one-bedroom, each with a fully equipped kitchen and separate living/dining/bedroom areas. Address: Al Khareef 1st Street, Sheikh Zayed Rd, Barsha Heights, PO Box 502400, Dubai, UAE. Geo 25.099331, 55.173313. Amenities stated: rooftop pool, gym (Pure White Health Club), concierge, complimentary secure parking; many apartments have a washer/dryer. Check-in 14:00 / out 12:00 on the property page.",
+    "description": "Official property page: 208 apartments from studios to one-bedroom, each with a fully equipped kitchen and separate living/dining/bedroom areas. Official room cards: Studio Executive 22 sqm (max 2); One Bedroom Deluxe 40 sqm (2 adults + 1 child); One Bedroom Executive 50 sqm; One Bedroom Premier 60 sqm; One Bedroom Club 70 sqm.\n\nAddress: Al Khareef 1st Street, Sheikh Zayed Rd, Barsha Heights, PO Box 502400, Dubai, UAE. Geo 25.099331, 55.173313. Amenities stated: rooftop pool, gym (Pure White Health Club), concierge, complimentary secure parking; many apartments have a washer/dryer. Check-in 14:00 / out 12:00 on the property page.",
     "neighborhood": "Barsha Heights",
     "address": "Al Khareef 1st Street, Sheikh Zayed Rd, Barsha Heights, PO Box 502400, Dubai, UAE",
     "latitude": 25.099331,
@@ -745,7 +835,7 @@
     "brand": "Citadines",
     "category": "Aparthotel",
     "tagline": "Citadines Culture Village Dubai (official property URL returned site chrome only on 2026-08-16).",
-    "description": "The official Discover ASR URL exists but the 2026-08-16 fetch (including a later re-fetch) returned global navigation chrome only — no property body, address, units or gallery. Fields left empty rather than guessed. Status candidate.",
+    "description": "The official Discover ASR URL exists but the 2026-08-16 fetch returned global navigation chrome only — no property body, address, units or gallery. Fields left empty rather than guessed. Status candidate.",
     "neighborhood": "Al Jaddaf",
     "address": null,
     "latitude": null,
@@ -789,7 +879,7 @@
     "brand": "Ascott",
     "category": "Serviced Apartment",
     "tagline": "Ascott Park Place Dubai (official property URL returned site chrome only on 2026-08-16).",
-    "description": "The official Discover ASR URL exists but the 2026-08-16 fetch (including a later re-fetch) returned global navigation chrome only — no property body. Address and units not taken from third-party hints. Status candidate.",
+    "description": "The official Discover ASR URL exists but the 2026-08-16 fetch returned global navigation chrome only — no property body. Address and units not taken from third-party hints. Status candidate.",
     "neighborhood": "Trade Centre",
     "address": null,
     "latitude": null,
@@ -890,7 +980,7 @@
     "brand": "The Luxury Collection",
     "category": "Residence",
     "tagline": "216 Residences (1–3 bedroom) from floor 11 at Grosvenor House, Dubai Marina.",
-    "description": "Official premium-rooms page: 216 Residences on floor 11 and above — one, two and three-bedroom residences — plus Premier Rooms and Suites on floors 5–10. Residences are offered for long-term and short-term stays; suites are described with fully equipped kitchenettes and butler service. Official photos-page JSON-LD street address: Al Emreef Street, PO Box 118500, Dubai, United Arab Emirates.",
+    "description": "Official premium-rooms page: 216 Residences on floor 11 and above — one, two and three-bedroom residences — plus Premier Rooms and Suites on floors 5–10. Residences are offered for long-term and short-term stays; suites are described with fully equipped kitchenettes and butler service. Featured amenities on the same page state 764–4,037 sq ft / 71–375 sqm as a collective residences range (not broken out by bedroom count — per-type sizeSqm not written).\n\nOfficial photos-page JSON-LD street address: Al Emreef Street, PO Box 118500, Dubai, United Arab Emirates.",
     "neighborhood": "Dubai Marina",
     "address": "Al Emreef Street, PO Box 118500, Dubai, United Arab Emirates",
     "latitude": null,
@@ -919,9 +1009,18 @@
       "/listings/grosvenor-house-residences-dubai/08.webp"
     ],
     "unitTypes": [
-      "1-Bed",
-      "2-Bed",
-      "3-Bed"
+      {
+        "name": "One-Bedroom Residence",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two-Bedroom Residence",
+        "beds": "2-Bed"
+      },
+      {
+        "name": "Three-Bedroom Residence",
+        "beds": "3-Bed"
+      }
     ],
     "amenities": [
       "Kitchen",
@@ -1190,8 +1289,8 @@
     "name": "Element Al Mina, Dubai",
     "brand": "Element",
     "category": "Aparthotel",
-    "tagline": "Element Al Mina, Dubai — official Marriott overview was Access Denied from this environment.",
-    "description": "The official Marriott URL for Element Al Mina, Dubai returned Akamai Access Denied on 2026-08-16 (re-fetch confirmed; JSON-LD / property body not available). No address, units, amenities or prices invented. Images: skip Marriott cache (WAF). Status candidate.",
+    "tagline": "Element Al Mina, Dubai — official overview lists a 24-hour gym and an outdoor pool (temporarily closed).",
+    "description": "Official overview page loaded: 24-hour complimentary fitness centre (cardio, strength equipment, hand weights, lockers); outdoor pool listed as temporarily closed (stated hours 07:00–19:00, heated infinity pool, towels provided). Street address, named unit mix and sqm were not in the loaded page body. No prices invented.",
     "neighborhood": "Al Mina",
     "address": null,
     "latitude": null,
@@ -1210,7 +1309,10 @@
       "/listings/element-al-mina-dubai/02.webp"
     ],
     "unitTypes": [],
-    "amenities": [],
+    "amenities": [
+      "Gym",
+      "Pool"
+    ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
@@ -1234,7 +1336,7 @@
     "brand": "Adagio",
     "category": "Aparthotel",
     "tagline": "189 kitchen apartments at Afra Plaza, Al Khaleej Road, Deira.",
-    "description": "Official JSON-LD: Aparthotel Adagio Dubai Gold District / Deira, 189 apartments with fully equipped kitchen, laundry, fitness centre and rooftop pool. Street address: Afra Plaza, Al Khaleej Road 110, Deira, Dubai. Pets not allowed. Car park stated. Room photo codes on the official page include studio, 1-, 2- and 3-bedroom types.\n\nOfficial apartment cards: Studio Deluxe 29 m²; Studio Premium with Balcony 29 m²; One Bedroom City view 50 m²; One Bedroom Creek View 50 m²; Two Bedroom Creek View 74 m². A 3-bedroom type remains listed from earlier official photo codes; no sqm on this page load.",
+    "description": "Official apartments list: Studio Deluxe 29 m²; Studio Premium with Balcony 29 m²; One Bedroom City view 50 m²; One Bedroom Creek View 50 m²; Two Bedroom Creek View 74 m². 189 apartments with fully equipped kitchens, laundry, rooftop fitness centre and pool. Street address: Aparthotel Adagio DGD, Afra Plaza, Al Khaleej Road 110, Deira, Dubai. Pets not allowed. Car park stated. Gold Souk Metro one-minute walk. Check-in 14:00 / out 12:00. No 3-bedroom type on the official apartments list (not invented).",
     "neighborhood": "Deira",
     "address": "Aparthotel Adagio DGD, Afra Plaza, Al Khaleej Road 110, Deira, Dubai, UAE",
     "latitude": 25.276322,
@@ -1267,35 +1369,31 @@
         "name": "Studio Deluxe",
         "beds": "Studio",
         "sizeSqm": 29,
-        "maxOccupancy": "4 adults and children"
+        "maxOccupancy": 4
       },
       {
         "name": "Studio Premium with Balcony",
         "beds": "Studio",
         "sizeSqm": 29,
-        "maxOccupancy": "4 adults and children"
+        "maxOccupancy": 4
       },
       {
         "name": "One Bedroom City view",
         "beds": "1-Bed",
         "sizeSqm": 50,
-        "maxOccupancy": "5 adults and children"
+        "maxOccupancy": 5
       },
       {
         "name": "One Bedroom Creek View",
         "beds": "1-Bed",
         "sizeSqm": 50,
-        "maxOccupancy": "5 adults and children"
+        "maxOccupancy": 5
       },
       {
         "name": "Two Bedroom Creek View",
         "beds": "2-Bed",
         "sizeSqm": 74,
-        "maxOccupancy": "8 adults and children"
-      },
-      {
-        "name": "3-bedroom apartment",
-        "beds": "3-Bed"
+        "maxOccupancy": 8
       }
     ],
     "amenities": [
@@ -1329,7 +1427,7 @@
     "brand": "Adagio Premium",
     "category": "Aparthotel",
     "tagline": "1–4 bedroom apartments off InsuranceMarket Metro, Sheikh Zayed Road.",
-    "description": "Official JSON-LD: one- to four-bedroom apartments, 2-minute walk from InsuranceMarket Metro Station. Address: Off InsuranceMarket Metro, Sheikh Zayed Road, PO Box 450011, Dubai. Amenity features include car park, bar and meeting rooms; pets not allowed. Official photo codes on the page include hotel, swimming-pool and room stills.\n\nOfficial apartment cards: One Bedroom 79 m²; Two Bedroom 148 m²; Three Bedroom 182 m²; Four Bedroom 249 m². 199 apartments. Check-in 15:00 / check-out 11:00. Outdoor swimming pool and fitness centre stated.",
+    "description": "Official apartments list: One Bedroom 79 m²; Two Bedroom 148 m²; Three Bedroom 182 m²; Four Bedroom 249 m². 199 premium apartments with fully equipped kitchens. Address: Off InsuranceMarket Metro, Sheikh Zayed Road, PO Box 450011, Dubai. Amenities: swimming pool, fitness room, dry-cleaning; pets not allowed. Check-in 15:00 / out 11:00. No standing monthly tariff on the official page.",
     "neighborhood": "Al Barsha",
     "address": "Off InsuranceMarket Metro, Sheikh Zayed Road, PO Box 450011, Dubai, UAE",
     "latitude": 25.116034,
@@ -1362,25 +1460,25 @@
         "name": "One Bedroom Apartment",
         "beds": "1-Bed",
         "sizeSqm": 79,
-        "maxOccupancy": "2 adults and children"
+        "maxOccupancy": 2
       },
       {
         "name": "Two Bedroom Apartment",
         "beds": "2-Bed",
         "sizeSqm": 148,
-        "maxOccupancy": "4 adults and children"
+        "maxOccupancy": 4
       },
       {
         "name": "Three Bedroom Apartment",
         "beds": "3-Bed",
         "sizeSqm": 182,
-        "maxOccupancy": "6 adults and children"
+        "maxOccupancy": 6
       },
       {
         "name": "Four Bedroom Apartment",
         "beds": "4-Bed",
         "sizeSqm": 249,
-        "maxOccupancy": "8 adults and children"
+        "maxOccupancy": 8
       }
     ],
     "amenities": [
@@ -1412,7 +1510,7 @@
     "brand": "Adagio Premium",
     "category": "Aparthotel",
     "tagline": "163 studio and 1-bedroom apartments on Palm Jumeirah West Beach.",
-    "description": "Official JSON-LD: 163 bright apartments — chic studios and one-bedroom — on Palm Jumeirah West Beach, Dubai. Amenities stated: gym, pool, kitchen, laundry; pets not allowed; car park. No standing tariff on the official page.\n\nOfficial apartment cards: Studio King / Twin / Deluxe Studio 30 m²; One Bedroom and One Bedroom with Balcony 61 m². Check-in 15:00 / check-out 11:00.",
+    "description": "Official apartments list: Studio Apartment (King / Twin / Deluxe) 30 m²; One Bedroom Apartment (and One Bedroom with Balcony) 61 m². 163 fully serviced apartments with kitchens and laundry. Address: Palm Jumeirah West Beach, Dubai. Amenities: gym, rooftop pool, private beach, kitchen, laundry; pets not allowed; car park. Check-in 15:00 / out 11:00. No standing tariff on the official page.",
     "neighborhood": "Palm Jumeirah",
     "address": "Palm Jumeirah West Beach, Dubai, UAE",
     "latitude": 25.10859,
@@ -1442,34 +1540,16 @@
     ],
     "unitTypes": [
       {
-        "name": "Studio Apartment King Bed",
+        "name": "Studio Apartment",
         "beds": "Studio",
         "sizeSqm": 30,
-        "maxOccupancy": "3 adults and children"
-      },
-      {
-        "name": "Studio Apartment TWIN Bed",
-        "beds": "Studio",
-        "sizeSqm": 30,
-        "maxOccupancy": "3 adults and children"
-      },
-      {
-        "name": "Deluxe Studio Apartment",
-        "beds": "Studio",
-        "sizeSqm": 30,
-        "maxOccupancy": "3 adults and children"
+        "maxOccupancy": 3
       },
       {
         "name": "One Bedroom Apartment",
         "beds": "1-Bed",
         "sizeSqm": 61,
-        "maxOccupancy": "5 adults and children"
-      },
-      {
-        "name": "One Bedroom Apartment with Balcony",
-        "beds": "1-Bed",
-        "sizeSqm": 61,
-        "maxOccupancy": "5 adults and children"
+        "maxOccupancy": 5
       }
     ],
     "amenities": [
@@ -1511,10 +1591,22 @@
     "imageUrls": [],
     "imageFiles": [],
     "unitTypes": [
-      "Studio",
-      "1-Bed",
-      "2-Bed",
-      "3-Bed"
+      {
+        "name": "Studio Suite",
+        "beds": "Studio"
+      },
+      {
+        "name": "One-Bedroom Suite",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two-Bedroom Suite",
+        "beds": "2-Bed"
+      },
+      {
+        "name": "Three-Bedroom Suite",
+        "beds": "3-Bed"
+      }
     ],
     "amenities": [
       "Kitchen",
@@ -1555,9 +1647,18 @@
     "imageUrls": [],
     "imageFiles": [],
     "unitTypes": [
-      "Studio",
-      "1-Bed",
-      "2-Bed"
+      {
+        "name": "Studio Suite",
+        "beds": "Studio"
+      },
+      {
+        "name": "One-Bedroom Suite",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two-Bedroom Suite",
+        "beds": "2-Bed"
+      }
     ],
     "amenities": [
       "Kitchen",
@@ -1598,9 +1699,18 @@
     "imageUrls": [],
     "imageFiles": [],
     "unitTypes": [
-      "Studio",
-      "1-Bed",
-      "2-Bed"
+      {
+        "name": "Studio Suite",
+        "beds": "Studio"
+      },
+      {
+        "name": "One-Bedroom Suite",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two-Bedroom Suite",
+        "beds": "2-Bed"
+      }
     ],
     "amenities": [
       "Kitchen",
@@ -1640,9 +1750,18 @@
     "imageUrls": [],
     "imageFiles": [],
     "unitTypes": [
-      "Studio",
-      "1-Bed",
-      "2-Bed"
+      {
+        "name": "Studio Suite",
+        "beds": "Studio"
+      },
+      {
+        "name": "One-Bedroom Suite",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two-Bedroom Suite",
+        "beds": "2-Bed"
+      }
     ],
     "amenities": [
       "Kitchen",
@@ -1683,9 +1802,22 @@
     "imageUrls": [],
     "imageFiles": [],
     "unitTypes": [
-      "1-Bed",
-      "2-Bed",
-      "3-Bed"
+      {
+        "name": "Junior Suite",
+        "beds": "Studio"
+      },
+      {
+        "name": "One Bedroom Suite",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two Bedroom Suite",
+        "beds": "2-Bed"
+      },
+      {
+        "name": "Three Bedroom Suite",
+        "beds": "3-Bed"
+      }
     ],
     "amenities": [
       "Kitchen",
@@ -1726,12 +1858,34 @@
     "imageUrls": [],
     "imageFiles": [],
     "unitTypes": [
-      "Studio",
-      "1-Bed",
-      "2-Bed",
-      "3-Bed",
-      "Penthouse",
-      "Duplex"
+      {
+        "name": "Studio Suite",
+        "beds": "Studio"
+      },
+      {
+        "name": "One-Bedroom Suite",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two-Bedroom Suite",
+        "beds": "2-Bed"
+      },
+      {
+        "name": "Three-Bedroom Suite",
+        "beds": "3-Bed"
+      },
+      {
+        "name": "Four-Bedroom Suite",
+        "beds": "4-Bed"
+      },
+      {
+        "name": "Penthouse",
+        "beds": "Penthouse"
+      },
+      {
+        "name": "Duplex Apartment",
+        "beds": "Duplex"
+      }
     ],
     "amenities": [
       "Kitchen",
@@ -1762,7 +1916,7 @@
     "brand": "Suha",
     "category": "Serviced Apartment",
     "tagline": "1–4 bedroom hotel apartments in Sadaf 3, Jumeirah Beach Residence.",
-    "description": "Official page lists one-, two-, three- and four-bedroom apartments at Sadaf 3, King Salman Bin Abdulaziz Al Saud St, Marsa Dubai, Jumeirah Beach Residence. Copy positions the building for families, groups and extended stays, with gym, pool and laundry mentioned on the site.",
+    "description": "Official page lists one-, two-, three- and four-bedroom apartments (90 guest rooms) at Sadaf 3, King Salman Bin Abdulaziz Al Saud St, Marsa Dubai, Jumeirah Beach Residence. Copy positions the building for families, groups and extended stays. Services stated: outdoor swimming pool, laundry, airport transfer (extra), free Wi-Fi. No unit sizes on the official page.",
     "neighborhood": "Jumeirah Beach Residence",
     "address": "Sadaf 3, King Salman Bin Abdulaziz Al Saud St, Marsa Dubai, Jumeirah Beach Residence, Dubai, UAE",
     "latitude": 25.080147,
@@ -1784,9 +1938,22 @@
       "/listings/suha-jbr-hotel-apartments-dubai/01.webp"
     ],
     "unitTypes": [
-      "1-Bed",
-      "2-Bed",
-      "3-Bed"
+      {
+        "name": "One Bedroom Apartment",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two Bedroom Apartment",
+        "beds": "2-Bed"
+      },
+      {
+        "name": "Three Bedroom Apartment",
+        "beds": "3-Bed"
+      },
+      {
+        "name": "Four Bedroom Apartment",
+        "beds": "4-Bed"
+      }
     ],
     "amenities": [
       "Gym",
@@ -1816,7 +1983,7 @@
     "brand": "Suha",
     "category": "Serviced Apartment",
     "tagline": "Studio and 1-bedroom creek-view apartments on the Al Jaddaf waterfront.",
-    "description": "Official page lists Premium Studio Creek View and Premium One Bedroom Creek View Apartment. Address on the page: 7 - Al Jaddaf - Jaddaf Waterfront, Dubai, UAE (also written Al Jadaf - Jaddaf Waterfront).",
+    "description": "Official page lists Standard Studio, Standard Studio City View, Premium Studio Creek View, Standard One Bedroom City View Apartment and Premium One Bedroom Creek View Apartment. Address: 7 - Al Jaddaf - Jaddaf Waterfront, Dubai, UAE (also written Al Jadaf - Jaddaf Waterfront). Amenities stated: swimming pool, gym, sauna and steam, laundry. No unit sizes on the official page.",
     "neighborhood": "Al Jaddaf",
     "address": "7 - Al Jaddaf - Jaddaf Waterfront, Dubai, UAE",
     "latitude": null,
@@ -1839,8 +2006,26 @@
       "/listings/suha-creek-hotel-apartments-dubai/02.webp"
     ],
     "unitTypes": [
-      "Studio",
-      "1-Bed"
+      {
+        "name": "Standard Studio",
+        "beds": "Studio"
+      },
+      {
+        "name": "Standard Studio City View",
+        "beds": "Studio"
+      },
+      {
+        "name": "Premium Studio Creek View",
+        "beds": "Studio"
+      },
+      {
+        "name": "Standard One Bedroom City View Apartment",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Premium One Bedroom Creek View Apartment",
+        "beds": "1-Bed"
+      }
     ],
     "amenities": [
       "Gym",
@@ -1870,7 +2055,7 @@
     "brand": "Suha",
     "category": "Serviced Apartment",
     "tagline": "Studio and 1-bedroom apartments at 17 Al Jadaf, Jaddaf Waterfront.",
-    "description": "Official page lists Standard/Premium Studio and Standard/Premium One Bedroom Apartments. Address: 17 - Al Jadaf - Jaddaf Waterfront - Dubai. Near Jaddaf Metro Station.",
+    "description": "Official page lists Standard Studio, Premium Studio, Standard One Bedroom Apartments and Premium One Bedroom Apartments (70 fully furnished rooms). Address: 17 - Al Jadaf - Jaddaf Waterfront - Dubai. Near Jaddaf Metro Station. Amenities: swimming pool, gym, sauna and steam, laundry. No unit sizes on the official page.",
     "neighborhood": "Al Jaddaf",
     "address": "17 - Al Jadaf - Jaddaf Waterfront, Dubai, UAE",
     "latitude": null,
@@ -1893,8 +2078,22 @@
       "/listings/suha-al-jaddaf-dubai/02.webp"
     ],
     "unitTypes": [
-      "Studio",
-      "1-Bed"
+      {
+        "name": "Standard Studio",
+        "beds": "Studio"
+      },
+      {
+        "name": "Premium Studio",
+        "beds": "Studio"
+      },
+      {
+        "name": "Standard One Bedroom Apartment",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Premium One Bedroom Apartment",
+        "beds": "1-Bed"
+      }
     ],
     "amenities": [
       "Gym",
@@ -1924,7 +2123,7 @@
     "brand": "Suha",
     "category": "Serviced Apartment",
     "tagline": "WIDE URL for Suha Mina Rashid now serves the Suha Bur Dubai page.",
-    "description": "The WIDE official URL https://www.suhahospitality.com/SUHA-mina-rashid/our-apartments redirected on 2026-08-16 to https://www.suhahospitality.com/where-to-stay-in-dubai/suha-bur-dubai. That page describes Suha Bur Dubai at 4C St, Al Mankhool, Dubai, with studio and 1–3 bedroom apartments — not a distinct Mina Rashid property page. Kept as a WIDE row; status candidate until a live Mina Rashid official page is confirmed.",
+    "description": "The WIDE official URL https://www.suhahospitality.com/SUHA-mina-rashid/our-apartments redirected on 2026-08-16 to Suha Bur Dubai (https://www.suhahospitality.com/where-to-stay-in-dubai/suha-bur-dubai content). That page lists studio, one-, two- and three-bedroom apartments at 4C St, Al Mankhool, Dubai (136 apartments; pool, gym, laundry). No unit sizes published. Kept under the WIDE Mina Rashid slug; not padded with a second product.",
     "neighborhood": "Mina Rashid",
     "address": "4C St, Al Mankhool, Dubai, UAE",
     "latitude": 25.251801,
@@ -1947,10 +2146,22 @@
       "/listings/suha-mina-rashid-dubai/02.webp"
     ],
     "unitTypes": [
-      "Studio",
-      "1-Bed",
-      "2-Bed",
-      "3-Bed"
+      {
+        "name": "Studio Apartment",
+        "beds": "Studio"
+      },
+      {
+        "name": "One Bedroom Apartment",
+        "beds": "1-Bed"
+      },
+      {
+        "name": "Two Bedroom Apartment",
+        "beds": "2-Bed"
+      },
+      {
+        "name": "Three Bedroom Apartment",
+        "beds": "3-Bed"
+      }
     ],
     "amenities": [
       "Gym",
@@ -1980,7 +2191,7 @@
     "brand": "Suha",
     "category": "Serviced Apartment",
     "tagline": "WIDE URL for Suha Park Luxury Apartments redirected to Suha Al Jaddaf.",
-    "description": "The official URL https://www.suhahospitality.com/SUHA-park-luxury-apartments/our-apartments redirected on 2026-08-16 (re-fetch confirmed) to the Suha Al Jaddaf page. A distinct Park product page was not available. Kept as a WIDE row; fields left empty. Status candidate.",
+    "description": "The WIDE official URL https://www.suhahospitality.com/SUHA-park-luxury-apartments/our-apartments redirected on 2026-08-16 to the Suha Al Jaddaf page. A distinct Park product page was not available. Kept as a WIDE row; status candidate. Fields left empty rather than padded.",
     "neighborhood": "Al Jaddaf",
     "address": null,
     "latitude": null,
@@ -2056,19 +2267,19 @@
       },
       {
         "name": "4-Bedroom Residences (duplex)",
-        "beds": "Duplex",
+        "beds": "4-Bed",
         "sizeSqm": 201.7,
         "maxOccupancy": 8
       },
       {
         "name": "5-Bedroom Residences (duplex)",
-        "beds": "Duplex",
+        "beds": "5-Bed",
         "sizeSqm": 285.9,
         "maxOccupancy": 10
       },
       {
         "name": "6-Bedroom Sky Collection",
-        "beds": "Duplex",
+        "beds": "6-Bed",
         "sizeSqm": 643.9,
         "maxOccupancy": 12
       }
@@ -2101,8 +2312,8 @@
     "name": "Marriott Executive Apartments Jumeirah Lakes Towers, Dubai",
     "brand": "Marriott Executive Apartments",
     "category": "Serviced Apartment",
-    "tagline": "Marriott Executive Apartments Jumeirah Lakes Towers, Dubai — official Marriott overview was Access Denied from this environment.",
-    "description": "The official Marriott URL for Marriott Executive Apartments Jumeirah Lakes Towers, Dubai returned Akamai Access Denied on 2026-08-16 (re-fetch confirmed; JSON-LD / property body not available). No address, units, amenities or prices invented. Images: skip Marriott cache (WAF). Status candidate.",
+    "tagline": "Marriott Executive Apartments in Jumeirah Lakes Towers — kitchens, gym and outdoor pool (official overview).",
+    "description": "Official overview page loaded: sauna & steam (08:30–22:00); gym 06:00–22:00 complimentary for registered guests (cardio and strength equipment, locker rooms, sauna and steam); unsupervised children's play area 10:00–20:00; outdoor heated swimming pool 06:00–22:00 with swim-up bar, plunge pool, lifeguard and towels. Official rooms page: fully equipped kitchens; room sizes described as approximate and not listed by type. Street address, named unit mix and sqm were not in the loaded page bodies. No prices invented.",
     "neighborhood": "Jumeirah Lakes Towers",
     "address": null,
     "latitude": null,
@@ -2122,7 +2333,11 @@
       "/listings/marriott-executive-apartments-jumeirah-lakes-towers-dubai/05.webp"
     ],
     "unitTypes": [],
-    "amenities": [],
+    "amenities": [
+      "Kitchen",
+      "Gym",
+      "Pool"
+    ],
     "minStayNights": null,
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": null,
@@ -2136,7 +2351,8 @@
     "operatorGroup": "Marriott",
     "published": true,
     "sources": [
-      "https://www.marriott.com/en-us/hotels/dxbvj-marriott-executive-apartments-jumeirah-lakes-towers-dubai/overview/"
+      "https://www.marriott.com/en-us/hotels/dxbvj-marriott-executive-apartments-jumeirah-lakes-towers-dubai/overview/",
+      "https://www.marriott.com/en-us/hotels/dxbvj-marriott-executive-apartments-jumeirah-lakes-towers-dubai/rooms/"
     ]
   },
   {
@@ -2146,7 +2362,7 @@
     "brand": "Oaks",
     "category": "Serviced Apartment",
     "tagline": "1- and 2-bedroom apartments in Cluster W, Jumeirah Lakes Towers.",
-    "description": "Official FAQ: Premier one-bedroom, Deluxe one-bedroom and Deluxe two-bedroom apartments. JSON-LD address: Cluster W, Al Sarayat Street, Jumeirah Lakes Towers, Dubai. Geo 25.077222, 55.150416. Page copy mentions balconies and a dedicated kids' pool.\n\nOfficial FAQ lists Premier one-bedroom, Deluxe one-bedroom and Deluxe two-bedroom apartments. Check-in 14:00 / check-out 12:00. Indoor pool and kids' pool 09:00–20:00. Facilities stated: gym, swimming pool, squash court, laundry service, undercover parking. Official Monthly Stay Rate AED 7,500 for 30 nights or more. No unit sqm on the official page.",
+    "description": "Official rooms page: Premier One Bedroom Apartment 97 m² (max 2 adults); Deluxe One Bedroom Apartment 101 m² (max 2 adults); Two Bedroom Family Apartment 167 m² (max 4 adults). Official monthly-stay offer: from AED 7,500 per month for the 1-bedroom apartment, 30 nights or more.\n\nJSON-LD address: Cluster W, Al Sarayat Street, Jumeirah Lakes Towers, Dubai. Geo 25.077222, 55.150416. FAQ also names Premier one-bedroom, Deluxe one-bedroom and Deluxe two-bedroom apartments. Amenities stated: indoor pool, kids' pool, gym, squash court, covered parking. Check-in 14:00 / out 12:00.",
     "neighborhood": "Jumeirah Lakes Towers",
     "address": "Cluster W, Al Sarayat Street, Jumeirah Lakes Towers, Dubai, UAE",
     "latitude": 25.077222,
@@ -2173,16 +2389,22 @@
     ],
     "unitTypes": [
       {
-        "name": "Premier one-bedroom apartment",
-        "beds": "1-Bed"
+        "name": "Premier One Bedroom Apartment",
+        "beds": "1-Bed",
+        "sizeSqm": 97,
+        "maxOccupancy": 2
       },
       {
-        "name": "Deluxe one-bedroom apartment",
-        "beds": "1-Bed"
+        "name": "Deluxe One Bedroom Apartment",
+        "beds": "1-Bed",
+        "sizeSqm": 101,
+        "maxOccupancy": 2
       },
       {
-        "name": "Deluxe two-bedroom apartment",
-        "beds": "2-Bed"
+        "name": "Two Bedroom Family Apartment",
+        "beds": "2-Bed",
+        "sizeSqm": 167,
+        "maxOccupancy": 4
       }
     ],
     "amenities": [
@@ -2196,7 +2418,7 @@
     "priceFromMonthlyUsd": null,
     "priceFromMonthlyNative": 7500,
     "priceCurrencyNative": "AED",
-    "priceNotes": "Official Monthly Stay Rate AED 7,500 for stays of 30 nights or more (oakshotels.com).",
+    "priceNotes": "Official monthly stay rate from AED 7,500 per month for a 1-bedroom apartment (30+ nights), inclusive of taxes, fees, utility, internet and housekeeping; tourism dirham extra for the first 30 nights (AED 10/night 1-bed, AED 20/night 2-bed). Not converted to USD.",
     "bookingUrl": "https://www.oakshotels.com/en/oaks-liwa-heights",
     "officialUrl": "https://www.oakshotels.com/en/oaks-liwa-heights",
     "virtualTourUrl": null,
@@ -2205,7 +2427,9 @@
     "operatorGroup": "Minor/Oaks",
     "published": true,
     "sources": [
-      "https://www.oakshotels.com/en/oaks-liwa-heights"
+      "https://www.oakshotels.com/en/oaks-liwa-heights",
+      "https://www.oakshotels.com/en/oaks-liwa-heights/rooms",
+      "https://www.oakshotels.com/en/oaks-liwa-heights/offers/monthly-hotel-rates-dubai"
     ]
   },
   {
@@ -2215,7 +2439,7 @@
     "brand": "Jannah",
     "category": "Serviced Apartment",
     "tagline": "Studio and two-bedroom serviced apartments on Nasaq Street, Dubai Marina.",
-    "description": "Official page: choose a studio or a two-bedroom apartment, both with fully equipped kitchens and a washing machine. Address: Nasaq Street, Marina Promenade, Dubai Marina, United Arab Emirates. Copy mentions concierge-style hotel apartment service and special rates for 30 nights or more (not a published minimum).\n\nOfficial rooms page: Studio 38–47.22 sqm with fully equipped kitchen and washing machine; Two-Bedroom 70.38–90 sqm, two bedrooms and three bathrooms. Nightly from-prices shown; no monthly tariff written. Extended-stay offer for 30 nights or more publishes no figure.",
+    "description": "Official page: studio 38–47.22 sqm with fully equipped kitchen including refrigerator and washing machine; two-bedroom apartment 70.38–90 sqm with fully equipped kitchen, living room, two bedrooms and three bathrooms. Address: Nasaq Street, Marina Promenade, Dubai Marina, United Arab Emirates. Special rates for 30 nights or more (not a published minimum). Nightly starting figures on the page were not stored as monthly.",
     "neighborhood": "Dubai Marina",
     "address": "Nasaq Street, Marina Promenade, Dubai Marina, United Arab Emirates",
     "latitude": 25.069508,
@@ -2285,7 +2509,7 @@
     "brand": "Golden Sands",
     "category": "Serviced Apartment",
     "tagline": "616 serviced apartments, studio to 3-bedroom, in Al Mankhool, Bur Dubai.",
-    "description": "Official site: pioneering hotel-apartment campus in Al Mankhool, Bur Dubai (buildings covered as one operator campus). 616 serviced apartments, flexible studio to 3-bedroom configurations with kitchens or kitchenettes and private washing machines. Stay menu lists Premier Studio, Deluxe Studio, Executive Suite, Family Suite, Two Bedroom and Three Bedroom. Facilities stated: gym, pool and kids club. JSON-LD geo 25.2515536, 55.2949477. Phone +971-4-355-5555.\n\nOfficial homepage: 616 serviced apartments, studio to 3-bedroom. 2 Bedroom Premier 1,399 sq ft / 130 m² (5 guests); Grand 3 Bedroom Suite 1,729 sq ft (6 guests). Studio and 1-bedroom sizes not on this page load. 130 m² used as published; 1,729 sq ft not converted.",
+    "description": "Official stay page (616 serviced apartments, Al Mankhool campus): Deluxe Studio 400 sq ft / 37 m²; Premier Studio 450 sq ft / 42 m²; Executive Suite 658 sq ft / 61 m²; 1 Bedroom Apartment 700 sq ft / 65 m²; Family Suite 700 sq ft (sqm not published on the stay card); 2 Bedroom Premier Apartment 1,399 sq ft / 130 m²; Grand 3 Bedroom Suite 1,729 sq ft (sqm not published on the stay card — not converted). Facilities stated: gym, pool, kids club, restaurant, covered parking. JSON-LD geo 25.2515536, 55.2949477. Phone +971-4-355-5555.",
     "neighborhood": "Bur Dubai",
     "address": "Al Mankhool, Bur Dubai, Dubai, UAE",
     "latitude": 25.2515536,
@@ -2310,12 +2534,38 @@
     ],
     "unitTypes": [
       {
-        "name": "Studio",
-        "beds": "Studio"
+        "name": "Deluxe Studio",
+        "beds": "Studio",
+        "sizeSqm": 37,
+        "sizeSqft": 400,
+        "maxOccupancy": 2
       },
       {
-        "name": "1-bedroom apartment",
-        "beds": "1-Bed"
+        "name": "Premier Studio",
+        "beds": "Studio",
+        "sizeSqm": 42,
+        "sizeSqft": 450,
+        "maxOccupancy": 3
+      },
+      {
+        "name": "Executive Suite",
+        "beds": "Studio",
+        "sizeSqm": 61,
+        "sizeSqft": 658,
+        "maxOccupancy": 2
+      },
+      {
+        "name": "1 Bedroom Apartment",
+        "beds": "1-Bed",
+        "sizeSqm": 65,
+        "sizeSqft": 700,
+        "maxOccupancy": 4
+      },
+      {
+        "name": "Family Suite",
+        "beds": "1-Bed",
+        "sizeSqft": 700,
+        "maxOccupancy": 4
       },
       {
         "name": "2 Bedroom Premier Apartment",
@@ -2350,7 +2600,9 @@
     "operatorGroup": "Golden Sands",
     "published": true,
     "sources": [
-      "https://goldensandsdubai.com/"
+      "https://goldensandsdubai.com/",
+      "https://goldensandsdubai.com/stay",
+      "https://goldensandsdubai.com/stay/1-bedroom-apartment"
     ]
   },
   {
@@ -2360,7 +2612,7 @@
     "brand": "Oaks",
     "category": "Serviced Apartment",
     "tagline": "Apartment product at Oaks Ibn Battuta Gate, opposite Ibn Battuta Mall.",
-    "description": "Official apartments page (not the hotel-rooms path). JSON-LD address: Garden Cross Road, Opposite Ibn Battuta Mall, Dubai (close to Interchange 6, Sheikh Zayed Road). Geo 25.041800, 55.115500. Amenity features include rooftop pool and fitness centre. Apartment photography on the page includes one- and two-bedroom layouts.",
+    "description": "Official apartments page (not the hotel-rooms path): One bedroom apartment 60 m²; Two bedroom apartment king or twin 95 m²; Deluxe two bedroom apartment 122 m². JSON-LD address: Garden Cross Road, Opposite Ibn Battuta Mall, Dubai (close to Interchange 6, Sheikh Zayed Road). Geo 25.041800. Each apartment: fully equipped kitchen, dining area, washing machine, en-suite bathrooms.",
     "neighborhood": "Ibn Battuta",
     "address": "Garden Cross Road, Opposite Ibn Battuta Mall, Dubai, UAE",
     "latitude": 25.0418,
@@ -2386,19 +2638,19 @@
     ],
     "unitTypes": [
       {
-        "name": "One bedroom apartment",
+        "name": "One Bedroom Apartment",
         "beds": "1-Bed",
         "sizeSqm": 60,
         "maxOccupancy": "2 adults + 1 child or 3 adults"
       },
       {
-        "name": "Two bedroom apartment king or twin",
+        "name": "Two Bedroom Apartment",
         "beds": "2-Bed",
         "sizeSqm": 95,
         "maxOccupancy": "4 adults + 2 children or 5 adults"
       },
       {
-        "name": "Deluxe two bedroom apartment",
+        "name": "Deluxe Two Bedroom Apartment",
         "beds": "2-Bed",
         "sizeSqm": 122,
         "maxOccupancy": "4 adults + 2 children or 5 adults"
@@ -2433,7 +2685,7 @@
     "brand": "Savoy",
     "category": "Aparthotel",
     "tagline": "Classic studio and superior two-bedroom hotel apartments in Bur Dubai.",
-    "description": "Official page lists Classic Studio and Superior Two Bedroom. Address: Community 317, Street no. 12A, Bur Dubai, P.O. Box 28950, Dubai. JSON-LD/map coordinates on the page: 25.253752, 55.297557. Amenities mentioned: gym, pool, kitchen, parking, concierge.\n\nOfficial accommodation cards: Classic Studio 450 sq ft; Superior Two Bedroom 800 sq ft. 100 studios and 12 two-bedroom suites. No sqm published; sqft not converted.",
+    "description": "Official page: 100 Classic Studios (450 sq ft) and 12 Superior Two Bedroom suites (800 sq ft), each with fully equipped kitchenettes. Address: Community 317, Street no. 12A, Bur Dubai, P.O. Box 28950, Dubai. JSON-LD/map coordinates: 25.253752, 55.297557. Amenities: rooftop heated pool, Jacuzzi, sauna, steam, 24-hour gym, parking, concierge. Sqm not published — not converted from sqft.",
     "neighborhood": "Bur Dubai",
     "address": "Community 317, Street no. 12A, Bur Dubai, P.O. Box 28950, Dubai, UAE",
     "latitude": 25.253752,
@@ -2502,7 +2754,7 @@
     "brand": "Savoy",
     "category": "Serviced Apartment",
     "tagline": "Studio, 1- and 2-bedroom hotel apartments on Al Mankhool 10b Street.",
-    "description": "Official page lists Studio Suite, Classic One Bedroom and Two Bedroom Interconnecting. Address: Al Mankhool 10b Street, Bur Dubai, P.O. Box 28950, Dubai. Amenities mentioned: gym, pool, kitchen, parking, concierge.\n\nOfficial accommodation cards: Studio Suite 400 sq ft; Classic One Bedroom 700 sq ft; Two Bedroom Interconnecting 1,100 sq ft. 112 apartments. No sqm published; sqft not converted.",
+    "description": "Official page: 112 apartments — Studio Suite 400 sq ft; Classic One Bedroom 700 sq ft; Two Bedroom Interconnecting 1,100 sq ft. Address: Al Mankhool 10b Street, Bur Dubai, P.O. Box 28950, Dubai. Amenities: outdoor pool, sauna, steam, Jacuzzi, 24-hour gym, kitchen, parking, concierge. Sqm not published — not converted.",
     "neighborhood": "Bur Dubai",
     "address": "Al Mankhool 10b Street, Bur Dubai, P.O. Box 28950, Dubai, UAE",
     "latitude": 25.252336,
@@ -2575,7 +2827,7 @@
     "brand": "Savoy",
     "category": "Aparthotel",
     "tagline": "Studio hotel apartments on Al Rolla Road, Bur Dubai.",
-    "description": "Official page lists Executive Studio, Family Studio and Interconnecting Studio. Address: Al Rolla Road, Bur Dubai, P.O. Box 28950, Dubai. Map coordinates on the page: 25.257270, 55.289223. Amenities mentioned: gym, pool, kitchen, parking, concierge.\n\nOfficial accommodation cards: Executive Studio 450 sq ft; Family Studio 475 sq ft; Interconnecting Studio 850 sq ft. 154 studio apartments. No sqm published; sqft not converted.",
+    "description": "Official page: 154 studio apartments — Executive Studio 450 sq ft; Family Studio 475 sq ft; Interconnecting Studio 850 sq ft; each with kitchenette, refrigerator, microwave and washing machine. Address: Al Rolla Road, Bur Dubai, P.O. Box 28950, Dubai. Map coordinates: 25.257270, 55.289223. Amenities: rooftop pool, gym, sauna/steam, parking, concierge. Sqm not published — not converted.",
     "neighborhood": "Bur Dubai",
     "address": "Al Rolla Road, Bur Dubai, P.O. Box 28950, Dubai, UAE",
     "latitude": 25.25727,
@@ -2646,7 +2898,7 @@
     "brand": "Savoy",
     "category": "Aparthotel",
     "tagline": "Studio hotel apartments at 317 Community, 10 B Street, Al Mankhool.",
-    "description": "Official page offers Studio Apartments and Interconnecting Studio. Address: 317 Community, 10 B Street, Al Mankhool, P.O. Box 28950, Dubai. Amenities mentioned: gym, pool, parking, concierge.\n\nOfficial accommodation cards: Studio 425 sq ft; Interconnecting Studio 840 sq ft. 126 studio rooms. No sqm published; sqft not converted.",
+    "description": "Official page: 126 studio rooms — Studio 425 sq ft; Interconnecting Studio 840 sq ft. Address: 317 Community, 10 B Street, Al Mankhool, P.O. Box 28950, Dubai. Amenities: outdoor pool, Jacuzzi, sauna, gym, parking, concierge. Sqm not published — not converted.",
     "neighborhood": "Bur Dubai",
     "address": "317 Community, 10 B Street, Al Mankhool, P.O. Box 28950, Dubai, UAE",
     "latitude": null,

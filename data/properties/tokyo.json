@@ -3166,37 +3166,31 @@
     "unitTypes": [
       {
         "name": "Garden Tower Suite",
-        "beds": "Suite",
         "maxOccupancy": 4,
         "sizeSqm": 74.7
       },
       {
         "name": "Garden Tower Count Suite / Queen Suite",
-        "beds": "Suite",
         "maxOccupancy": 2,
         "sizeSqm": 88.4
       },
       {
         "name": "Garden Tower Count Suite (Garden-side)",
-        "beds": "Suite",
         "maxOccupancy": 2,
         "sizeSqm": 88.4
       },
       {
         "name": "Shin-Edo Deluxe",
-        "beds": "Deluxe",
         "maxOccupancy": 2,
         "sizeSqm": 55.0
       },
       {
         "name": "Shin-Edo Deluxe (Garden-side)",
-        "beds": "Deluxe",
         "maxOccupancy": 2,
         "sizeSqm": 55.0
       },
       {
         "name": "Shin-Edo Suite",
-        "beds": "Suite",
         "maxOccupancy": 2,
         "sizeSqm": 77.0
       }
@@ -3323,7 +3317,9 @@
     "bookingUrl": "https://www.moriliving.com/en/contact/sa/",
     "officialUrl": "https://www.moriliving.com/en/sa/azabudai_b/",
     "virtualTourUrl": null,
-    "videoUrls": [],
+    "videoUrls": [
+      "https://www.youtube.com/watch?v=UXWlejKnVm4"
+    ],
     "layoutUrls": [
       "https://www.moriliving.com/assets/images/pc/sa/azabudai_b/roomplan/fvl.webp",
       "https://www.moriliving.com/assets/images/common/sa/azabudai_b/roomplan/image01l.webp",
@@ -3339,7 +3335,8 @@
       "https://www.moriliving.com/en/sa/azabudai_b/roomplan/",
       "https://www.moriliving.com/en/sa/azabudai_b/services_amenities/",
       "https://www.moriliving.com/en/sa/azabudai_b/general_info/",
-      "https://www.moriliving.com/en/contact/sa/"
+      "https://www.moriliving.com/en/contact/sa/",
+      "https://www.youtube.com/watch?v=UXWlejKnVm4"
     ]
   },
   {
@@ -3349,7 +3346,7 @@
     "brand": "Mori Living",
     "category": "Serviced Apartment",
     "tagline": "Toranomon Hills Residential Tower — furnished apartments from 1 month",
-    "description": "Toranomon Hills Residential Tower Serviced Apartments are furnished Mori Living serviced apartments that can be rented for 1 month or longer. Official address: 1-1-1 Atago, Minato-ku, Tokyo 105-0002, Japan. Official floor plans (https://www.moriliving.com/en/sa/toranomon_rt/roomplan/ 2026-08-16): Studio 34–37㎡ ¥580,000–¥620,000; 1-Bedroom 56–61㎡ ¥960,000–¥1,020,000; 2-Bedroom 112㎡ ¥1,800,000. Minimum 1 month.",
+    "description": "Toranomon Hills Residential Tower Serviced Apartments are furnished Mori Living serviced apartments that can be rented for 1 month or longer. Official address: 1-1-1 Atago, Minato-ku, Tokyo 105-0002, Japan. Official floor plans (https://www.moriliving.com/en/sa/toranomon_rt/roomplan/ 2026-08-16): Studio 34–37㎡ ¥580,000–¥620,000; 1-Bedroom 56–61㎡ ¥960,000–¥1,020,000; 2-Bedroom 112㎡ ¥1,800,000. Minimum 1 month. Official Matterport tours are published on the roomplan page.",
     "neighborhood": "Toranomon",
     "address": "1-1-1 Atago, Minato-ku, Tokyo 105-0002, Japan",
     "latitude": 35.666026,
@@ -3424,7 +3421,7 @@
     "priceNotes": "Official monthly: Studio ¥580,000–¥620,000; 1-Bedroom ¥960,000–¥1,020,000; 2-Bedroom ¥1,800,000. Minimum 1 month.",
     "bookingUrl": "https://www.moriliving.com/en/contact/sa/",
     "officialUrl": "https://www.moriliving.com/en/sa/toranomon_rt/",
-    "virtualTourUrl": null,
+    "virtualTourUrl": "https://my.matterport.com/show/?m=TiiYAq4yaWB",
     "videoUrls": [],
     "layoutUrls": [
       "https://www.moriliving.com/assets/images/pc/sa/toranomon_rt/roomplan/fvl.webp",
@@ -3441,7 +3438,10 @@
       "https://www.moriliving.com/en/sa/toranomon_rt/roomplan/",
       "https://www.moriliving.com/en/sa/toranomon_rt/services_amenities/",
       "https://www.moriliving.com/en/sa/toranomon_rt/general_info/",
-      "https://www.moriliving.com/en/contact/sa/"
+      "https://www.moriliving.com/en/contact/sa/",
+      "https://my.matterport.com/show/?m=TiiYAq4yaWB",
+      "https://my.matterport.com/show/?m=XKbb2Z36NTQ",
+      "https://my.matterport.com/show/?m=uKcFkaVn88y"
     ]
   },
   {
