@@ -8,6 +8,18 @@ import { collectionMatch } from "./collections";
 import { PAGE_SIZE } from "./constants";
 export { PAGE_SIZE } from "./constants";
 
+const AGGREGATOR = /blueground|sonder|\bkasa\b|native places|\bnuma\b/i;
+
+export function isAggregatorListing(p: Listing): boolean {
+  const blob = [p.brand, p.operatorGroup, p.officialUrl, p.name].filter(Boolean).join(" ");
+  return AGGREGATOR.test(blob);
+}
+
+function operatorFirst(list: Listing[]): Listing[] {
+  return [...list].sort((a, b) => Number(isAggregatorListing(a)) - Number(isAggregatorListing(b)));
+}
+
+
 const DATA_DIR = join(process.cwd(), "data");
 
 let cachedLocalImages: Record<string, string[]> | null = null;
@@ -49,7 +61,7 @@ export function getCity(slug: string): City | undefined {
 export function getPropertiesForCity(citySlug: string): Listing[] {
   noStore();
   const rows = readJson<Listing[]>(join(DATA_DIR, "properties", `${citySlug}.json`), []);
-  return rows.filter((p) => p?.slug && p.published !== false).map(withLocalImages);
+  return operatorFirst(rows.filter((p) => p?.slug && p.published !== false).map(withLocalImages));
 }
 
 export function getAllProperties(): Listing[] {
@@ -201,7 +213,7 @@ export function featuredPhotographed(limit = 6): Listing[] {
   return getAllProperties()
     .map((p) => ({ p, n: galleryUrls(p).length }))
     .filter((x) => x.n > 0)
-    .sort((a, b) => b.n - a.n || a.p.name.localeCompare(b.p.name))
+    .sort((a, b) => Number(isAggregatorListing(a.p)) - Number(isAggregatorListing(b.p)) || b.n - a.n || a.p.name.localeCompare(b.p.name))
     .slice(0, limit)
     .map((x) => x.p);
 }
@@ -215,6 +227,6 @@ export function listingsWithScores(): Listing[] {
 export function relatedInCity(listing: Listing, limit = 3): Listing[] {
   return getPropertiesForCity(listing.citySlug)
     .filter((p) => p.slug !== listing.slug)
-    .sort((a, b) => galleryUrls(b).length - galleryUrls(a).length)
+    .sort((a, b) => Number(isAggregatorListing(a)) - Number(isAggregatorListing(b)) || galleryUrls(b).length - galleryUrls(a).length)
     .slice(0, limit);
 }
