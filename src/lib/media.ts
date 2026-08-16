@@ -1,11 +1,51 @@
+export function isPromoOrGenericUrl(url: string): boolean {
+  const u = url.toLowerCase();
+  return (
+    u.includes("homepage-banner") ||
+    u.includes("navigation-menu") ||
+    u.includes("metatags-social") ||
+    u.includes("metatags") ||
+    /\/og[-_]?image/i.test(url) ||
+    u.includes("ogimage") ||
+    u.includes("og-image")
+  );
+}
+
+export function isBlockedHost(url: string): boolean {
+  try {
+    const host = new URL(url).hostname.toLowerCase();
+    return host === "nativeplaces.com" || host.endsWith(".nativeplaces.com");
+  } catch {
+    return url.toLowerCase().includes("nativeplaces.com");
+  }
+}
+
+export function isUsablePhotoUrl(url?: string | null): url is string {
+  if (!url || !String(url).trim()) return false;
+  const trimmed = url.trim();
+  if (!/^https?:\/\//i.test(trimmed)) return false;
+  if (isBlockedHost(trimmed)) return false;
+  if (isPromoOrGenericUrl(trimmed)) return false;
+  return true;
+}
+
 export function galleryUrls(input: {
   heroImageUrl?: string | null;
   imageUrls?: string[] | null;
 }): string[] {
   const urls = [input.heroImageUrl, ...(input.imageUrls ?? [])]
     .filter((u): u is string => Boolean(u && String(u).trim()))
-    .map((u) => u.trim());
+    .map((u) => u.trim())
+    .filter(isUsablePhotoUrl);
   return [...new Set(urls)];
+}
+
+export function cardImageUrl(input: {
+  heroImageUrl?: string | null;
+  imageUrls?: string[] | null;
+}): string | null {
+  const urls = galleryUrls(input);
+  return urls[0] ?? null;
 }
 
 export function isMatterportUrl(url?: string | null): boolean {

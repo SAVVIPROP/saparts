@@ -54,6 +54,9 @@ export type Listing = {
   operatorGroup?: string | null;
   published?: boolean;
   sources?: string[];
+  ratingScore?: number | null;
+  ratingSource?: string | null;
+  bestForTags?: string[];
 };
 
 export type SearchFilters = {
@@ -61,4 +64,9 @@ export type SearchFilters = {
   city?: string;
   neighborhood?: string;
   brand?: string;
+  category?: string;
+  unitType?: string;
+  bestFor?: string;
+  collection?: string;
+  page?: number;
 };

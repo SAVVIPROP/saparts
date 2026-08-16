@@ -3,15 +3,16 @@ export function Wordmark({
   suffix = true,
   size = "md",
 }: {
-  variant?: "default" | "light";
+  variant?: "default" | "light" | "dark";
   suffix?: boolean;
   size?: "sm" | "md" | "lg";
 }) {
-  const color = variant === "light" ? "text-ivory" : "text-charcoal";
+  const color =
+    variant === "light" ? "text-ivory" : variant === "dark" ? "text-charcoal-deep" : "text-charcoal";
   const markBg = variant === "light" ? "var(--ivory)" : "var(--forest)";
   const markFg = variant === "light" ? "var(--charcoal)" : "var(--ivory)";
   const sizeClass =
-    size === "sm" ? "text-[1.1rem]" : size === "lg" ? "text-[1.85rem]" : "text-[1.4rem] lg:text-[1.55rem]";
+    size === "sm" ? "text-[1.1rem]" : size === "lg" ? "text-[1.85rem] lg:text-[2.1rem]" : "text-[1.4rem] lg:text-[1.55rem]";
   const markSize = size === "sm" ? 16 : size === "lg" ? 24 : 20;
 
   return (
@@ -34,7 +35,7 @@ export function Wordmark({
           <path d="M6 1 V11 M1 6 H11" />
         </svg>
       </span>
-      <span className={`leading-none tracking-[-0.01em] ${sizeClass}`} style={{ fontFamily: "var(--font-serif)" }}>
+      <span className={`leading-none tracking-[-0.01em] ${sizeClass}`} style={{ fontFamily: "var(--font-serif)", fontWeight: 400 }}>
         SAparts
       </span>
       {suffix && (

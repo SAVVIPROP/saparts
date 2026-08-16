@@ -30,7 +30,7 @@ export default function CorporatePage() {
           </div>
         </div>
       </section>
-      <section className="hairline-bottom">
+      <section id="mobility" className="hairline-bottom">
         <div className="container py-0 grid md:grid-cols-3">
           {[
             ["Policy-safe sourcing", "Every residence is reviewed against licensing, safety, and serviced-apartment credentials before it enters the register."],
@@ -45,7 +45,7 @@ export default function CorporatePage() {
           ))}
         </div>
       </section>
-      <section>
+      <section id="rfi">
         <div className="container py-14 lg:py-20 grid lg:grid-cols-12 gap-10">
           <div className="lg:col-span-4">
             <span className="section-mark">Briefing</span>

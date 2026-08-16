@@ -1,87 +1,65 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Breadcrumb } from "@/components/Breadcrumb";
-import { getCities, getPropertiesForCity } from "@/lib/data";
-import { regionOrder } from "@/lib/format";
+import { getCities, cityListingCounts, citiesWithRates, directoryStats } from "@/lib/data";
+import { formatUSD } from "@/lib/format";
+import { CitiesClient } from "./CitiesClient";
 
 export const metadata: Metadata = {
-  title: "Cities",
-  description: "Launch cities in the SAparts Atlas — an independent index of serviced apartments.",
+  title: "The Atlas",
+  description: "Browse launch and forthcoming cities in the SAparts Atlas.",
 };
 
 export default function CitiesPage() {
-  const cities = [...getCities()].sort((a, b) => {
-    const launch = Number(Boolean(b.launch)) - Number(Boolean(a.launch));
-    if (launch) return launch;
-    const region = regionOrder(a.region) - regionOrder(b.region);
-    if (region) return region;
-    return a.name.localeCompare(b.name);
-  });
-  const launch = cities.filter((c) => c.launch);
-  const later = cities.filter((c) => !c.launch);
-
+  const cities = getCities();
+  const counts = cityListingCounts();
+  const rates = Object.fromEntries(citiesWithRates().map((c) => [c.slug, c.avgMonthlyRateUsd]));
+  const stats = directoryStats();
+  const rows = cities.map((c) => ({
+    slug: c.slug,
+    name: c.name,
+    country: c.country,
+    region: c.region,
+    launch: c.launch !== false,
+    count: counts[c.slug] || 0,
+    avgMonthlyRateUsd: rates[c.slug] ?? null,
+  }));
   return (
     <div>
-      <Breadcrumb items={[{ label: "Cities" }]} />
       <section className="hairline-bottom">
-        <div className="container py-14 lg:py-20 grid lg:grid-cols-12 gap-10 items-end">
+        <div className="container py-10 sm:py-14 lg:py-20 grid lg:grid-cols-12 gap-8 lg:gap-10 items-end">
           <div className="lg:col-span-8">
-            <span className="section-mark">§ 01</span>
-            <h1 className="display text-[3rem] sm:text-[4.5rem] mt-5">
-              The Atlas, <em>by city.</em>
+            <div className="flex items-center gap-3 mb-6">
+              <span className="section-mark">§ 01</span>
+              <span className="eyebrow">The Atlas · Volume I · {cities.length} markets</span>
+            </div>
+            <h1 className="display text-[2.2rem] sm:text-[3rem] md:text-[4rem] lg:text-[5rem]">
+              {cities.length} cities, <em>quietly</em> indexed for the long stay.
             </h1>
-            <p className="mt-6 font-serif text-[1.1rem] text-muted-foreground max-w-2xl leading-relaxed">
-              Seven launch markets open the register. Forthcoming cities are listed as stubs until a listing pack is
-              imported. Counts reflect imported inventory only.
+            <p className="mt-7 text-[1.05rem] text-muted-foreground max-w-2xl leading-[1.7] font-serif">
+              A working atlas for extended stays — from the financial quarters of London and New York to the residential enclaves of Tokyo, Singapore and Dubai. Forthcoming markets keep a designed empty state until a listing pack is filed.
             </p>
           </div>
-          <div className="lg:col-span-4 paper p-6">
-            <div className="stat-label">Launch markets</div>
-            <div className="stat-value mt-1">{launch.length}</div>
-            <div className="tracker-muted mt-3">{later.length} forthcoming stubs</div>
-          </div>
-        </div>
-      </section>
-      <section className="hairline-bottom">
-        <div className="container py-12 lg:py-16">
-          <div className="tracker-muted mb-6">Launch cities</div>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            {launch.map((city) => {
-              const count = getPropertiesForCity(city.slug).length;
-              return (
-                <Link key={city.slug} href={`/cities/${city.slug}`} className="paper p-6 hover:border-charcoal">
-                  <div className="tracker-muted">
-                    {city.region} · {city.currency}
-                  </div>
-                  <h2 className="display text-[2rem] mt-3">{city.name}</h2>
-                  <p className="mt-3 text-sm text-muted-foreground leading-relaxed">{city.tagline}</p>
-                  <div className="tracker mt-5">{count} {count === 1 ? "residence" : "residences"} filed</div>
-                </Link>
-              );
-            })}
-          </div>
-        </div>
-      </section>
-      {later.length > 0 && (
-        <section>
-          <div className="container py-12 lg:py-16">
-            <div className="tracker-muted mb-6">Forthcoming stubs</div>
-            <div className="hairline-top">
-              {later.map((city) => (
-                <Link
-                  key={city.slug}
-                  href={`/cities/${city.slug}`}
-                  className="grid grid-cols-12 gap-3 py-4 hairline-bottom items-baseline hover:bg-ivory-warm/60"
-                >
-                  <div className="col-span-4 sm:col-span-3 font-serif text-xl">{city.name}</div>
-                  <div className="col-span-5 sm:col-span-5 tracker-muted">{city.country}</div>
-                  <div className="col-span-3 tracker-muted text-right">{city.region}</div>
-                </Link>
-              ))}
+          <div className="lg:col-span-4 paper p-5 sm:p-6 lg:p-7 grid grid-cols-2 gap-x-4 gap-y-5">
+            <div>
+              <div className="stat-label">Markets indexed</div>
+              <div className="stat-value mt-1">{cities.length}</div>
+            </div>
+            <div>
+              <div className="stat-label">Residences</div>
+              <div className="stat-value mt-1">{stats.properties}</div>
+            </div>
+            <div>
+              <div className="stat-label">Launch cities</div>
+              <div className="stat-value mt-1">{stats.launchCities}</div>
+            </div>
+            <div>
+              <div className="stat-label">Forthcoming</div>
+              <div className="stat-value mt-1">{stats.forthcomingCities}</div>
             </div>
           </div>
-        </section>
-      )}
+        </div>
+      </section>
+      <CitiesClient rows={rows} />
     </div>
   );
 }

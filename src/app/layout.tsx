@@ -26,12 +26,12 @@ const ibm = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "SAparts — World's Leading Directory of Serviced Apartments",
+    default: "SAparts — The World's Leading Independent Serviced Apartment Directory",
     template: "%s — SAparts",
   },
   description:
     "An independent, source-backed index of serviced apartments and aparthotels. Listings are reviewed for factual content, location, and property imagery.",
-  metadataBase: new URL("https://saparts.com"),
+  metadataBase: new URL("https://saparts.vercel.app"),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

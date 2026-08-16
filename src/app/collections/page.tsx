@@ -1,66 +1,24 @@
 import type { Metadata } from "next";
-import { Breadcrumb } from "@/components/Breadcrumb";
+import Link from "next/link";
+import { COLLECTIONS } from "@/lib/collections";
+import { listingsForCollection } from "@/lib/data";
+import { ArrowRight } from "@/components/icons";
 
 export const metadata: Metadata = {
   title: "Collections",
   description: "Editorial collections of serviced apartments — executives, families, luxury, remote work, and extended stay.",
 };
 
-const COLLECTIONS = [
-  {
-    symbol: "01",
-    title: "Best for Executives",
-    subtitle: "Premium serviced apartments for senior professionals and C-suite travellers.",
-    description:
-      "Curated for executives who require a seamless transition between home and office. Properties selected for workspace quality, concierge-level service, proximity to business districts, and discretion.",
-    tags: ["Dedicated workspace", "Concierge", "Business district", "Premium finish"],
-  },
-  {
-    symbol: "02",
-    title: "Best for Families",
-    subtitle: "Spacious serviced apartments designed for families on extended stays.",
-    description:
-      "Multi-bedroom apartments with fully equipped kitchens, laundry, and child-friendly amenities. Selected for proximity to international schools, parks, and family services.",
-    tags: ["2+ bedrooms", "Full kitchen", "Laundry", "Near schools"],
-  },
-  {
-    symbol: "03",
-    title: "Luxury Residences",
-    subtitle: "The world's finest serviced apartments and branded residences.",
-    description:
-      "Five-star serviced apartments and branded residences where hotel-grade service meets the privacy of a private home.",
-    tags: ["Designer interiors", "Spa & wellness", "Personalised service"],
-  },
-  {
-    symbol: "04",
-    title: "Remote Work Ready",
-    subtitle: "Serviced apartments built for digital nomads and remote professionals.",
-    description:
-      "Properties verified for high-speed connectivity, ergonomic workspaces, and the quiet that focused work demands.",
-    tags: ["Fibre broadband", "Ergonomic desk", "Quiet environment"],
-  },
-  {
-    symbol: "05",
-    title: "Extended Stay",
-    subtitle: "Serviced apartments optimised for stays of three months or longer.",
-    description:
-      "Properties offering monthly programmes and the domestic infrastructure — kitchens, laundry, storage — that make long-term living comfortable.",
-    tags: ["Full kitchen", "Laundry in-unit", "Flexible terms"],
-  },
-  {
-    symbol: "06",
-    title: "Corporate Relocation",
-    subtitle: "Serviced apartments for corporate mobility and international assignments.",
-    description:
-      "Selected for experience with corporate clients — invoice billing, HR liaison, and the flexibility international assignments require.",
-    tags: ["Invoice billing", "HR liaison", "Assignment terms"],
-  },
-];
-
 export default function CollectionsPage() {
   return (
     <div>
-      <Breadcrumb items={[{ label: "Collections" }]} />
+      <section className="hairline-bottom">
+        <div className="container py-3 flex items-center gap-2 tracker-muted">
+          <Link href="/" className="hover:text-forest">SAparts</Link>
+          <span>/</span>
+          <span>Collections</span>
+        </div>
+      </section>
       <section className="hairline-bottom">
         <div className="container py-14 lg:py-20">
           <span className="section-mark">§ 03</span>
@@ -68,32 +26,41 @@ export default function CollectionsPage() {
             Collections, <em>not catalogues.</em>
           </h1>
           <p className="mt-6 font-serif text-[1.1rem] text-muted-foreground max-w-2xl leading-relaxed">
-            Editorial shortlists. Membership is assigned only after a listing pack is imported and reviewed — these
-            pages do not invent inventory counts.
+            Editorial shortlists. Membership is inferred from amenities and unit types already on file — we do not invent counts, and an empty collection is an honest answer.
           </p>
         </div>
       </section>
       <section>
         <div className="container py-12 lg:py-16 space-y-6">
-          {COLLECTIONS.map((c) => (
-            <article key={c.symbol} className="paper p-6 sm:p-8 grid lg:grid-cols-12 gap-6">
-              <div className="lg:col-span-3">
-                <div className="section-mark">{c.symbol}</div>
-                <h2 className="display text-[2rem] mt-4">{c.title}</h2>
-                <p className="mt-2 text-sm text-muted-foreground">{c.subtitle}</p>
-              </div>
-              <div className="lg:col-span-9">
-                <p className="leading-relaxed text-muted-foreground">{c.description}</p>
-                <div className="mt-4 flex flex-wrap gap-2">
-                  {c.tags.map((tag) => (
-                    <span key={tag} className="tracker-muted border border-border px-2 py-1">
-                      {tag}
-                    </span>
-                  ))}
+          {COLLECTIONS.map((c, i) => {
+            const n = listingsForCollection(c.slug).length;
+            return (
+              <Link key={c.slug} href={`/collections/${c.slug}`} className="paper p-6 sm:p-8 grid lg:grid-cols-12 gap-6 group block">
+                <div className="lg:col-span-3">
+                  <div className="section-mark">{String(i + 1).padStart(2, "0")} · {c.symbol}</div>
+                  <h2 className="display text-[2rem] mt-4 group-hover:text-forest">{c.title}</h2>
+                  <p className="mt-2 text-sm text-muted-foreground">{c.subtitle}</p>
                 </div>
-              </div>
-            </article>
-          ))}
+                <div className="lg:col-span-7">
+                  <p className="leading-relaxed text-muted-foreground">{c.description}</p>
+                  <div className="mt-4 flex flex-wrap gap-2">
+                    {c.tags.map((tag) => (
+                      <span key={tag} className="tracker-muted border border-border px-2 py-1">{tag}</span>
+                    ))}
+                  </div>
+                </div>
+                <div className="lg:col-span-2 flex flex-col justify-between items-start lg:items-end">
+                  <div>
+                    <div className="stat-value">{n}</div>
+                    <div className="tracker-muted mt-1">on file</div>
+                  </div>
+                  <span className="tracker text-forest mt-4 inline-flex items-center gap-1">
+                    Open <ArrowRight className="w-3 h-3" />
+                  </span>
+                </div>
+              </Link>
+            );
+          })}
         </div>
       </section>
     </div>
