@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777489601215,
+      "tag": "0000_superb_dragon_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777489878033,
+      "tag": "0001_swift_the_call",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1777704417303,
+      "tag": "0002_loose_emma_frost",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1786465410693,
+      "tag": "0003_bright_harpoon",
+      "breakpoints": true
+    }
+  ]
+}

@@ -181,42 +181,6 @@
     ]
   },
   {
-    "slug": "aka-united-nations",
-    "citySlug": "new-york",
-    "name": "AKA United Nations",
-    "brand": "AKA",
-    "category": "Serviced Apartment",
-    "tagline": null,
-    "description": "The official URL https://www.stayaka.com/aka-united-nations redirects to the AKA homepage. The current New York locations list is Hotel AKA NoMad, AKA Central Park, AKA Times Square and AKA Sutton Place only. A leftover /aka-united-nations-business page still describes monthly one-bedroom suites at 234 East 46th Street but is not in the booking selector.",
-    "neighborhood": "Midtown East",
-    "address": "234 E 46th St, New York, NY 10017",
-    "latitude": "40.752589",
-    "longitude": "-73.971382",
-    "heroImageUrl": null,
-    "imageUrls": [],
-    "imageFiles": [],
-    "unitTypes": [],
-    "amenities": [],
-    "minStayNights": null,
-    "priceFromMonthlyUsd": null,
-    "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "Blocked: official property URL redirects to homepage; not on AKA’s current NYC location list.",
-    "bookingUrl": null,
-    "officialUrl": "https://www.stayaka.com/aka-united-nations",
-    "virtualTourUrl": null,
-    "videoUrls": [],
-    "layoutUrls": [],
-    "operatorGroup": "AKA",
-    "published": true,
-    "sources": [
-      "[object Object]",
-      "[object Object]",
-      "[object Object]",
-      "[object Object]"
-    ]
-  },
-  {
     "slug": "mint-house-70-pine-by-kasa",
     "citySlug": "new-york",
     "name": "Mint House 70 Pine by Kasa",
@@ -511,46 +475,6 @@
       "[object Object]",
       "[object Object]",
       "[object Object]",
-      "[object Object]"
-    ]
-  },
-  {
-    "slug": "sonder-battery-park",
-    "citySlug": "new-york",
-    "name": "The FIDI Hotel (Sonder Battery Park)",
-    "brand": "Sonder",
-    "category": "Serviced Apartment",
-    "tagline": "1 Bedroom Rental 【 The FIDI Hotel 】 New York, New York, US is the #1 Hotel in New York, United States",
-    "description": "1 Bedroom Rental 【 The FIDI Hotel 】 New York, New York, US is the #1 Hotel in New York, United States",
-    "neighborhood": "Financial District",
-    "address": "2 Washington Street, New York, NY 10004",
-    "latitude": "40.704145",
-    "longitude": "-74.012248",
-    "heroImageUrl": null,
-    "imageUrls": [],
-    "imageFiles": [],
-    "unitTypes": [
-      "1-Bed"
-    ],
-    "amenities": [
-      "Fitness Center",
-      "Breakfast",
-      "Wi-Fi",
-      "Concierge"
-    ],
-    "minStayNights": null,
-    "priceFromMonthlyUsd": null,
-    "priceFromMonthlyNative": null,
-    "priceCurrencyNative": null,
-    "priceNotes": "Blocked: official URL redirects to The FIDI Hotel (Stone Street), not Sonder Battery Park at 2 Washington Street. Not a live SA listing for this building. SAparts Global: do not add.",
-    "bookingUrl": "https://www.sonder.com/destinations/new_york_city/sonder-at-battery-park-peaceful-studio/c31053",
-    "officialUrl": "https://www.sonder.com/destinations/new_york_city/sonder-at-battery-park-peaceful-studio/c31053",
-    "virtualTourUrl": null,
-    "videoUrls": [],
-    "layoutUrls": [],
-    "operatorGroup": "Sonder",
-    "published": true,
-    "sources": [
       "[object Object]"
     ]
   },

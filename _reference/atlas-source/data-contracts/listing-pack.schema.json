@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SAparts Listing Pack",
+  "type": "object",
+  "required": [
+    "city",
+    "name",
+    "officialWebsite"
+  ],
+  "properties": {
+    "city": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "officialWebsite": {
+      "type": "string",
+      "format": "uri"
+    },
+    "operator": {
+      "type": "string"
+    },
+    "district": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "amenities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "roomTypes": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "imageUrls": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "sourceUrls": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    }
+  }
+}
