@@ -199,7 +199,7 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
             <div className="tracker-muted mb-3">Amenities</div>
             <div className="hairline-bottom mb-5" />
             <div className="grid grid-cols-2 gap-y-3 gap-x-4">
-              {amenities.slice(0, 16).map((a) => (
+              {amenities.map((a) => (
                 <div key={a} className="flex items-center gap-2 text-sm">
                   <Check className="w-3.5 h-3.5 text-forest shrink-0" />
                   <span>{titleCaseTag(a)}</span>
