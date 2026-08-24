@@ -23,7 +23,7 @@ export function SafeImage({
     <img
       src={src}
       alt={alt}
-      className={className}
+      className={`max-w-full object-cover ${className ?? ""}`}
       loading={loading}
       onError={() => setFailed(true)}
     />

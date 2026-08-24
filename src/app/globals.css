@@ -151,13 +151,31 @@
     overflow-x: hidden;
     max-width: 100%;
   }
+  main, .container {
+    max-width: 100%;
+    min-width: 0;
+  }
+  .grid > * {
+    min-width: 0;
+  }
+  input, select, textarea {
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
   body {
     @apply bg-background text-foreground antialiased;
     font-family: var(--font-sans);
     font-feature-settings: "ss01", "cv11", "cv02";
     letter-spacing: -0.005em;
   }
-  img, video, canvas, svg { max-width: 100%; height: auto; }
+  img, video, canvas, svg { max-width: 100%; }
+  .field {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
   h1, h2, h3, .font-serif, .editorial, .editorial-display {
     font-family: var(--font-serif);
     letter-spacing: -0.01em;

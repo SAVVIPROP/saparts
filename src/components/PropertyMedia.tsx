@@ -29,9 +29,9 @@ export function PropertyMedia({ listing }: { listing: Listing }) {
             <div className="section-mark">Moving image</div>
             <div className="grid md:grid-cols-2 gap-6">
               {videos.map((video) => (
-                <div key={video.url} className="paper overflow-hidden aspect-video bg-charcoal">
+                <div key={video.url} className="paper overflow-hidden aspect-video bg-charcoal min-w-0 max-w-full">
                   {video.kind === "file" ? (
-                    <video src={video.src} controls className="w-full h-full" preload="metadata" />
+                    <video src={video.src} controls className="w-full h-full max-w-full object-cover" preload="metadata" />
                   ) : (
                     <iframe
                       src={video.src}
