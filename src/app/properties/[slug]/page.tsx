@@ -61,18 +61,18 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
     <div className="pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className="hairline-bottom">
-        <div className="container py-3 flex items-center gap-2 tracker-muted overflow-x-auto no-scrollbar whitespace-nowrap">
-          <Link href="/" className="hover:text-forest">SAparts</Link>
-          <span>/</span>
-          <Link href="/cities" className="hover:text-forest">Atlas</Link>
+        <div className="container py-3 flex items-center gap-2 tracker-muted min-w-0">
+          <Link href="/" className="hover:text-forest shrink-0">SAparts</Link>
+          <span className="shrink-0">/</span>
+          <Link href="/cities" className="hover:text-forest shrink-0">Atlas</Link>
           {city && (
             <>
-              <span>/</span>
-              <Link href={`/cities/${city.slug}`} className="hover:text-forest">{city.name}</Link>
+              <span className="shrink-0">/</span>
+              <Link href={`/cities/${city.slug}`} className="hover:text-forest shrink-0">{city.name}</Link>
             </>
           )}
-          <span>/</span>
-          <span className="text-foreground">{listing.name}</span>
+          <span className="shrink-0">/</span>
+          <span className="text-foreground truncate min-w-0">{listing.name}</span>
         </div>
       </div>
 
@@ -81,12 +81,12 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
       </section>
 
       <section className="container mt-8 sm:mt-10 lg:mt-12 grid lg:grid-cols-12 gap-8 lg:gap-12 items-start">
-        <div className="lg:col-span-7">
-          <div className="tracker-muted flex items-center gap-3 mb-3">
+        <div className="lg:col-span-7 min-w-0">
+          <div className="tracker-muted flex flex-wrap items-center gap-x-3 gap-y-1 mb-3 min-w-0">
             <span>§ 01</span>
             <span>·</span>
-            <span>{listing.category ?? "Serviced Apartment"}</span>
-            {city && <><span>·</span><span>{city.name}</span></>}
+            <span className="break-words">{listing.category ?? "Serviced Apartment"}</span>
+            {city && <><span>·</span><span className="break-words">{city.name}</span></>}
           </div>
           <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl leading-[1.05] break-words">{listing.name}</h1>
           {listing.brand && <div className="mt-2 tracker-muted">by {listing.brand}</div>}
@@ -177,16 +177,16 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
           <div>
             <div className="tracker-muted mb-3">Residence types</div>
             <div className="hairline-bottom mb-5" />
-            <div className="grid grid-cols-2 gap-3">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               {unitTypes.length > 0 ? (
                 listing.unitTypes!.map((u, i) => (
-                  <div key={`${unitTypeName(u)}-${i}`} className="border border-border p-3 sm:p-4">
-                    <div className="flex items-center gap-3">
-                      <Bed className="w-4 h-4 text-forest shrink-0" />
-                      <span className="font-serif text-base sm:text-lg">{unitTypeName(u)}</span>
+                  <div key={`${unitTypeName(u)}-${i}`} className="border border-border p-3 sm:p-4 min-w-0">
+                    <div className="flex items-start gap-3 min-w-0">
+                      <Bed className="w-4 h-4 text-forest shrink-0 mt-0.5" />
+                      <span className="font-serif text-base sm:text-lg break-words min-w-0">{unitTypeName(u)}</span>
                     </div>
                     {unitTypeMeta(u).length > 0 && (
-                      <div className="tracker-muted mt-2">{unitTypeMeta(u).join(" · ")}</div>
+                      <div className="tracker-muted mt-2 break-words">{unitTypeMeta(u).join(" · ")}</div>
                     )}
                   </div>
                 ))
@@ -202,7 +202,7 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
               {amenities.slice(0, 16).map((a) => (
                 <div key={a} className="flex items-center gap-2 text-sm">
                   <Check className="w-3.5 h-3.5 text-forest shrink-0" />
-                  <span>{titleCaseTag(a)}</span>
+                  <span className="break-words min-w-0">{titleCaseTag(a)}</span>
                 </div>
               ))}
               {amenities.length === 0 && <div className="text-muted-foreground text-sm italic col-span-2">On enquiry</div>}

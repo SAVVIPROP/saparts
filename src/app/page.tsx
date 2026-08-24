@@ -309,7 +309,7 @@ export default function HomePage() {
                 <Link key={p.slug} href={`/properties/${p.slug}`} className="block group">
                   <div className="grid grid-cols-12 gap-3 py-4 border-t border-border items-baseline">
                     <div className="col-span-1 row-rank">{String(i + 1).padStart(2, "0")}</div>
-                    <div className="col-span-7 font-serif text-[1.2rem] group-hover:text-forest">{p.name}</div>
+                    <div className="col-span-7 min-w-0 font-serif text-[1.2rem] group-hover:text-forest break-words">{p.name}</div>
                     <div className="col-span-2 tracker">{getCity(p.citySlug)?.name}</div>
                     <div className="col-span-2 text-right font-mono">{Number(p.ratingScore).toFixed(1)}</div>
                   </div>

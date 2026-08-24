@@ -23,13 +23,13 @@ export function PropertyCard({
     score && Number(score) >= 9.0 ? "T·I" : score && Number(score) >= 8.5 ? "T·II" : score ? "T·III" : null;
 
   return (
-    <Link href={`/properties/${listing.slug}`} className="group block">
+    <Link href={`/properties/${listing.slug}`} className="group block min-w-0 max-w-full">
       <div className="relative aspect-[3/2] sm:aspect-[4/5] overflow-hidden bg-ivory-warm border border-border">
         {image ? (
           <SafeImage
             src={image}
             alt={listing.name}
-            className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.04]"
+            className="absolute inset-0 h-full w-full object-cover object-center transition-transform duration-700 group-hover:scale-[1.04]"
             loading="lazy"
           />
         ) : (
@@ -61,25 +61,25 @@ export function PropertyCard({
           </div>
         </div>
       </div>
-      <div className="pt-3">
-        <div className="flex items-baseline justify-between gap-3">
-          <div className="tracker text-muted-foreground">{listing.neighborhood ?? city?.name ?? "—"}</div>
+      <div className="pt-3 min-w-0">
+        <div className="flex items-baseline justify-between gap-3 min-w-0">
+          <div className="tracker text-muted-foreground min-w-0 break-words">{listing.neighborhood ?? city?.name ?? "—"}</div>
           {score != null && (
-            <div className="tracker text-charcoal">
+            <div className="tracker text-charcoal shrink-0">
               {Number(score).toFixed(1)} <span className="text-muted-foreground">/ 10</span>
             </div>
           )}
         </div>
-        <h3 className="font-serif text-[1.35rem] leading-[1.1] mt-1 text-charcoal group-hover:text-forest transition-colors">
+        <h3 className="font-serif text-[1.35rem] leading-[1.1] mt-1 text-charcoal group-hover:text-forest transition-colors break-words">
           {listing.name}
         </h3>
-        {listing.brand && <div className="tracker-muted mt-1">{listing.brand}</div>}
+        {listing.brand && <div className="tracker-muted mt-1 break-words">{listing.brand}</div>}
         {!compact && unitTypes.length > 0 && (
-          <div className="mt-2 tracker-muted truncate">{unitTypes.slice(0, 4).join(" · ")}</div>
+          <div className="mt-2 tracker-muted whitespace-normal break-words">{unitTypes.slice(0, 4).join(" · ")}</div>
         )}
-        <div className="mt-3 flex items-baseline justify-between gap-2 hairline-top pt-3">
+        <div className="mt-3 flex flex-wrap items-baseline justify-between gap-x-2 gap-y-1 hairline-top pt-3 min-w-0">
           <div className="tracker-muted">{price ? "From" : "Rate"}</div>
-          <div className="text-charcoal" style={{ fontFamily: "var(--font-mono)", fontSize: "0.82rem" }}>
+          <div className="text-charcoal min-w-0 break-words" style={{ fontFamily: "var(--font-mono)", fontSize: "0.82rem" }}>
             {price ?? "On request"}
           </div>
         </div>
