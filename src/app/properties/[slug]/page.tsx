@@ -61,18 +61,18 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
     <div className="pb-24">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className="hairline-bottom">
-        <div className="container py-3 flex items-center gap-2 tracker-muted overflow-x-auto no-scrollbar whitespace-nowrap">
-          <Link href="/" className="hover:text-forest">SAparts</Link>
-          <span>/</span>
-          <Link href="/cities" className="hover:text-forest">Atlas</Link>
+        <div className="container py-3 flex items-center gap-2 tracker-muted min-w-0">
+          <Link href="/" className="hover:text-forest shrink-0">SAparts</Link>
+          <span className="shrink-0">/</span>
+          <Link href="/cities" className="hover:text-forest shrink-0">Atlas</Link>
           {city && (
             <>
-              <span>/</span>
-              <Link href={`/cities/${city.slug}`} className="hover:text-forest">{city.name}</Link>
+              <span className="shrink-0">/</span>
+              <Link href={`/cities/${city.slug}`} className="hover:text-forest shrink-0">{city.name}</Link>
             </>
           )}
-          <span>/</span>
-          <span className="text-foreground">{listing.name}</span>
+          <span className="shrink-0">/</span>
+          <span className="text-foreground truncate min-w-0">{listing.name}</span>
         </div>
       </div>
 
