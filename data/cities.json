@@ -133,5 +133,140 @@
     "tagline": "",
     "currency": "CAD",
     "launch": false
+  },
+  {
+    "slug": "chicago",
+    "name": "Chicago",
+    "country": "United States",
+    "region": "Americas",
+    "tagline": "",
+    "currency": "USD",
+    "launch": false
+  },
+  {
+    "slug": "seattle",
+    "name": "Seattle",
+    "country": "United States",
+    "region": "Americas",
+    "tagline": "",
+    "currency": "USD",
+    "launch": false
+  },
+  {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "country": "Canada",
+    "region": "Americas",
+    "tagline": "",
+    "currency": "CAD",
+    "launch": false
+  },
+  {
+    "slug": "washington-dc",
+    "name": "Washington, D.C.",
+    "country": "United States",
+    "region": "Americas",
+    "tagline": "",
+    "currency": "USD",
+    "launch": false
+  },
+  {
+    "slug": "bangkok",
+    "name": "Bangkok",
+    "country": "Thailand",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "THB",
+    "launch": false
+  },
+  {
+    "slug": "taipei",
+    "name": "Taipei",
+    "country": "Taiwan",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "TWD",
+    "launch": false
+  },
+  {
+    "slug": "kuala-lumpur",
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "MYR",
+    "launch": false
+  },
+  {
+    "slug": "jakarta",
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "IDR",
+    "launch": false
+  },
+  {
+    "slug": "manila",
+    "name": "Manila",
+    "country": "Philippines",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "PHP",
+    "launch": false
+  },
+  {
+    "slug": "ho-chi-minh-city",
+    "name": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "VND",
+    "launch": false
+  },
+  {
+    "slug": "hanoi",
+    "name": "Hanoi",
+    "country": "Vietnam",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "VND",
+    "launch": false
+  },
+  {
+    "slug": "mumbai",
+    "name": "Mumbai",
+    "country": "India",
+    "region": "Asia-Pacific",
+    "tagline": "",
+    "currency": "INR",
+    "launch": false
+  },
+  {
+    "slug": "barcelona",
+    "name": "Barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "tagline": "",
+    "currency": "EUR",
+    "launch": false
+  },
+  {
+    "slug": "munich",
+    "name": "Munich",
+    "country": "Germany",
+    "region": "Europe",
+    "tagline": "",
+    "currency": "EUR",
+    "launch": false
+  },
+  {
+    "slug": "zurich",
+    "name": "Zurich",
+    "country": "Switzerland",
+    "region": "Europe",
+    "tagline": "",
+    "currency": "CHF",
+    "launch": false
   }
 ]
