@@ -59,7 +59,7 @@ export default function HomePage() {
               <br className="hidden sm:inline" /> booking directory <em>index.</em>
             </h1>
             <p className="mt-7 text-[1.05rem] lg:text-[1.1rem] text-muted-foreground max-w-2xl leading-[1.7] font-serif">
-              An independent, source-backed index of premium serviced apartments and aparthotels. Listings are reviewed for factual content, location, and property imagery across {launch.length} launch cities.
+              An independent, source-backed index of premium serviced apartments and aparthotels. Listings are reviewed for factual content, location, and property imagery across {launch.length} published markets.
             </p>
             <div className="mt-10 flex flex-wrap items-center gap-6">
               <Link href="/search" className="btn-primary">
@@ -81,7 +81,7 @@ export default function HomePage() {
           <div className="lg:col-span-4 paper p-5 sm:p-6 lg:p-7 grid grid-cols-2 gap-x-4 sm:gap-x-6 gap-y-5 sm:gap-y-7">
             <Stat label="Cities indexed" value={cities.length} suffix="markets covered" />
             <Stat label="Residences vetted" value={stats.properties} suffix="published" />
-            <Stat label="With photography" value={stats.withPhotos} suffix="usable stills" />
+            <Stat label="With photography" value={stats.stills} suffix="usable stills" />
             <Stat
               label="Median monthly"
               value={medianMonthly ? `$${(medianMonthly / 1000).toFixed(1)}k` : "—"}

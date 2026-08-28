@@ -342,6 +342,24 @@
     margin-top: 1.5rem;
     margin-bottom: 0.5rem;
   }
+  .editorial-body h4 {
+    font-size: 1.05rem;
+    margin-top: 1.25rem;
+    margin-bottom: 0.4rem;
+  }
+  .editorial-body ul,
+  .editorial-body ol {
+    margin: 0 0 1rem 1.25rem;
+    padding: 0;
+    color: color-mix(in oklab, var(--foreground) 92%, transparent);
+  }
+  .editorial-body ul { list-style: disc; }
+  .editorial-body ol { list-style: decimal; }
+  .editorial-body li {
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    margin-bottom: 0.3rem;
+  }
   .editorial-body a {
     color: var(--forest-deep);
     text-decoration: underline;

@@ -31,7 +31,7 @@ export default function AboutPage() {
               <div className="stat-value mt-1">{stats.properties}</div>
             </div>
             <div className="paper p-5">
-              <div className="stat-label">Launch cities</div>
+              <div className="stat-label">Published markets</div>
               <div className="stat-value mt-1">{stats.launchCities}</div>
             </div>
             <div className="paper p-5">

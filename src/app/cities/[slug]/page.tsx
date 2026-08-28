@@ -39,7 +39,7 @@ export default async function CityHubPage({
   const checklist = getChecklist(slug) || getChecklist(city.name.toLowerCase().replace(/\s+/g, "-"));
   const districts = [...new Set(properties.map((p) => p.neighborhood).filter((v): v is string => Boolean(v)))].sort();
   const median = cityMedianMonthlyUsd(city.slug);
-  const forthcoming = city.launch === false || properties.length === 0;
+  const empty = properties.length === 0;
 
   return (
     <div>
@@ -57,7 +57,7 @@ export default async function CityHubPage({
         <div className="container py-10 sm:py-14 lg:py-20 grid lg:grid-cols-12 gap-8 lg:gap-10 items-end">
           <div className="lg:col-span-7">
             <div className="flex items-center gap-3 mb-6">
-              <span className="section-mark">{forthcoming ? "FORTHCOMING" : "DOSSIER"}</span>
+              <span className="section-mark">{empty ? "REGISTER" : "DOSSIER"}</span>
               <span className="eyebrow">{city.region} · {city.country}</span>
             </div>
             <h1 className="display text-[2.8rem] sm:text-[3.6rem] md:text-[5rem] lg:text-[6.4rem] leading-[0.95]">{city.name}.</h1>
@@ -245,14 +245,14 @@ export default async function CityHubPage({
               {properties.length} residences indexed in this volume. Photography appears only when a usable still is on file.
             </div>
           </div>
-          {forthcoming && properties.length === 0 ? (
+          {empty ? (
             <div className="paper p-8 sm:p-12">
-              <div className="tracker-muted">Forthcoming market</div>
-              <h3 className="display text-3xl mt-3">{city.name} is on the atlas, not yet in the register.</h3>
+              <div className="tracker-muted">Empty register</div>
+              <h3 className="display text-3xl mt-3">{city.name} is on the atlas. No residences are filed yet.</h3>
               <p className="mt-4 max-w-2xl text-muted-foreground leading-relaxed">
                 Destination intelligence above is from the Atlas living guide. Residences will appear here when a source-backed listing pack is filed for {city.name}. We will not invent inventory to fill the page.
               </p>
-              <Link href="/search" className="btn-ghost mt-6">Search launch cities ↗︎</Link>
+              <Link href="/search" className="btn-ghost mt-6">Search published markets ↗︎</Link>
             </div>
           ) : (
             <CityRegister

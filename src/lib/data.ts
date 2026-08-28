@@ -2,7 +2,7 @@ import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { unstable_noStore as noStore } from "next/cache";
 import type { City, Listing, SearchFilters } from "./types";
-import { galleryUrls } from "./media";
+import { galleryUrls, isLocalListingPhoto } from "./media";
 import { unitTypeName } from "./format";
 import { collectionMatch } from "./collections";
 import { PAGE_SIZE } from "./constants";
@@ -21,6 +21,7 @@ function operatorFirst(list: Listing[]): Listing[] {
 
 
 const DATA_DIR = join(process.cwd(), "data");
+const PUBLIC_LISTINGS = join(process.cwd(), "public", "listings");
 
 let cachedLocalImages: Record<string, string[]> | null = null;
 function localImageMap(): Record<string, string[]> {
@@ -28,11 +29,58 @@ function localImageMap(): Record<string, string[]> {
   return cachedLocalImages;
 }
 
+let cachedListingFiles: Set<string> | null = null;
+/** Self-hosted stills that are actually on disk. JSON paths that 404 are not counted. */
+export function listingPhotosOnDisk(): Set<string> {
+  if (cachedListingFiles) return cachedListingFiles;
+  const found = new Set<string>();
+  if (!existsSync(PUBLIC_LISTINGS)) {
+    cachedListingFiles = found;
+    return found;
+  }
+  const walk = (dir: string, urlBase: string) => {
+    for (const ent of readdirSync(dir, { withFileTypes: true })) {
+      if (ent.isDirectory()) {
+        walk(join(dir, ent.name), `${urlBase}/${ent.name}`);
+        continue;
+      }
+      if (ent.isFile() && /\.(webp|jpe?g|png|gif|avif)$/i.test(ent.name)) {
+        found.add(`${urlBase}/${ent.name}`);
+      }
+    }
+  };
+  walk(PUBLIC_LISTINGS, "/listings");
+  cachedListingFiles = found;
+  return found;
+}
+
+function existingLocalPhotos(urls: Array<string | null | undefined>): string[] {
+  const onDisk = listingPhotosOnDisk();
+  const out: string[] = [];
+  const seen = new Set<string>();
+  for (const raw of urls) {
+    if (!isLocalListingPhoto(raw)) continue;
+    if (!onDisk.has(raw)) continue;
+    if (seen.has(raw)) continue;
+    seen.add(raw);
+    out.push(raw);
+  }
+  return out;
+}
+
 function withLocalImages(p: Listing): Listing {
-  const files = (p.imageFiles ?? []).filter((u) => typeof u === "string" && u.startsWith("/listings/") && !/^https?:\/\//i.test(u));
-  if (files.length) return { ...p, imageFiles: files };
-  const mapped = (localImageMap()[p.slug] ?? []).filter((u) => typeof u === "string" && u.startsWith("/listings/") && !/^https?:\/\//i.test(u));
-  return { ...p, imageFiles: mapped };
+  const onDisk = existingLocalPhotos([
+    ...(p.imageFiles ?? []),
+    ...(localImageMap()[p.slug] ?? []),
+    p.heroImageUrl,
+    ...(p.imageUrls ?? []),
+  ]);
+  return {
+    ...p,
+    imageFiles: onDisk,
+    heroImageUrl: onDisk[0] ?? null,
+    imageUrls: onDisk,
+  };
 }
 
 function readJson<T>(path: string, fallback: T): T {
@@ -50,8 +98,9 @@ export function getCities(): City[] {
   return cities.filter((c) => c?.slug && c?.name);
 }
 
+/** Live register: every market in the 30-city pack. The launch flag is leftover 7-city metadata. */
 export function getLaunchCities(): City[] {
-  return getCities().filter((c) => c.launch !== false);
+  return getCities();
 }
 
 export function getCity(slug: string): City | undefined {
@@ -170,20 +219,36 @@ export function listingsBySlugs(slugs: string[]): Listing[] {
 export function directoryStats() {
   const cities = getLaunchCities();
   const properties = getAllProperties();
-  const withPhotos = properties.filter((p) => galleryUrls(p).length > 0).length;
+  const stills = new Set<string>();
+  let withPhotos = 0;
+  for (const p of properties) {
+    const urls = galleryUrls(p);
+    if (urls.length) withPhotos += 1;
+    for (const u of urls) stills.add(u);
+  }
   const withPrices = properties.filter(
     (p) => typeof p.priceFromMonthlyUsd === "number" && p.priceFromMonthlyUsd > 0,
   ).length;
   const withScores = properties.filter((p) => typeof p.ratingScore === "number" && p.ratingScore > 0);
+  const counts = cityListingCountsFrom(properties);
   return {
     launchCities: cities.length,
-    forthcomingCities: getCities().length - cities.length,
+    forthcomingCities: cities.filter((c) => !counts[c.slug]).length,
     properties: properties.length,
     brands: uniqueBrands().length,
     withPhotos,
+    stills: stills.size,
     withPrices,
     tierI: withScores.filter((p) => Number(p.ratingScore) >= 9).length,
   };
+}
+
+function cityListingCountsFrom(properties: Listing[]): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const p of properties) {
+    counts[p.citySlug] = (counts[p.citySlug] || 0) + 1;
+  }
+  return counts;
 }
 
 export function cityListingCounts(): Record<string, number> {
@@ -204,7 +269,7 @@ export function cityMedianMonthlyUsd(citySlug: string): number | null {
 }
 
 export function citiesWithRates() {
-  return getLaunchCities()
+  return getCities()
     .map((c) => ({ ...c, avgMonthlyRateUsd: cityMedianMonthlyUsd(c.slug), count: getPropertiesForCity(c.slug).length }))
     .filter((c) => c.avgMonthlyRateUsd != null);
 }

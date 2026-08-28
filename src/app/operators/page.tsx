@@ -32,7 +32,7 @@ export default function OperatorsPage() {
           </div>
           <div className="lg:col-span-5 space-y-3">
             {[
-              ["Launch cities open", String(stats.launchCities)],
+              ["Published markets", String(stats.launchCities)],
               ["Residences currently filed", String(stats.properties)],
               ["Editorial standard", "Source-backed"],
               ["Commercial relationships", "Disclosed"],

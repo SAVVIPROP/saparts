@@ -6,7 +6,7 @@ import { CitiesClient } from "./CitiesClient";
 
 export const metadata: Metadata = {
   title: "The Atlas",
-  description: "Browse launch and forthcoming cities in the SAparts Atlas.",
+  description: "Browse the 30 published markets in the SAparts Atlas.",
 };
 
 export default function CitiesPage() {
@@ -19,7 +19,7 @@ export default function CitiesPage() {
     name: c.name,
     country: c.country,
     region: c.region,
-    launch: c.launch !== false,
+    launch: true,
     count: counts[c.slug] || 0,
     avgMonthlyRateUsd: rates[c.slug] ?? null,
   }));
@@ -36,7 +36,7 @@ export default function CitiesPage() {
               {cities.length} cities, <em>quietly</em> indexed for the long stay.
             </h1>
             <p className="mt-7 text-[1.05rem] text-muted-foreground max-w-2xl leading-[1.7] font-serif">
-              A working atlas for extended stays — from the financial quarters of London and New York to the residential enclaves of Tokyo, Singapore and Dubai. Forthcoming markets keep a designed empty state until a listing pack is filed.
+              A working atlas for extended stays — from the financial quarters of London and New York to the residential enclaves of Tokyo, Singapore and Dubai. A market stays empty only when no residences are filed. We do not invent inventory.
             </p>
           </div>
           <div className="lg:col-span-4 paper p-5 sm:p-6 lg:p-7 grid grid-cols-2 gap-x-4 gap-y-5">
@@ -49,11 +49,11 @@ export default function CitiesPage() {
               <div className="stat-value mt-1">{stats.properties}</div>
             </div>
             <div>
-              <div className="stat-label">Launch cities</div>
+              <div className="stat-label">Published markets</div>
               <div className="stat-value mt-1">{stats.launchCities}</div>
             </div>
             <div>
-              <div className="stat-label">Forthcoming</div>
+              <div className="stat-label">Empty registers</div>
               <div className="stat-value mt-1">{stats.forthcomingCities}</div>
             </div>
           </div>

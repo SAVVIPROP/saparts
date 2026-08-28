@@ -51,7 +51,7 @@ export const INSIGHTS: Insight[] = [
     body: [
       "SAparts is an independent directory. Listings are imported from official city packs. We do not invent residences, photographs, or prices. Official listing photographs are copied from the city packs into self-hosted /listings/<slug>/ files. The gallery never hotlinks operator CDNs. A listing stays blank when no official file is on disk.",
       "Ratings and “Tier I” labels appear only when a source file carries a ratingScore. The current official packs do not. We will not fabricate a 9.0 so that a table looks full.",
-      "City intelligence — visa notes, safety scores, checklists — is ported from the Atlas destination files and cited to the sources those files already name (IATA Timatic, Numbeo, UN Tourism, GSAIR). Forthcoming cities in cities.json render a designed empty state until a listing pack exists. We do not print a filesystem path as the user-facing message.",
+      "City intelligence — visa notes, safety scores, checklists — is ported from the Atlas destination files and cited to the sources those files already name (IATA Timatic, Numbeo, UN Tourism, GSAIR). A published market with no filed residences renders a designed empty state. We do not print a filesystem path as the user-facing message.",
       "Corrections: editorial@saparts.com. Verified corrections are applied to the next pack import.",
     ],
   },
@@ -73,16 +73,16 @@ export const INSIGHTS: Insight[] = [
   {
     slug: "city-guides-how-we-read-a-market",
     title: "How We Read a City — Atlas Dossiers",
-    dek: "Each launch city is a dossier: brief, living guide, checklist, and the register. Forthcoming markets stay empty on purpose.",
+    dek: "Each published market is a dossier: brief, living guide, checklist, and the register. Empty registers stay empty on purpose.",
     category: "City Guides",
     readMinutes: 6,
     featured: false,
     publishedAt: "2026-03-28",
     body: [
       "A city hub is not a gallery of the first six photographs we found. It is a working dossier: the editor’s brief (from destination notes), destination statistics with sources, visa and connectivity, a city checklist, then the register of residences actually filed for that slug.",
-      "Launch cities in the current packs are Hong Kong, London, New York, Paris, Singapore, Dubai, and Tokyo. Forthcoming stubs — Sydney, Melbourne, Shanghai, Seoul, Amsterdam, Berlin, Los Angeles, Toronto — keep the same page chrome and a designed empty state. Destination intelligence still renders when the Atlas files have a match.",
+      "The live register is the 30 published markets in the city pack. A city hub stays empty only when no residences are filed for that slug. Destination intelligence still renders when the Atlas files have a match.",
       "Counts on the Atlas index are live: they are the length of each city JSON after dropping unpublished rows. Two New York rows that were dead (aka-united-nations, sonder-battery-park) are not in the pack.",
-      "If you need a market that is not yet launched, the concierge widget will take the brief. It is UI-only until an LLM key is connected; the Contact page remains the reliable path.",
+      "If you need a market that is not in the register, the concierge widget will take the brief. It is UI-only until an LLM key is connected; the Contact page remains the reliable path.",
     ],
   },
 ];

@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/" },
   openGraph: {
     title: "SAparts — World's Leading Directory of Serviced Apartments",
-    description: "Official serviced apartments across Hong Kong, London, New York, Paris, Singapore, Dubai, and Tokyo.",
+    description: "Official serviced apartments across 30 published markets. Source-backed listings only — rates appear when the pack files them.",
     url: "https://saparts.vercel.app",
     siteName: "SAparts",
     type: "website",

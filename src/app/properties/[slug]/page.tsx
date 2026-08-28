@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { getAllProperties, getCity, getProperty, relatedInCity } from "@/lib/data";
 import { cleanDescription, dedupeAddress, formatPrice, publicPriceNote, titleCaseTag, unitTypeMeta, unitTypeName } from "@/lib/format";
 import { isMatterportUrl } from "@/lib/media";
+import { OfficialCopy } from "@/components/OfficialCopy";
 import { PropertyGallery } from "@/components/PropertyGallery";
 import { PropertyMedia } from "@/components/PropertyMedia";
 import { PropertyMap } from "@/components/PropertyMap";
@@ -163,10 +164,8 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
             <div className="tracker-muted flex items-center gap-3 mb-3"><span>§ 02</span><span>·</span><span>The Feature</span></div>
             <h2 className="font-serif text-2xl sm:text-3xl lg:text-4xl leading-tight">A closer read.</h2>
           </div>
-          <div className="lg:col-span-8 editorial-body font-serif">
-            {desc.split(/\n{2,}/).map((para, i) => (
-              <p key={i}>{para}</p>
-            ))}
+          <div className="lg:col-span-8">
+            <OfficialCopy text={desc} />
           </div>
         </section>
       )}

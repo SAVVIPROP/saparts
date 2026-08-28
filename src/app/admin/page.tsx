@@ -42,11 +42,11 @@ export default async function AdminPage({
         <div className="container py-10 grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             ["Residences", String(stats.properties)],
-            ["Launch cities", String(stats.launchCities)],
-            ["With usable photos", String(stats.withPhotos)],
+            ["Published markets", String(stats.launchCities)],
+            ["Usable stills on disk", String(stats.stills)],
             ["With filed prices", String(stats.withPrices)],
             ["Brands", String(stats.brands)],
-            ["Forthcoming cities", String(stats.forthcomingCities)],
+            ["Empty registers", String(stats.forthcomingCities)],
             ["Tier I (scores ≥ 9)", String(stats.tierI)],
             ["Import path", "data/properties/*.json"],
           ].map(([label, value]) => (
