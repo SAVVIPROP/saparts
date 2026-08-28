@@ -24,7 +24,7 @@ export function PropertyCard({
 
   return (
     <Link href={`/properties/${listing.slug}`} className="group block">
-      <div className="relative aspect-[2/1] sm:aspect-[3/2] lg:aspect-[4/5] overflow-hidden bg-ivory-warm border border-border">
+      <div className="relative aspect-[16/9] sm:aspect-[3/2] lg:aspect-[4/5] overflow-hidden bg-ivory-warm border border-border">
         {image ? (
           <SafeImage
             src={image}

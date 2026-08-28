@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "import": "node scripts/import-enriched.mjs",
-    "test": "node --experimental-strip-types --test src/lib/official-copy.test.ts && node scripts/verify-atlas.mjs"
+    "test": "node --experimental-strip-types --test src/lib/official-copy.test.ts src/lib/city-brief.test.ts && node scripts/verify-atlas.mjs"
   },
   "dependencies": {
     "next": "^15.3.5",

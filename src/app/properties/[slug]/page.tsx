@@ -89,7 +89,7 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
             <span>{listing.category ?? "Serviced Apartment"}</span>
             {city && <><span>·</span><span>{city.name}</span></>}
           </div>
-          <h1 className="font-serif text-[1.6rem] sm:text-4xl lg:text-6xl leading-[1.15] sm:leading-[1.05] break-words">{listing.name}</h1>
+          <h1 className="font-serif text-[1.75rem] sm:text-4xl lg:text-6xl leading-[1.15] sm:leading-[1.05] break-words">{listing.name}</h1>
           {listing.brand && <div className="mt-1.5 sm:mt-2 tracker-muted">by {listing.brand}</div>}
           {listing.neighborhood && (
             <div className="mt-2 sm:mt-3 flex items-center gap-1.5 text-sm text-muted-foreground">
@@ -263,7 +263,7 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
         <section className="container mt-14 sm:mt-16 lg:mt-20">
           <div className="tracker-muted flex items-center gap-3 mb-3"><span>§ 06</span><span>·</span><span>Also in {city.name}</span></div>
           <h3 className="font-serif text-2xl sm:text-3xl mt-1 mb-8">Nearby residences to consider.</h3>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-6 sm:gap-y-10">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6 sm:gap-x-6 sm:gap-y-10">
             {related.map((r) => (
               <PropertyCard key={r.slug} listing={r} city={city} />
             ))}

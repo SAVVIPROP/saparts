@@ -66,7 +66,7 @@ export function CityRegister({
             <div className="tracker-muted text-[0.7rem] mb-2">DISTRICT</div>
             <div className="flex flex-wrap gap-2">
               <button onClick={() => setParam("district")} className={`px-3 py-1 text-[0.78rem] border ${!district ? "bg-charcoal text-ivory border-charcoal" : "border-border"}`}>All</button>
-              {districts.slice(0, 16).map((n) => (
+              {districts.map((n) => (
                 <button key={n} onClick={() => setParam("district", district === n ? undefined : n)} className={`px-3 py-1 text-[0.78rem] border ${district === n ? "bg-charcoal text-ivory border-charcoal" : "border-border"}`}>{n}</button>
               ))}
             </div>
@@ -93,7 +93,7 @@ export function CityRegister({
       {slice.length === 0 ? (
         <div className="paper p-8">Nothing in this pocket of {city.name} yet.</div>
       ) : (
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-6 sm:gap-y-10">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6 sm:gap-x-6 sm:gap-y-10">
           {slice.map((listing) => (
             <PropertyCard key={listing.slug} listing={listing} city={city} />
           ))}
