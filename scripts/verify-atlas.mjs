@@ -66,10 +66,8 @@ assert.notEqual(highest.slug, best.slug, "highest and best-value cannot both col
 assert.equal(highest.median, 5880);
 assert.equal(best.median, 5250);
 assert.equal(liveCities.length, 30);
-assert.ok(
-  liveCities.every((c) => c.slug === "new-york" || c.slug === "washington-dc" || !(pricedByCity[c.slug]?.length)),
-  "only NY and D.C. have filed monthly medians in the current pack",
-);
+const pricedSlugs = medians.map((m) => m.slug).sort();
+assert.deepEqual(pricedSlugs, ["new-york", "washington-dc"]);
 
 console.log(
   JSON.stringify(
