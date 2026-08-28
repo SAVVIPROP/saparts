@@ -63,6 +63,13 @@ const best = [...medians].sort((a, b) => a.median - b.median)[0];
 assert.equal(highest.slug, "new-york");
 assert.equal(best.slug, "washington-dc");
 assert.notEqual(highest.slug, best.slug, "highest and best-value cannot both collapse to New York");
+assert.equal(highest.median, 5880);
+assert.equal(best.median, 5250);
+assert.equal(liveCities.length, 30);
+assert.ok(
+  liveCities.every((c) => c.slug === "new-york" || c.slug === "washington-dc" || !(pricedByCity[c.slug]?.length)),
+  "only NY and D.C. have filed monthly medians in the current pack",
+);
 
 console.log(
   JSON.stringify(

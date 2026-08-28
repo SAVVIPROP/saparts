@@ -6,7 +6,7 @@ export function PropertyGallery({ listing }: { listing: Listing }) {
   const images = galleryUrls(listing);
   if (images.length === 0) {
     return (
-      <div className="paper flex items-center justify-center tracker-muted" style={{ height: "clamp(240px, 42vw, 500px)" }}>
+      <div className="paper flex items-center justify-center tracker-muted listing-hero">
         No photograph on file
       </div>
     );
@@ -15,7 +15,7 @@ export function PropertyGallery({ listing }: { listing: Listing }) {
   const thumbs = rest.slice(0, 4);
   return (
     <div>
-      <div className="flex gap-2" style={{ height: "clamp(240px, 42vw, 500px)" }}>
+      <div className="flex gap-2 listing-hero">
         <div className="flex-[3] overflow-hidden bg-ivory-warm min-w-0">
           <SafeImage src={hero} alt={listing.name} className="w-full h-full object-cover" loading="eager" />
         </div>
@@ -55,7 +55,7 @@ export function PropertyGallery({ listing }: { listing: Listing }) {
       {images.length > 1 && (
         <div className="md:hidden flex gap-2 mt-2 overflow-x-auto no-scrollbar">
           {images.slice(1, 6).map((src, i) => (
-            <div key={src} className="shrink-0 w-32 h-20 overflow-hidden bg-ivory-warm">
+            <div key={src} className="shrink-0 w-24 h-14 sm:w-32 sm:h-20 overflow-hidden bg-ivory-warm">
               <SafeImage src={src} alt={`${listing.name} — photo ${i + 2}`} className="w-full h-full object-cover" />
             </div>
           ))}

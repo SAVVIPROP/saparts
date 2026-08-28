@@ -3,7 +3,7 @@ export type OfficialBlock =
   | { type: "p"; text: string }
   | { type: "ul" | "ol"; items: string[] };
 
-const HEADING = /^(#{1,6})\s+(.*)$/;
+const HEADING = /^\s*(#{1,6})\s+(.*?)\s*#*\s*$/;
 const UL = /^\s*[-*•■]\s+(.*)$/;
 const OL = /^\s*\d+\.\s+(.*)$/;
 

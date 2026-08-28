@@ -185,25 +185,36 @@ export default function HomePage() {
             </div>
             <div className="lg:col-span-8">
               {(() => {
-                const sorted = [...pricedCities].sort((a, b) => b.avgMonthlyRateUsd! - a.avgMonthlyRateUsd!);
-                const max = Math.max(...sorted.map((c) => c.avgMonthlyRateUsd!), 1);
+                const rateBySlug = new Map(pricedCities.map((c) => [c.slug, c.avgMonthlyRateUsd]));
+                const rows = launch
+                  .map((c) => ({ ...c, avgMonthlyRateUsd: rateBySlug.get(c.slug) ?? null }))
+                  .sort((a, b) => {
+                    const ar = a.avgMonthlyRateUsd;
+                    const br = b.avgMonthlyRateUsd;
+                    if (ar != null && br != null) return br - ar;
+                    if (ar != null) return -1;
+                    if (br != null) return 1;
+                    return a.name.localeCompare(b.name);
+                  });
+                const max = Math.max(...pricedCities.map((c) => c.avgMonthlyRateUsd!), 1);
                 return (
                   <div>
-                    {sorted.map((c, idx) => {
-                      const w = Math.max(4, (c.avgMonthlyRateUsd! / max) * 100);
+                    {rows.map((c) => {
+                      const filed = c.avgMonthlyRateUsd;
+                      const w = filed != null ? Math.max(4, (filed / max) * 100) : 0;
                       return (
-                        <Link key={c.slug} href={`/cities/${c.slug}`} className="group block border-t border-border py-3">
+                        <Link key={c.slug} href={`/cities/${c.slug}`} className="group block border-t border-border py-2.5 sm:py-3">
                           <div className="flex items-baseline justify-between gap-3 mb-1.5">
                             <div className="font-serif leading-none truncate group-hover:text-forest">{c.name}</div>
-                            <div className="text-right text-[0.82rem] font-mono">${(c.avgMonthlyRateUsd! / 1000).toFixed(1)}k</div>
+                            <div className="text-right text-[0.82rem] font-mono">{filed != null ? `$${(filed / 1000).toFixed(1)}k` : "—"}</div>
                           </div>
                           <div className="h-[5px] bg-border/60 overflow-hidden">
-                            <div className="h-full" style={{ width: `${w}%`, background: idx === 0 ? "linear-gradient(90deg, var(--forest), var(--brass))" : "var(--forest)" }} />
+                            <div className="h-full" style={{ width: `${w}%`, background: filed != null && filed === dearest?.avgMonthlyRateUsd ? "linear-gradient(90deg, var(--forest), var(--brass))" : "var(--forest)" }} />
                           </div>
                         </Link>
                       );
                     })}
-                    <div className="fig-caption mt-4"><strong>Fig. 02</strong> — Filed monthly rates only. Source: official listing packs.</div>
+                    <div className="fig-caption mt-4"><strong>Fig. 02</strong> — Filed monthly rates only. Source: official listing packs. Markets without a published figure keep the dash.</div>
                   </div>
                 );
               })()}
@@ -336,7 +347,7 @@ export default function HomePage() {
           {featured.length === 0 ? (
             <div className="paper p-8">No usable photographs on file yet.</div>
           ) : (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-6 sm:gap-y-10">
               {featured.map((p) => (
                 <PropertyCard key={p.slug} listing={p} city={getCity(p.citySlug)} />
               ))}

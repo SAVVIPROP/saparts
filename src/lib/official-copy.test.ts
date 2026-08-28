@@ -71,3 +71,12 @@ test("Cheval Knightsbridge official pack keeps every sentence and parses heading
   }
   assert.ok(keptWords.length >= rawWords.length * 0.95);
 });
+
+test("indented official hashes still become headings", () => {
+  const blocks = parseOfficialCopy("  ## About the residence\n\nA kept sentence.\n\n  ### Luxury One-Bedroom Apartment\n");
+  assert.deepEqual(
+    blocks.filter((b) => b.type === "h2" || b.type === "h3").map((b) => ("text" in b ? `${b.type}:${b.text}` : "")),
+    ["h2:About the residence", "h3:Luxury One-Bedroom Apartment"],
+  );
+  assert.ok(!blocks.some((b) => b.type === "p" && /##/.test(b.text)));
+});

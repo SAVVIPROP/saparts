@@ -93,7 +93,7 @@ export function CityRegister({
       {slice.length === 0 ? (
         <div className="paper p-8">Nothing in this pocket of {city.name} yet.</div>
       ) : (
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-6 sm:gap-y-10">
           {slice.map((listing) => (
             <PropertyCard key={listing.slug} listing={listing} city={city} />
           ))}

@@ -74,7 +74,7 @@ export default async function CollectionDetailPage({
               <Link href="/search" className="btn-ghost mt-6">Browse the directory ↗︎</Link>
             </div>
           ) : (
-            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
+            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-6 sm:gap-y-10">
               {items.map((listing) => (
                 <PropertyCard key={listing.slug} listing={listing} city={getCity(listing.citySlug)} />
               ))}
