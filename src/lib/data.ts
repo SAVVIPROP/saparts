@@ -68,6 +68,11 @@ function existingLocalPhotos(urls: Array<string | null | undefined>): string[] {
   return out;
 }
 
+function publicFileExists(url: string): boolean {
+  if (!url.startsWith("/") || url.startsWith("//")) return false;
+  return existsSync(join(process.cwd(), "public", url.replace(/^\/+/, "")));
+}
+
 function withLocalImages(p: Listing): Listing {
   const onDisk = existingLocalPhotos([
     ...(p.imageFiles ?? []),
@@ -75,11 +80,19 @@ function withLocalImages(p: Listing): Listing {
     p.heroImageUrl,
     ...(p.imageUrls ?? []),
   ]);
+  const layouts = (p.layoutUrls ?? []).filter((u) => {
+    if (!u || typeof u !== "string") return false;
+    if (u.startsWith("/listings/") || (u.startsWith("/") && !u.startsWith("//"))) {
+      return publicFileExists(u);
+    }
+    return /^https?:\/\//i.test(u);
+  });
   return {
     ...p,
     imageFiles: onDisk,
     heroImageUrl: onDisk[0] ?? null,
     imageUrls: onDisk,
+    layoutUrls: layouts,
   };
 }
 
