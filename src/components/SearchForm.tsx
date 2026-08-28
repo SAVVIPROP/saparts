@@ -71,7 +71,7 @@ export function SearchForm({
       <label className="md:col-span-2 block">
         <span className="field-label">City</span>
         <select className="field" value={city} onChange={(e) => setCity(e.target.value)}>
-          <option value="">All launch cities</option>
+          <option value="">All published markets</option>
           {cities.map((c) => (
             <option key={c.slug} value={c.slug}>{c.name}</option>
           ))}

@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { getAllProperties, getCity, getProperty, relatedInCity } from "@/lib/data";
 import { cleanDescription, dedupeAddress, formatPrice, publicPriceNote, titleCaseTag, unitTypeMeta, unitTypeName } from "@/lib/format";
 import { isMatterportUrl } from "@/lib/media";
+import { OfficialCopy } from "@/components/OfficialCopy";
 import { PropertyGallery } from "@/components/PropertyGallery";
 import { PropertyMedia } from "@/components/PropertyMedia";
 import { PropertyMap } from "@/components/PropertyMap";
@@ -76,34 +77,34 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
         </div>
       </div>
 
-      <section className="container pt-6 sm:pt-8 lg:pt-10">
+      <section className="container pt-4 sm:pt-8 lg:pt-10">
         <PropertyGallery listing={listing} />
       </section>
 
-      <section className="container mt-8 sm:mt-10 lg:mt-12 grid lg:grid-cols-12 gap-8 lg:gap-12 items-start">
+      <section className="container mt-5 sm:mt-10 lg:mt-12 grid lg:grid-cols-12 gap-5 sm:gap-8 lg:gap-12 items-start">
         <div className="lg:col-span-7">
-          <div className="tracker-muted flex items-center gap-3 mb-3">
+          <div className="tracker-muted flex items-center gap-3 mb-2 sm:mb-3">
             <span>§ 01</span>
             <span>·</span>
             <span>{listing.category ?? "Serviced Apartment"}</span>
             {city && <><span>·</span><span>{city.name}</span></>}
           </div>
-          <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl leading-[1.05] break-words">{listing.name}</h1>
-          {listing.brand && <div className="mt-2 tracker-muted">by {listing.brand}</div>}
+          <h1 className="font-serif text-[1.75rem] sm:text-4xl lg:text-6xl leading-[1.15] sm:leading-[1.05] break-words">{listing.name}</h1>
+          {listing.brand && <div className="mt-1.5 sm:mt-2 tracker-muted">by {listing.brand}</div>}
           {listing.neighborhood && (
-            <div className="mt-3 flex items-center gap-1.5 text-sm text-muted-foreground">
+            <div className="mt-2 sm:mt-3 flex items-center gap-1.5 text-sm text-muted-foreground">
               <MapPin className="w-3.5 h-3.5 shrink-0" />
               <span>{listing.neighborhood}{city ? `, ${city.name}` : ""}</span>
             </div>
           )}
-          {listing.tagline && <p className="mt-5 font-serif text-lg text-muted-foreground leading-relaxed">{listing.tagline}</p>}
+          {listing.tagline && <p className="mt-3 sm:mt-5 font-serif text-[1.05rem] sm:text-lg text-muted-foreground leading-relaxed">{listing.tagline}</p>}
         </div>
         <aside className="lg:col-span-5 lg:sticky lg:top-28">
-          <div className="border border-border bg-background p-6">
-            <div className="flex items-start justify-between gap-3 mb-4">
+          <div className="border border-border bg-background p-4 sm:p-6">
+            <div className="flex items-start justify-between gap-3 mb-3 sm:mb-4">
               <div>
                 <div className="tracker-muted mb-1">Rate indication</div>
-                <div className="font-serif text-2xl">{price ?? "On request"}</div>
+                <div className="font-serif text-xl sm:text-2xl">{price ?? "On request"}</div>
                 {note && (
                   <div className="tracker-muted mt-1">{note}</div>
                 )}
@@ -121,8 +122,8 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
                 size="md"
               />
             </div>
-            <div className="hairline-bottom mb-4" />
-            <div className="space-y-2.5 text-sm mb-5">
+            <div className="hairline-bottom mb-3 sm:mb-4" />
+            <div className="space-y-2 text-sm mb-4 sm:mb-5">
               {listing.minStayNights != null && (
                 <div className="flex justify-between">
                   <span className="text-muted-foreground">Min. stay</span>
@@ -150,7 +151,7 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
                 Email this enquiry
               </a>
             </div>
-            <div className="hairline-top mt-5 pt-4">
+            <div className="hairline-top mt-4 sm:mt-5 pt-3 sm:pt-4">
               <PropertyActions name={listing.name} />
             </div>
           </div>
@@ -158,21 +159,19 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
       </section>
 
       {desc && (
-        <section className="container mt-14 sm:mt-16 lg:mt-20 grid lg:grid-cols-12 gap-8">
+        <section className="container mt-8 sm:mt-16 lg:mt-20 grid lg:grid-cols-12 gap-5 sm:gap-8">
           <div className="lg:col-span-4">
-            <div className="tracker-muted flex items-center gap-3 mb-3"><span>§ 02</span><span>·</span><span>The Feature</span></div>
-            <h2 className="font-serif text-2xl sm:text-3xl lg:text-4xl leading-tight">A closer read.</h2>
+            <div className="tracker-muted flex items-center gap-3 mb-2 sm:mb-3"><span>§ 02</span><span>·</span><span>The Feature</span></div>
+            <h2 className="font-serif text-xl sm:text-3xl lg:text-4xl leading-tight">A closer read.</h2>
           </div>
-          <div className="lg:col-span-8 editorial-body font-serif">
-            {desc.split(/\n{2,}/).map((para, i) => (
-              <p key={i}>{para}</p>
-            ))}
+          <div className="lg:col-span-8">
+            <OfficialCopy text={desc} />
           </div>
         </section>
       )}
 
-      <section className="container mt-14 sm:mt-16 lg:mt-20">
-        <div className="tracker-muted flex items-center gap-3 mb-6"><span>§ 03</span><span>·</span><span>Specifications</span></div>
+      <section className="container mt-8 sm:mt-16 lg:mt-20">
+        <div className="tracker-muted flex items-center gap-3 mb-4 sm:mb-6"><span>§ 03</span><span>·</span><span>Specifications</span></div>
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12">
           <div>
             <div className="tracker-muted mb-3">Residence types</div>
@@ -264,7 +263,7 @@ export default async function PropertyPage({ params }: { params: Promise<{ slug:
         <section className="container mt-14 sm:mt-16 lg:mt-20">
           <div className="tracker-muted flex items-center gap-3 mb-3"><span>§ 06</span><span>·</span><span>Also in {city.name}</span></div>
           <h3 className="font-serif text-2xl sm:text-3xl mt-1 mb-8">Nearby residences to consider.</h3>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6 sm:gap-x-6 sm:gap-y-10">
             {related.map((r) => (
               <PropertyCard key={r.slug} listing={r} city={city} />
             ))}

@@ -10,7 +10,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
   for (const c of cities) {
     const region = c.region === "Oceania" ? "Asia-Pacific" : c.region;
     if (!citiesByRegion[region]) citiesByRegion[region] = [];
-    citiesByRegion[region].push({ name: c.name, slug: c.slug, launch: c.launch });
+    citiesByRegion[region].push({ name: c.name, slug: c.slug, launch: true });
   }
   const navStats = { cities: cities.length, properties: stats.properties };
 

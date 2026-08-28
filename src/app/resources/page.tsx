@@ -84,7 +84,7 @@ export default function ResourcesPage() {
           <div className="tracker-muted mb-3">Visa & entry</div>
           <h2 className="display text-[2rem]">Open the city dossier.</h2>
           <p className="mt-3 text-muted-foreground max-w-2xl leading-relaxed">
-            Visa notes live on each launch-city living guide, cited to the destination files (IATA Timatic and the Atlas checklists). We do not reprint a global visa table here.
+            Visa notes live on each published-market living guide, cited to the destination files (IATA Timatic and the Atlas checklists). We do not reprint a global visa table here.
           </p>
           <div className="mt-6 flex flex-wrap gap-2">
             {cities.map((c) => (
