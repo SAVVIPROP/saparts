@@ -332,10 +332,6 @@
     color: color-mix(in oklab, var(--foreground) 92%, transparent);
     margin-bottom: 1rem;
   }
-  .listing-hero {
-    height: clamp(180px, 38vw, 500px);
-  }
-
   .editorial-body h2 {
     font-size: 1.35rem;
     margin-top: 1.5rem;
