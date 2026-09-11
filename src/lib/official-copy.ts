@@ -74,8 +74,16 @@ export function parseOfficialCopy(text: string): OfficialBlock[] {
 export function officialCopyPlainText(blocks: OfficialBlock[]): string {
   return blocks
     .map((b) => {
-      if (b.type === "ul" || b.type === "ol") return b.items.join("\n");
-      return b.text;
+      switch (b.type) {
+        case "ul":
+        case "ol":
+          return b.items.join("\n");
+        case "h2":
+        case "h3":
+        case "h4":
+        case "p":
+          return b.text;
+      }
     })
     .join("\n")
     .replace(/\s+/g, " ")
