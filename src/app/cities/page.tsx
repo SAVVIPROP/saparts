@@ -4,10 +4,13 @@ import { getCities, cityListingCounts, citiesWithRates, directoryStats } from "@
 import { formatUSD } from "@/lib/format";
 import { CitiesClient } from "./CitiesClient";
 
-export const metadata: Metadata = {
-  title: "The Atlas",
-  description: "Browse the 30 published markets in the SAparts Atlas.",
-};
+export function generateMetadata(): Metadata {
+  const n = getCities().length;
+  return {
+    title: "The Atlas",
+    description: `Browse the ${n} published markets in the SAparts Atlas.`,
+  };
+}
 
 export default function CitiesPage() {
   const cities = getCities();

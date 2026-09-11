@@ -14,6 +14,7 @@ import { PropertyCard } from "@/components/PropertyCard";
 import { NewsletterForm } from "@/components/NewsletterForm";
 import { PressQuoteTicker } from "@/components/PressQuoteTicker";
 import { getInsights } from "@/lib/editorial";
+import { rateIndexHighlights } from "@/lib/rate-index";
 
 function Stat({ label, value, suffix, raw }: { label: string; value: string | number; suffix?: string; raw?: boolean }) {
   return (
@@ -42,8 +43,9 @@ export default function HomePage() {
     const arr = pricedCities.map((c) => c.avgMonthlyRateUsd!).sort((a, b) => a - b);
     return arr.length ? arr[Math.floor(arr.length / 2)] : 0;
   })();
-  const cheapest = [...pricedCities].sort((a, b) => a.avgMonthlyRateUsd! - b.avgMonthlyRateUsd!)[0];
-  const dearest = [...pricedCities].sort((a, b) => b.avgMonthlyRateUsd! - a.avgMonthlyRateUsd!)[0];
+  const { highest: dearest, bestValue: cheapest } = rateIndexHighlights(
+    pricedCities.map((c) => ({ ...c, avgMonthlyRateUsd: c.avgMonthlyRateUsd! })),
+  );
 
   return (
     <div>

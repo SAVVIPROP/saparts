@@ -1,4 +1,4 @@
-import type { Listing } from "./types.ts";
+import type { Listing } from "./types";
 
 function formatUsd(n: number) {
   return new Intl.NumberFormat("en-US", {
