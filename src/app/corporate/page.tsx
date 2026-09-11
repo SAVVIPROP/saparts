@@ -24,8 +24,8 @@ export default function CorporatePage() {
               <em>quietly handled.</em>
             </h1>
             <p className="mt-6 font-serif text-[1.15rem] text-muted-foreground max-w-2xl leading-relaxed">
-              SAparts is an independent index of serviced apartments for corporate mobility. Launch coverage opens in{" "}
-              {cities.length} cities. Listings are published only after factual review.
+              SAparts is an independent index of serviced apartments for corporate mobility. Coverage spans{" "}
+              {cities.length} published markets. Listings are published only after factual review.
             </p>
           </div>
         </div>
@@ -35,7 +35,7 @@ export default function CorporatePage() {
           {[
             ["Policy-safe sourcing", "Every residence is reviewed against licensing, safety, and serviced-apartment credentials before it enters the register."],
             ["Procurement-ready data", "Unit mix, amenities, official links, and — when supplied — source rates. Comparable, exportable, never invented."],
-            ["One editorial standard", "The same dossier structure in every launch city. No marketplace ranking, no opaque commission."],
+            ["One editorial standard", "The same dossier structure in every published market. No marketplace ranking, no opaque commission."],
           ].map(([title, body], i) => (
             <div key={title} className={`p-8 md:p-10 ${i < 2 ? "md:border-r border-border" : ""}`}>
               <div className="section-mark">{String(i + 1).padStart(2, "0")}</div>

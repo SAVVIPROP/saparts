@@ -24,7 +24,7 @@ export function PropertyCard({
 
   return (
     <Link href={`/properties/${listing.slug}`} className="group block">
-      <div className="relative aspect-[3/2] sm:aspect-[4/5] overflow-hidden bg-ivory-warm border border-border">
+      <div className="relative aspect-[16/9] sm:aspect-[3/2] lg:aspect-[4/5] overflow-hidden bg-ivory-warm border border-border">
         {image ? (
           <SafeImage
             src={image}
@@ -61,7 +61,7 @@ export function PropertyCard({
           </div>
         </div>
       </div>
-      <div className="pt-3">
+      <div className="pt-2 sm:pt-3">
         <div className="flex items-baseline justify-between gap-3">
           <div className="tracker text-muted-foreground">{listing.neighborhood ?? city?.name ?? "—"}</div>
           {score != null && (
@@ -70,14 +70,14 @@ export function PropertyCard({
             </div>
           )}
         </div>
-        <h3 className="font-serif text-[1.35rem] leading-[1.1] mt-1 text-charcoal group-hover:text-forest transition-colors">
+        <h3 className="font-serif text-[1.15rem] sm:text-[1.35rem] leading-[1.15] mt-1 text-charcoal group-hover:text-forest transition-colors">
           {listing.name}
         </h3>
-        {listing.brand && <div className="tracker-muted mt-1">{listing.brand}</div>}
+        {listing.brand && <div className="tracker-muted mt-0.5 sm:mt-1">{listing.brand}</div>}
         {!compact && unitTypes.length > 0 && (
-          <div className="mt-2 tracker-muted truncate">{unitTypes.slice(0, 4).join(" · ")}</div>
+          <div className="mt-1.5 sm:mt-2 tracker-muted truncate">{unitTypes.slice(0, 4).join(" · ")}</div>
         )}
-        <div className="mt-3 flex items-baseline justify-between gap-2 hairline-top pt-3">
+        <div className="mt-2 sm:mt-3 flex items-baseline justify-between gap-2 hairline-top pt-2 sm:pt-3">
           <div className="tracker-muted">{price ? "From" : "Rate"}</div>
           <div className="text-charcoal" style={{ fontFamily: "var(--font-mono)", fontSize: "0.82rem" }}>
             {price ?? "On request"}

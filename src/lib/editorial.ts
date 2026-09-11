@@ -22,7 +22,7 @@ export const INSIGHTS: Insight[] = [
       "London remains the deepest serviced-apartment market in the SAparts register. For finance and professional-services assignments, the brief is rarely “find a hotel with a kitchen.” It is: a quiet one- or two-bed within a defensible commute of a trading floor, with a workspace that survives a 90-day stay.",
       "The City and Canary Wharf still concentrate the longest corporate stays. Residences filed in those districts tend to publish unit mixes (studio through two-bed) and hotel-grade services. West End and Marylebone listings more often trade on neighbourhood and building character. We do not invent rates; where a source file carries a monthly figure it appears on the residence page, otherwise the indication is “on request.”",
       "Visa and entry have tightened. UK ETA is now required for many visa-waiver nationals. Oyster or contactless remains the practical way to move; the Elizabeth Line has shortened Heathrow-to-Square-Mile time to under 40 minutes. Sunday trading hours and a 10–15% restaurant tip remain the small frictions that catch first-time assignees.",
-      "Our London city dossier collects destination statistics, a living guide, and the current register. Use the directory filters for unit type and neighbourhood rather than assuming a “best for executives” tag exists on every record — tags appear only when the source file supplies them.",
+      "Our London city dossier is a register brief: neighbourhoods, brands, and operators as filed in the listing pack, then the residences themselves. Use the directory filters for unit type and neighbourhood rather than assuming a “best for executives” tag exists on every record — tags appear only when the source file supplies them.",
     ],
   },
   {
@@ -51,7 +51,7 @@ export const INSIGHTS: Insight[] = [
     body: [
       "SAparts is an independent directory. Listings are imported from official city packs. We do not invent residences, photographs, or prices. Official listing photographs are copied from the city packs into self-hosted /listings/<slug>/ files. The gallery never hotlinks operator CDNs. A listing stays blank when no official file is on disk.",
       "Ratings and “Tier I” labels appear only when a source file carries a ratingScore. The current official packs do not. We will not fabricate a 9.0 so that a table looks full.",
-      "City intelligence — visa notes, safety scores, checklists — is ported from the Atlas destination files and cited to the sources those files already name (IATA Timatic, Numbeo, UN Tourism, GSAIR). Forthcoming cities in cities.json render a designed empty state until a listing pack exists. We do not print a filesystem path as the user-facing message.",
+      "City hubs are written from the listing pack only: districts, brands, operator groups, filed USD medians, kitchens and minimum stays when those fields exist on the rows. A published market with no filed residences renders an empty register. We do not invent travel-guide copy to fill the page.",
       "Corrections: editorial@saparts.com. Verified corrections are applied to the next pack import.",
     ],
   },
@@ -73,16 +73,16 @@ export const INSIGHTS: Insight[] = [
   {
     slug: "city-guides-how-we-read-a-market",
     title: "How We Read a City — Atlas Dossiers",
-    dek: "Each launch city is a dossier: brief, living guide, checklist, and the register. Forthcoming markets stay empty on purpose.",
+    dek: "Each published market is a register brief: districts, operators, and filed facts from the listing pack. Empty registers stay empty on purpose.",
     category: "City Guides",
     readMinutes: 6,
     featured: false,
     publishedAt: "2026-03-28",
     body: [
-      "A city hub is not a gallery of the first six photographs we found. It is a working dossier: the editor’s brief (from destination notes), destination statistics with sources, visa and connectivity, a city checklist, then the register of residences actually filed for that slug.",
-      "Launch cities in the current packs are Hong Kong, London, New York, Paris, Singapore, Dubai, and Tokyo. Forthcoming stubs — Sydney, Melbourne, Shanghai, Seoul, Amsterdam, Berlin, Los Angeles, Toronto — keep the same page chrome and a designed empty state. Destination intelligence still renders when the Atlas files have a match.",
+      "A city hub is not a gallery of the first six photographs we found. It is a register brief: how many residences are filed, which brands and operator groups appear, which districts hold the deepest stock, and whether a monthly USD figure or a minimum stay is on the rows.",
+      "The live register is every market in the city pack. A city hub stays empty only when no residences are filed for that slug. We do not reprint tourist checklists, tipping notes, or restaurant advice.",
       "Counts on the Atlas index are live: they are the length of each city JSON after dropping unpublished rows. Two New York rows that were dead (aka-united-nations, sonder-battery-park) are not in the pack.",
-      "If you need a market that is not yet launched, the concierge widget will take the brief. It is UI-only until an LLM key is connected; the Contact page remains the reliable path.",
+      "If you need a market that is not in the register, the concierge widget will take the brief. It is UI-only until an LLM key is connected; the Contact page remains the reliable path.",
     ],
   },
 ];

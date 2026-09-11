@@ -9,7 +9,7 @@ export default function NotFound() {
           This folio is not in the <em>register.</em>
         </h1>
         <p className="mt-6 font-serif text-[1.15rem] text-muted-foreground leading-relaxed">
-          The page may have moved, the listing has left the pack, or the city is still forthcoming. We will not invent a destination to fill the gap.
+          The page may have moved, or the listing has left the pack. We will not invent a destination to fill the gap.
         </p>
         <div className="mt-10 flex flex-wrap gap-3">
           <Link href="/" className="btn-primary">Return home</Link>

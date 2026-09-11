@@ -71,9 +71,9 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
         </div>
       </section>
       <section className="hairline-bottom">
-        <div className="container py-12 lg:py-16">
+        <div className="container py-8 sm:py-12 lg:py-16">
           <span className="section-mark">§ 02</span>
-          <h1 className="display text-[3rem] sm:text-[4.2rem] mt-5">
+          <h1 className="display text-[2rem] sm:text-[3rem] md:text-[4.2rem] mt-5">
             The directory, <em>filtered.</em>
           </h1>
           <p className="mt-5 font-serif text-[1.1rem] text-muted-foreground max-w-2xl">
@@ -106,7 +106,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
               <Link href="/cities" className="btn-ghost mt-6">Open the atlas ↗︎</Link>
             </div>
           ) : (
-            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
+            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-6 sm:gap-x-6 sm:gap-y-10">
               {items.map((listing) => (
                 <PropertyCard key={listing.slug} listing={listing} city={getCity(listing.citySlug)} />
               ))}

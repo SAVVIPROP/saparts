@@ -60,7 +60,7 @@ export function CitiesClient({ rows }: { rows: Row[] }) {
                     <div className="col-span-1 row-rank">{String(i + 1).padStart(2, "0")}</div>
                     <div className="col-span-4 min-w-0">
                       <div className="font-serif text-[1.4rem] leading-tight group-hover:text-forest">{c.name}</div>
-                      <div className="tracker-muted mt-0.5">{c.country}{!c.launch ? " · Forthcoming" : ""}</div>
+                      <div className="tracker-muted mt-0.5">{c.country}{c.count === 0 ? " · Empty register" : ""}</div>
                     </div>
                     <div className="col-span-3 tracker">{c.region}</div>
                     <div className="col-span-2 text-right font-mono">{c.count}</div>
@@ -96,7 +96,7 @@ export function CitiesClient({ rows }: { rows: Row[] }) {
                   </div>
                   <div className="pt-4">
                     <div className="font-serif text-[1.6rem] leading-tight group-hover:text-forest">{c.name}</div>
-                    <div className="tracker-muted mt-1">{c.country}{!c.launch ? " · Forthcoming" : ""}</div>
+                    <div className="tracker-muted mt-1">{c.country}{c.count === 0 ? " · Empty register" : ""}</div>
                     <div className="hairline-top mt-3 pt-3 grid grid-cols-3 gap-2">
                       <div>
                         <div className="tracker-muted">Indexed</div>
@@ -108,7 +108,7 @@ export function CitiesClient({ rows }: { rows: Row[] }) {
                       </div>
                       <div>
                         <div className="tracker-muted">Status</div>
-                        <div className="mt-0.5 font-mono text-[0.95rem]">{c.launch ? "Live" : "Soon"}</div>
+                        <div className="mt-0.5 font-mono text-[0.95rem]">{c.count > 0 ? "Live" : "Empty"}</div>
                       </div>
                     </div>
                   </div>

@@ -28,14 +28,14 @@ const GUIDES = [
     category: "Checklist",
     title: "Thirty questions before you book",
     summary: "Lease terms, utilities, internet, laundry, storage, and the questions most travellers forget.",
-    body: "Minimum stay, what the monthly rate includes, whether the kitchen is a kitchen, laundry in-unit or downstairs, desk and chair, pet policy, early check-in, and who holds the keys at 22:00. City dossiers carry visa and SIM notes.",
+    body: "Minimum stay, what the monthly rate includes, whether the kitchen is a kitchen, laundry in-unit or downstairs, desk and chair, pet policy, early check-in, and who holds the keys at 22:00. City hubs list those facts only when the listing pack files them.",
   },
   {
     id: "family",
     category: "Family",
     title: "Choosing a residence for relocation",
     summary: "School proximity, safety, space, and the domestic infrastructure that makes family stays work.",
-    body: "Two-bed and larger units, laundry, and a neighbourhood you can walk. Filter the directory by unit type, then open the city living guide for schools-adjacent districts only when the source file names them.",
+    body: "Two-bed and larger units, laundry, and a neighbourhood you can walk. Filter the directory by unit type, then open the city register for the districts actually filed in that pack.",
   },
 ];
 
@@ -82,9 +82,9 @@ export default function ResourcesPage() {
       <section id="visa" className="hairline-bottom">
         <div className="container py-12 lg:py-16">
           <div className="tracker-muted mb-3">Visa & entry</div>
-          <h2 className="display text-[2rem]">Open the city dossier.</h2>
+          <h2 className="display text-[2rem]">Open the city register.</h2>
           <p className="mt-3 text-muted-foreground max-w-2xl leading-relaxed">
-            Visa notes live on each launch-city living guide, cited to the destination files (IATA Timatic and the Atlas checklists). We do not reprint a global visa table here.
+            City hubs list districts, brands, operators, and filed stay facts from the listing pack. We do not reprint a global visa table or a travel checklist here.
           </p>
           <div className="mt-6 flex flex-wrap gap-2">
             {cities.map((c) => (
